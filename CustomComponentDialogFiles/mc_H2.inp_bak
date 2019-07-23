@@ -1,0 +1,10 @@
+page("TeklaStructures","")
+{
+   macro(1, "mc_H2")
+   {
+       tab_page("", " ֿאנאלוענû 1 ", 1)
+       {
+           parameter("ראיבû", "P1", YesNo, number, 1)
+       }
+   }
+}

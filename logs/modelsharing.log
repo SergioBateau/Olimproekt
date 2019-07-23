@@ -156,3 +156,31 @@
 [2019-07-23T18:10:43Z] Model sharing key not found in directory: C:\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\.
 [2019-07-23T18:10:44Z] *** Save Model ***
 [2019-07-23T18:10:45Z] *** Save Library ***
+[2019-07-23T19:02:04Z] *** Open Library ***
+[2019-07-23T19:02:04Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-07-23T19:02:05Z] *** Open Model ***
+[2019-07-23T19:02:05Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-07-23T19:02:10Z] Model sharing key not found in directory: C:\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\.
+[2019-07-23T19:14:34Z] *** Save Model ***
+[2019-07-23T19:14:35Z] *** Save Library ***
+[2019-07-23T19:15:19Z] *** Open Library ***
+[2019-07-23T19:15:19Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-07-23T19:15:19Z] *** Open Model ***
+[2019-07-23T19:15:19Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-07-23T19:15:26Z] Model sharing key not found in directory: C:\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\.
+[2019-07-23T19:20:00Z] *** Save Model ***
+[2019-07-23T19:20:00Z] *** Save Library ***
+[2019-07-23T19:20:05Z] *** Save Model ***
+[2019-07-23T19:20:05Z] *** Save Library ***
+[2019-07-23T19:56:21Z] *** Save Model ***
+[2019-07-23T19:56:22Z] *** Save Library ***
+[2019-07-23T20:17:55Z] *** Save Model ***
+[2019-07-23T20:17:55Z] *** Save Library ***
+[2019-07-23T20:26:07Z] *** Save Model ***
+[2019-07-23T20:26:07Z] *** Save Library ***
+[2019-07-23T20:26:08Z] *** Save Model ***
+[2019-07-23T20:26:09Z] *** Save Library ***
+[2019-07-23T20:39:48Z] *** Save Model ***
+[2019-07-23T20:39:48Z] *** Save Library ***
+[2019-07-23T20:50:09Z] *** Save Model ***
+[2019-07-23T20:50:09Z] *** Save Library ***

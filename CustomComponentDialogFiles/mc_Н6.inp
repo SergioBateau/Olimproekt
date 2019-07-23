@@ -1,0 +1,10 @@
+page("TeklaStructures","")
+{
+   macro(1, "mc_Н6")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+           parameter("Шайба справа/слева", "P1", YesNo, number, 1)
+       }
+   }
+}

@@ -1,0 +1,9 @@
+page("TeklaStructures","")
+{
+   macro(1, "mc_Н3")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+       }
+   }
+}
