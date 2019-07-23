@@ -1,0 +1,11 @@
+page("TeklaStructures","")
+{
+   detail(1, "mc_БП узел2")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+           parameter("верх", "P1", YesNo, number, 1)
+           parameter("низ", "P2", YesNo, number, 2)
+       }
+   }
+}

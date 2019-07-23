@@ -1,0 +1,9 @@
+page("TeklaStructures","")
+{
+   detail(1, "mc_БМ узел г")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+       }
+   }
+}

@@ -1,0 +1,2 @@
+ASSERT: 23.07.2019 22:40:17 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ASSERT: 23.07.2019 23:07:52 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
