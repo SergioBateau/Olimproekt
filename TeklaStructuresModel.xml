@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>Олимпроект(ФОК)</Name>
+        <Designer></Designer>
+        <Description></Description>
+        <Version>2017 Service Pack 6</Version>
+        <Language>rus</Language>
+        <Template></Template>
+        <Environment>russia</Environment>
+        <IsTemplate>FALSE</IsTemplate>
+        <XS_PROJECT></XS_PROJECT>
+        <XS_FIRM>C:\TeklaStructuresModels\TEKLA</XS_FIRM>
+        <XS_SYSTEM>C:\ProgramData\Tekla Structures\2017\\environments\russia\system\steel_detailer\;C:\ProgramData\Tekla Structures\2017\\environments\russia\system\;C:\ProgramData\Tekla Structures\2017\\environments\common\system\;C:\ProgramData\Tekla Structures\2017\\envi</XS_SYSTEM>
+    </Model>
+</TeklaStructuresModels>
