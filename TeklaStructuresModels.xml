@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>base</Name>
+        <Designer></Designer>
+        <Description></Description>
+        <Version></Version>
+        <Environment></Environment>
+        <Language></Language>
+    </Model>
+    <Model>
+        <Name>test-Tekla-sergei</Name>
+        <Designer></Designer>
+        <Description></Description>
+        <Version></Version>
+        <Environment></Environment>
+        <Language></Language>
+    </Model>
+    <Model>
+        <Name>Пример</Name>
+        <Designer></Designer>
+        <Description></Description>
+        <Version></Version>
+        <Environment></Environment>
+        <Language></Language>
+    </Model>
+    <Model>
+        <Name>Олимпроект(ФОК)</Name>
+        <Designer></Designer>
+        <Description></Description>
+        <Version>2017 Service Pack 6</Version>
+        <Environment>russia</Environment>
+        <Language>rus</Language>
+    </Model>
+</TeklaStructuresModels>

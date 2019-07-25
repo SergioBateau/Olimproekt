@@ -1,10 +1,9 @@
 page("TeklaStructures","")
 {
-   macro(1, "mc_Н6")
+   joint(1, "mc_Стык ферм верхний пояс ФС2")
    {
        tab_page("", " Параметры 1 ", 1)
        {
-           parameter("Шайба справа/слева", "P1", YesNo, number, 1)
        }
    }
 }
