@@ -1,0 +1,32 @@
+ERROR:  25.07.2019 20:58:45 Timeid 3707668 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 25.07.2019 20:58:45 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  25.07.2019 20:58:45 Timeid 3707668 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 25.07.2019 20:58:45 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  25.07.2019 20:58:45 Timeid 3707642 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 25.07.2019 20:58:45 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  25.07.2019 20:58:45 Timeid 3707642 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 25.07.2019 20:58:45 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5946815 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5946815 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5946789 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5946789 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5946445 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5946445 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5946419 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5946419 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5945596 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5945596 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5945570 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  26.07.2019 00:25:09 Timeid 5945570 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 26.07.2019 00:25:09 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
