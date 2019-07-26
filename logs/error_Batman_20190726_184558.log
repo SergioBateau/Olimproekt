@@ -1,0 +1,3 @@
+ERROR:  26.07.2019 21:20:24 Timeid 7959157 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 26.07.2019 21:20:24 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ASSERT: 27.07.2019 00:16:27 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
