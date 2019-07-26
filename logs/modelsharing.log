@@ -828,3 +828,8 @@
 [2019-07-25T21:41:37Z] EnvDrawingOptions@1 write out baseline DumpRead@26.07.2019 00:41:23/7f312f5b-6fd7-9e4d-a43d-14de24f0bf61
 [2019-07-25T21:41:37Z] EnvDrawingOptions@1 read in baseline: MasterMergeBaseline@26.07.2019 00:41:37/7f312f5b-6fd7-9e4d-a43d-14de24f0bf61
 [2019-07-25T21:41:37Z] EnvDrawingOptions@1 read in new baseline: /7f312f5b-6fd7-9e4d-a43d-14ee24f0bf61
+[2019-07-26T15:45:59Z] *** Open Library ***
+[2019-07-26T15:45:59Z] Compact callbacks (1 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-07-26T15:46:00Z] *** Open Model ***
+[2019-07-26T15:46:00Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-07-26T15:46:19Z] Model sharing key not found in directory: C:\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\.
