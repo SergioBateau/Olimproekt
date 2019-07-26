@@ -1,0 +1,24 @@
+encoding 1251
+out_file "не грунтовать"
+in_file "standard"
+name_enable 1
+name "Покрытие"
+TypeEnable 1
+Type 4
+finish_enable 1
+finish "UP - Unpainted"
+material_enable 1
+material "Нулевая плотность"
+LastUsedMaterial ""
+profile_enable 1
+profile "PL0.4"
+group_enable 1
+part_group "2"
+CutPartByFatherCutsEnable 1
+CutPartByFatherCuts 1
+more_enable 1
+position_depth_enable 1
+position_depth 1
+value_position_depth 0.000000
+PatternTypeEnable 1
+PatternType "Checkered_Plate"

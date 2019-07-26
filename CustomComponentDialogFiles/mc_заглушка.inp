@@ -4,6 +4,8 @@ page("TeklaStructures","")
    {
        tab_page("", " Параметры 1 ", 1)
        {
+           parameter("Толщина", "P1", distance, number, 1)
+           parameter("D1.Лист.Крайняя верхняя плоскость", "D1", distance, number, 2)
        }
    }
 }
