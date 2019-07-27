@@ -1,8 +1,8 @@
 encoding 1251
 out_file "не грунтовать"
-in_file "standard"
+in_file "не грунтовать"
 name_enable 1
-name "Покрытие"
+name "См. п.1"
 TypeEnable 1
 Type 4
 finish_enable 1

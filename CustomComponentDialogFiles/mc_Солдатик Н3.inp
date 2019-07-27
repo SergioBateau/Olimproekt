@@ -1,0 +1,10 @@
+page("TeklaStructures","")
+{
+   macro(1, "mc_Солдатик Н3")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+           parameter("0/20мм", "P1", distance, number, 1)
+       }
+   }
+}
