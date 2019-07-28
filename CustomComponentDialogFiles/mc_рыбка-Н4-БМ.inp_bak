@@ -1,0 +1,9 @@
+page("TeklaStructures","")
+{
+   joint(1, "mc_рыбка-Н4-БМ")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+       }
+   }
+}

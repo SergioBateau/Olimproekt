@@ -1,0 +1,2 @@
+ERROR:  28.07.2019 01:47:54 Timeid 13307552 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 28.07.2019 01:47:54 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
