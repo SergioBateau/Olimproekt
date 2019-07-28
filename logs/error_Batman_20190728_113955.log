@@ -1,0 +1,10 @@
+ERROR:  28.07.2019 15:44:13 Could not find UI name for plugin named Балка
+ERROR:  28.07.2019 15:44:13 Could not find UI name for plugin named Балка
+ERROR:  28.07.2019 15:44:13 Could not find UI name for plugin named Балка
+ERROR:  28.07.2019 15:44:14 Could not find UI name for plugin named Балка
+ASSERT: 28.07.2019 18:43:05 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 28.07.2019 18:43:05 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 28.07.2019 18:43:05 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 28.07.2019 18:43:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 28.07.2019 18:43:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 28.07.2019 18:43:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
