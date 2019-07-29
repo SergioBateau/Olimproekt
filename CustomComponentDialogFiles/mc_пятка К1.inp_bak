@@ -1,0 +1,9 @@
+page("TeklaStructures","")
+{
+   detail(1, "mc_пятка К1")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+       }
+   }
+}

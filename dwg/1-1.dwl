@@ -1,3 +1,0 @@
-Batman
-LAPTOP-9OAOPCSD 
-28 июля 2019 г.  19:48:16
