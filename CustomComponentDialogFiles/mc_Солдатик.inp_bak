@@ -1,0 +1,10 @@
+page("TeklaStructures","")
+{
+   detail(1, "mc_Солдатик")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+           parameter("Высота", "D3", distance, number, 1)
+       }
+   }
+}

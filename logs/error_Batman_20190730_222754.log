@@ -1,0 +1,3 @@
+ASSERT: 30.07.2019 23:14:07 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ERROR:  31.07.2019 02:31:49 Could not find UI name for plugin named Балка
+ERROR:  31.07.2019 02:31:50 Could not find UI name for plugin named Балка
