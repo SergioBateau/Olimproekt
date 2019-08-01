@@ -1,0 +1,9 @@
+Id           | Object type | Inconsistency                            | Type
+-------------------------------------------------------------------------------------------------
+Id: 32974878 | Joint       | Empty component                          | Recoverable -> corrected
+Id: 33249629 | Assembly    | Missing or invalid assembly main object  | Recoverable -> corrected
+Id: 33249569 | Assembly    | Missing or invalid assembly main object  | Recoverable -> corrected
+1398 not used attributes deleted
+8497 unnecessary points deleted
+-------------------------------------------------------------------------------------------------
+Total 3 inconsistencies
