@@ -1,0 +1,445 @@
+
+
+
+
+
+
+  <head>
+
+  <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1251">
+
+  <title>Ведомость отправочных марок</title>
+
+  </head>
+
+  <body>
+
+  <TABLE  ALIGN="CENTER"   style="border-collapse:collapse; font-family: GOST type A, Graitec I, ISOCPEUR, Arial, sans-serif" table border="1" cellspacing="0" width="800">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th colspan="12">115/16-ГК-КМ2             </th>
+
+  </TR>
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th colspan="12">Приложение 2. Ведомость отправочных марок  </th>
+
+  </TR>
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th rowspan="2" width="6%"> Отпр. марка           </th>
+
+  <th rowspan="2" width="6%"> № листа               </th>
+
+  <th rowspan="2" width="14%">Наименование          </th>
+
+  <th rowspan="2" width="5%"> Кол-во шт.            </th>
+
+  <th colspan="3" width="24%">Габариты, мм          </th>
+
+  <th colspan="2" width="20%">Вес, кг               </th>
+
+  <th colspan="2" width="18%">Площадь м.кв          </th>
+
+  <th rowspan="2">            Примечание            </th>
+
+  </TR>
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th width="8%">             L                     </th>
+
+  <th width="8%">             H                     </th>
+
+  <th>                        W                     </th>
+
+  <th width="10%">            шт.                   </th>
+
+  <th>                        всех                  </th>
+
+  <th width="8%">             шт.                   </th>
+
+  <th>                        всех                  </th>
+
+  </TR>
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-1                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 1010                              </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 177.2                             </td>
+
+  <td> 177.2                             </td>
+
+  <td> 2.891                             </td>
+
+  <td> 2.891                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-2                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 810                               </td>
+
+  <td> 588                               </td>
+
+  <td> 402                               </td>
+
+  <td> 157.2                             </td>
+
+  <td> 157.2                             </td>
+
+  <td> 2.556                             </td>
+
+  <td> 2.556                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-3                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 1010                              </td>
+
+  <td> 588                               </td>
+
+  <td> 402                               </td>
+
+  <td> 179.3                             </td>
+
+  <td> 179.3                             </td>
+
+  <td> 2.968                             </td>
+
+  <td> 2.968                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-4                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 810                               </td>
+
+  <td> 588                               </td>
+
+  <td> 402                               </td>
+
+  <td> 157.2                             </td>
+
+  <td> 157.2                             </td>
+
+  <td> 2.556                             </td>
+
+  <td> 2.556                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-5                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 1010                              </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 188.6                             </td>
+
+  <td> 188.6                             </td>
+
+  <td> 3.014                             </td>
+
+  <td> 3.014                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-6                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 8                                 </td>
+
+  <td> 790                               </td>
+
+  <td> 588                               </td>
+
+  <td> 402                               </td>
+
+  <td> 155.0                             </td>
+
+  <td> 1240.0                            </td>
+
+  <td> 2.515                             </td>
+
+  <td> 20.123                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-7                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 650                               </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 160.0                             </td>
+
+  <td> 160.0                             </td>
+
+  <td> 2.495                             </td>
+
+  <td> 2.495                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-8                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 2                                 </td>
+
+  <td> 650                               </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 160.1                             </td>
+
+  <td> 320.2                             </td>
+
+  <td> 2.495                             </td>
+
+  <td> 4.990                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-9                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 650                               </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 160.1                             </td>
+
+  <td> 160.1                             </td>
+
+  <td> 2.495                             </td>
+
+  <td> 2.495                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Ш-1                               </td>
+
+  <td>                                   </td>
+
+  <td> Шайба                             </td>
+
+  <td> 34                                </td>
+
+  <td> 50                                </td>
+
+  <td> 50                                </td>
+
+  <td> 10                                </td>
+
+  <td> 0.2                               </td>
+
+  <td> 6.8                               </td>
+
+  <td> 0.007                             </td>
+
+  <td> 0.238                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Ш-2                               </td>
+
+  <td>                                   </td>
+
+  <td> Шайба                             </td>
+
+  <td> 68                                </td>
+
+  <td> 80                                </td>
+
+  <td> 80                                </td>
+
+  <td> 20                                </td>
+
+  <td> 1.0                               </td>
+
+  <td> 68.0                              </td>
+
+  <td> 0.019                             </td>
+
+  <td> 1.306                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td colspan="8" align="right">Итого:   </td>
+
+ <td> 2814.6                            </td>
+
+ <td>                                   </td>
+
+ <td> 45.632                            </td>
+
+ <td>                                   </td>
+
+ </TR>
+
+ </TABLE>
+
+ </body>
+
+ </html>
+
+

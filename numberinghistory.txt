@@ -5654,3 +5654,237 @@ Assembly numbering done in 0s
 Numbering 16 assemblies or assembly families
 Family numbering done in 0s
 *** Operation finished Thu Aug 01 22:11:34 2019
+
+*** Numbering (Batman): Thu Aug 01 23:29:10 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 292 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 16 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 16 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Thu Aug 01 23:29:10 2019
+
+*** Numbering (Batman): Thu Aug 01 23:41:34 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 240 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 9 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 9 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Thu Aug 01 23:41:34 2019
+
+*** Numbering (Batman): Fri Aug 02 00:17:03 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 248 parts.
+Part    guid: ID64211A7D-D75E-4028-8313-566469637C75  series:/1  /62 -> /178
+Part    guid: ID06201131-3777-4118-A71D-FB9FB9297D98  series:/1  /58 -> /95
+Part    guid: ID18372413-2C6D-4BF6-A2DD-8CF8493E7138  series:/1  /58 -> /95
+Part    guid: ID61CB20A4-B1FF-44BB-83CC-CDEDAA084394  series:/1  /91 -> /181
+Part    guid: ID2AC77434-5984-4772-B344-785B1205093A  series:/1  /91 -> /181
+Part    guid: ID9EA5D9A6-581C-4EB8-8AFE-2F7F8B7FA6E7  series:/1  /91 -> /181
+Part    guid: IDA0836CC5-AC6D-4987-82B5-596938235D6D  series:/1  /91 -> /181
+Part    guid: ID31DBC425-D894-4CD1-9736-C06A92C3F947  series:/1  /62 -> /178
+Part    guid: ID8C3286F0-4374-4D4E-931D-2632D80D170C  series:/1  /97 -> /96
+Part    guid: ID6A3C2DC4-D77E-48DE-9BBB-B542FA88B755  series:/1  /97 -> /96
+Part    guid: IDE9DDB4F6-4010-4947-AF2A-9F2E790B69A7  series:/1  /97 -> /96
+Part    guid: ID4CEBE5AA-7DF5-4A44-A649-EC7533F38F1F  series:/1  /97 -> /96
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 9 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 9 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 00:17:03 2019
+
+*** Numbering (Batman): Fri Aug 02 00:18:18 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 241 parts.
+Part    guid: ID64211A7D-D75E-4028-8313-566469637C75  series:/1  /178 -> /62
+Part    guid: ID31DBC425-D894-4CD1-9736-C06A92C3F947  series:/1  /178 -> /62
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 9 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 9 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 00:18:18 2019
+
+*** Numbering (Batman): Fri Aug 02 00:20:28 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 242 parts.
+Part    guid: ID5885B59D-0C42-4A53-A041-1014A8D6A62F  series:/1  /91 -> /182
+Part    guid: ID4E62D93B-1817-4AE9-8A2E-48B5C559AC20  series:/1  /58 -> /178
+Part    guid: IDC5FCD8CD-9B82-4455-8115-13E05EBFD9BC  series:/1  /91 -> /182
+Part    guid: ID1E331094-F399-411F-859A-4D0012179453  series:/1  /97 -> /183
+Part    guid: ID4A223BE3-A9A7-4D2C-8283-710AF674CB09  series:/1  /97 -> /183
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 9 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 9 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 00:20:28 2019
+
+*** Numbering (Batman): Fri Aug 02 00:21:06 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 242 parts.
+Part    guid: ID5885B59D-0C42-4A53-A041-1014A8D6A62F  series:/1  /182 -> /181
+Part    guid: ID4E62D93B-1817-4AE9-8A2E-48B5C559AC20  series:/1  /178 -> /95
+Part    guid: IDC5FCD8CD-9B82-4455-8115-13E05EBFD9BC  series:/1  /182 -> /181
+Part    guid: ID1E331094-F399-411F-859A-4D0012179453  series:/1  /183 -> /96
+Part    guid: ID4A223BE3-A9A7-4D2C-8283-710AF674CB09  series:/1  /183 -> /96
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 9 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 9 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 00:21:06 2019
+
+*** Numbering (Batman): Fri Aug 02 01:12:55 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 214 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 35 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 35 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 01:12:55 2019

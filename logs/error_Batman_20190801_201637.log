@@ -1,0 +1,72 @@
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:19:34 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ASSERT: 01.08.2019 20:21:44 REASON: (nullptr != dynamic_cast<db_common_object_t *>(pObject)), File: db_object.cpp, Line: 819
+ERROR:  01.08.2019 20:43:44 Timeid 33613356 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 01.08.2019 20:43:44 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  01.08.2019 20:43:44 Timeid 33613356 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 01.08.2019 20:43:44 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  01.08.2019 20:43:44 Timeid 33610879 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 01.08.2019 20:43:44 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  01.08.2019 20:43:44 Timeid 33610879 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - solid)
+ASSERT: 01.08.2019 20:43:44 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ASSERT: 01.08.2019 23:21:06 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:21:06 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:21:08 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:21:08 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:21:10 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:21:10 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:21:15 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:21:15 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:21:17 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:21:17 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:21:19 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:21:19 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:21:21 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:21:21 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:21:22 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:21:22 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:34:04 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:34:04 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:34:06 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:34:06 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:34:08 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:34:08 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:34:10 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:34:10 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:34:11 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:34:11 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:34:13 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:34:13 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:34:14 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:34:14 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 01.08.2019 23:34:16 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 01.08.2019 23:34:16 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21

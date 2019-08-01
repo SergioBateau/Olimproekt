@@ -1,5 +1,5 @@
 
-*** Numbering (Batman): Thu Aug 01 22:11:33 2019
+*** Numbering (Batman): Fri Aug 02 01:12:55 2019
   Modified numbering for selected series
   Compare modified to old parts
   Compare new to old parts
@@ -19,35 +19,11 @@
   ConcreteTolerance: 2.000000
   RebarTolerance: 2.000000
   WeldSeamPropertyTolerance: 0.000000
-Numbering 314 parts.
-Part    guid: ID045C27AF-F9BC-402E-902E-7EA37E687A63  series:/1  /178 -> /95
-Part    guid: IDE9217F12-8D55-45CE-B5AA-2969F01C88A8  series:/1  /178 -> /95
-Part    guid: ID243994A8-A6C8-4D2D-8545-4681C6CBDA61  series:/1  /178 -> /95
-Part    guid: ID3864FA04-A077-46F4-B463-1050B6555731  series:/1  /178 -> /95
-Part    guid: ID9E7CF0D1-39BA-42BB-A46B-038ED5934509  series:/1  /178 -> /95
-Part    guid: ID6C882633-27D6-4527-A21F-2B3F59F1E626  series:/1  /178 -> /95
-Part    guid: IDF3F0D625-2DB9-44A2-A399-252709EF28C7  series:/1  /178 -> /95
-Part    guid: IDC3928970-8B94-4E32-A631-7A45FB80E277  series:/1  /178 -> /95
-Part    guid: ID5AC6C400-8BDF-4370-B5A6-B0014B0E4FF3  series:/1  /0 -> /96
-Part    guid: ID624CBC9D-A210-499B-9C9B-C4D9829EC99D  series:/1  /0 -> /96
-Part    guid: ID856A2873-BFC1-408C-A59B-B2EDC07C0027  series:/1  /0 -> /96
-Part    guid: ID1947355F-1544-4B37-956A-6DFA0EFA0343  series:/1  /0 -> /96
-Part    guid: ID930BCFFE-AC46-48C0-A7E6-01C16CEC6BF1  series:/1  /0 -> /96
-Part    guid: ID282DB0F6-0DFC-43A7-96E2-7F4E8CF5FA59  series:/1  /0 -> /96
-Part    guid: ID964A1AAF-874C-4236-84AA-AB14E3A69C1E  series:/1  /0 -> /96
-Part    guid: IDC90BCE97-7DF5-4EC7-B8F9-3C766733DC12  series:/1  /0 -> /96
-Part    guid: IDB69C1E66-663E-4DAE-8690-91E63C95F5F9  series:/1  /0 -> /96
-Part    guid: ID55E05EFB-4A07-4207-97BB-0C1E987F1649  series:/1  /0 -> /96
-Part    guid: ID540CD74F-AC02-4991-B458-C89B257D4A12  series:/1  /0 -> /96
-Part    guid: ID4B44F11A-5E01-4674-B4A7-62E8F5A77477  series:/1  /0 -> /96
-Part    guid: IDFC20B9C3-6906-47CD-B443-61E6688143DB  series:/1  /0 -> /96
-Part    guid: ID1C5C7C49-2BDA-46B4-B8B0-E446676C694B  series:/1  /0 -> /96
-Part    guid: IDEABB4D8F-3CEB-4F45-9CE4-084A19CA702A  series:/1  /0 -> /96
-Part    guid: ID2D2F692E-46EB-4E07-B029-7DC6234BE906  series:/1  /0 -> /96
+Numbering 214 parts.
 Part numbering done in 0s
 Numbering 0 reinforcing bars
 Reinforcing bar numbering done in 0s
-Numbering 16 assemblies or assembly families
+Numbering 35 assemblies or assembly families
 Assembly numbering done in 0s
-Numbering 16 assemblies or assembly families
+Numbering 35 assemblies or assembly families
 Family numbering done in 0s
