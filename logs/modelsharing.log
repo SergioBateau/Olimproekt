@@ -2669,3 +2669,94 @@
 [2019-08-01T23:23:23Z] *** Save Model ***
 [2019-08-01T23:23:23Z] *** Save Library ***
 [2019-08-01T23:23:30Z] Model sharing key not found in directory: C:\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\.
+[2019-08-02T00:22:50Z] *** Save Model ***
+[2019-08-02T00:22:51Z] *** Save Library ***
+[2019-08-02T00:38:24Z] *** Save Model ***
+[2019-08-02T00:38:25Z] *** Save Library ***
+[2019-08-02T00:52:45Z] *** Save Model ***
+[2019-08-02T00:52:45Z] *** Save Library ***
+[2019-08-02T00:58:19Z] *** Open MasterModel ***
+[2019-08-02T00:58:20Z] Compact callbacks (517 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) UpdateVirtualBarGeometryCacheIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(2 ms) srchUpdateSearchTreeAfterCompactingCB(1 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(12 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(250 ms) cmContinuousMaterialModelContext_c(0 ms) SketchRepository_c(0 ms) UpdateVirtualBarRawDataCacheIdsAfterCompactingCB(0 ms) PourObserver_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ResetDrawingListAfterIdCompacting(252 ms) SketchRepository_c(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) cmContinuousMaterialObserver_c(0 ms) pour::PourModelContext_c(0 ms) pbgPourBreakGeometryObserver_c(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) UpdateCurrentUserIdAfterCompactingCB(0 ms) SketchNameIDCache_c(0 ms) 
+[2019-08-02T00:58:21Z] *** Save MasterModel ***
+[2019-08-02T00:58:21Z] *** Open MasterLibrary ***
+[2019-08-02T00:58:21Z] Compact callbacks (24 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(23 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchRepository_c(1 ms) SketchNameIDCache_c(0 ms) 
+[2019-08-02T00:58:21Z] *** Save MasterLibrary ***
+[2019-08-02T00:58:21Z] Environment@1 write out baseline DumpRead@02.08.2019 02:23:18/c53a0adc-ab8f-7d4b-943c-534c98fd93af
+[2019-08-02T00:58:21Z] Environment@1 read in baseline: MasterMergeBaseline@02.08.2019 03:58:21/c53a0adc-ab8f-7d4b-943c-534c98fd93af
+[2019-08-02T00:58:21Z] Environment@1 read in new baseline: /c53a0adc-ab8f-7d4b-943c-537498fd93af
+[2019-08-02T00:58:21Z] EnvModelOptions@1 write out baseline DumpRead@02.08.2019 02:23:18/52972d8f-f129-cb4c-8cee-cea0c6dd52b9
+[2019-08-02T00:58:21Z] EnvModelOptions@1 read in baseline: MasterMergeBaseline@02.08.2019 03:58:21/52972d8f-f129-cb4c-8cee-cea0c6dd52b9
+[2019-08-02T00:58:21Z] EnvModelOptions@1 read in new baseline: /52972d8f-f129-cb4c-8cee-cec8c6dd52b9
+[2019-08-02T00:58:21Z] EnvDrawingOptions@1 write out baseline DumpRead@02.08.2019 02:23:18/08ca6a43-3a3e-1044-83ac-c410e16371d2
+[2019-08-02T00:58:21Z] EnvDrawingOptions@1 read in baseline: MasterMergeBaseline@02.08.2019 03:58:21/08ca6a43-3a3e-1044-83ac-c410e16371d2
+[2019-08-02T00:58:21Z] EnvDrawingOptions@1 read in new baseline: /08ca6a43-3a3e-1044-83ac-c438e16371d2
+[2019-08-02T00:58:22Z] *** Open Library ***
+[2019-08-02T00:58:22Z] Compact callbacks (39 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(39 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2019-08-02T00:58:22Z] *** Open Model ***
+[2019-08-02T00:58:22Z] Compact callbacks (445 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(226 ms) SketchRepository_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ResetDrawingListAfterIdCompacting(219 ms) ReferenceGraphIdsCompactedCallback(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) SketchNameIDCache_c(0 ms) 
+[2019-08-02T00:58:25Z] *** Save Model ***
+[2019-08-02T00:58:25Z] *** Save Library ***
+[2019-08-02T00:58:32Z] Model sharing key not found in directory: C:\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\.
+[2019-08-02T01:14:10Z] *** Save Model ***
+[2019-08-02T01:14:10Z] *** Save Library ***
+[2019-08-02T01:22:29Z] *** Save Model ***
+[2019-08-02T01:22:30Z] *** Save Library ***
+[2019-08-02T01:27:40Z] *** Open MasterModel ***
+[2019-08-02T01:27:41Z] Compact callbacks (498 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) UpdateVirtualBarGeometryCacheIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(1 ms) srchUpdateSearchTreeAfterCompactingCB(1 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(6 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(248 ms) cmContinuousMaterialModelContext_c(0 ms) SketchRepository_c(0 ms) UpdateVirtualBarRawDataCacheIdsAfterCompactingCB(0 ms) PourObserver_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ResetDrawingListAfterIdCompacting(242 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) cmContinuousMaterialObserver_c(0 ms) pour::PourModelContext_c(0 ms) pbgPourBreakGeometryObserver_c(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) UpdateCurrentUserIdAfterCompactingCB(0 ms) 
+[2019-08-02T01:27:41Z] *** Save MasterModel ***
+[2019-08-02T01:27:41Z] *** Open MasterLibrary ***
+[2019-08-02T01:27:41Z] Compact callbacks (21 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(21 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) SketchRepository_c(0 ms) 
+[2019-08-02T01:27:41Z] *** Save MasterLibrary ***
+[2019-08-02T01:27:42Z] Environment@1 write out baseline DumpRead@02.08.2019 03:58:21/14b91b6c-47fd-614d-8883-789df415deaa
+[2019-08-02T01:27:42Z] Environment@1 read in baseline: MasterMergeBaseline@02.08.2019 04:27:42/14b91b6c-47fd-614d-8883-789df415deaa
+[2019-08-02T01:27:42Z] Environment@1 read in new baseline: /14b91b6c-47fd-614d-8883-78bdf415deaa
+[2019-08-02T01:27:42Z] EnvModelOptions@1 write out baseline DumpRead@02.08.2019 03:58:21/c586b35c-7c04-1c4d-9ed5-a969a1f865ef
+[2019-08-02T01:27:42Z] EnvModelOptions@1 read in baseline: MasterMergeBaseline@02.08.2019 04:27:42/c586b35c-7c04-1c4d-9ed5-a969a1f865ef
+[2019-08-02T01:27:42Z] EnvModelOptions@1 read in new baseline: /c586b35c-7c04-1c4d-9ed5-a989a1f865ef
+[2019-08-02T01:27:42Z] EnvDrawingOptions@1 write out baseline DumpRead@02.08.2019 03:58:21/d47d8226-6f75-2040-a720-52cf3717db25
+[2019-08-02T01:27:42Z] EnvDrawingOptions@1 read in baseline: MasterMergeBaseline@02.08.2019 04:27:42/d47d8226-6f75-2040-a720-52cf3717db25
+[2019-08-02T01:27:42Z] EnvDrawingOptions@1 read in new baseline: /d47d8226-6f75-2040-a720-52ef3717db25
+[2019-08-02T01:27:42Z] *** Open Library ***
+[2019-08-02T01:27:42Z] Compact callbacks (38 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(38 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2019-08-02T01:27:42Z] *** Open Model ***
+[2019-08-02T01:27:43Z] Compact callbacks (489 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(250 ms) SketchRepository_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ResetDrawingListAfterIdCompacting(239 ms) SketchNameIDCache_c(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) 
+[2019-08-02T01:27:46Z] *** Save Model ***
+[2019-08-02T01:27:46Z] *** Save Library ***
+[2019-08-02T01:27:51Z] Model sharing key not found in directory: C:\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\.
+[2019-08-02T01:36:49Z] *** Open MasterModel ***
+[2019-08-02T01:36:50Z] Compact callbacks (477 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) UpdateVirtualBarGeometryCacheIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(2 ms) srchUpdateSearchTreeAfterCompactingCB(1 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(242 ms) cmContinuousMaterialModelContext_c(0 ms) SketchRepository_c(0 ms) UpdateVirtualBarRawDataCacheIdsAfterCompactingCB(0 ms) PourObserver_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ResetDrawingListAfterIdCompacting(231 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) cmContinuousMaterialObserver_c(0 ms) pour::PourModelContext_c(0 ms) pbgPourBreakGeometryObserver_c(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) UpdateCurrentUserIdAfterCompactingCB(0 ms) 
+[2019-08-02T01:36:50Z] *** Save MasterModel ***
+[2019-08-02T01:36:50Z] *** Open MasterLibrary ***
+[2019-08-02T01:36:51Z] Compact callbacks (19 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(19 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) SketchRepository_c(0 ms) 
+[2019-08-02T01:36:51Z] *** Save MasterLibrary ***
+[2019-08-02T01:36:51Z] Environment@1 write out baseline DumpRead@02.08.2019 04:27:42/9ecb0326-f279-b049-8e3b-8fa6f542952b
+[2019-08-02T01:36:51Z] Environment@1 read in baseline: MasterMergeBaseline@02.08.2019 04:36:51/9ecb0326-f279-b049-8e3b-8fa6f542952b
+[2019-08-02T01:36:51Z] Environment@1 read in new baseline: /9ecb0326-f279-b049-8e3b-8fb6f542952b
+[2019-08-02T01:36:51Z] EnvModelOptions@1 write out baseline DumpRead@02.08.2019 04:27:42/25d4e34b-2cb3-df4d-97b1-62af5a5ec984
+[2019-08-02T01:36:51Z] EnvModelOptions@1 read in baseline: MasterMergeBaseline@02.08.2019 04:36:51/25d4e34b-2cb3-df4d-97b1-62af5a5ec984
+[2019-08-02T01:36:51Z] EnvModelOptions@1 read in new baseline: /25d4e34b-2cb3-df4d-97b1-62bf5a5ec984
+[2019-08-02T01:36:51Z] EnvDrawingOptions@1 write out baseline DumpRead@02.08.2019 04:27:42/cecda503-fb99-7744-ba14-5a0ff7305e7f
+[2019-08-02T01:36:51Z] EnvDrawingOptions@1 read in baseline: MasterMergeBaseline@02.08.2019 04:36:51/cecda503-fb99-7744-ba14-5a0ff7305e7f
+[2019-08-02T01:36:51Z] EnvDrawingOptions@1 read in new baseline: /cecda503-fb99-7744-ba14-5a1ff7305e7f
+[2019-08-02T01:36:51Z] *** Open Library ***
+[2019-08-02T01:36:51Z] Compact callbacks (48 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(48 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) 
+[2019-08-02T01:36:51Z] *** Open Model ***
+[2019-08-02T01:36:52Z] Compact callbacks (517 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(273 ms) SketchRepository_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ResetDrawingListAfterIdCompacting(244 ms) SketchNameIDCache_c(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) 
+[2019-08-02T01:36:55Z] *** Save Model ***
+[2019-08-02T01:36:55Z] *** Save Library ***
+[2019-08-02T01:37:00Z] Model sharing key not found in directory: C:\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\.
+[2019-08-02T01:37:11Z] *** Open MasterModel ***
+[2019-08-02T01:37:12Z] Compact callbacks (656 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) UpdateVirtualBarGeometryCacheIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(2 ms) srchUpdateSearchTreeAfterCompactingCB(2 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(323 ms) cmContinuousMaterialModelContext_c(0 ms) SketchRepository_c(0 ms) UpdateVirtualBarRawDataCacheIdsAfterCompactingCB(0 ms) PourObserver_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ResetDrawingListAfterIdCompacting(328 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) cmContinuousMaterialObserver_c(0 ms) pour::PourModelContext_c(0 ms) pbgPourBreakGeometryObserver_c(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) UpdateCurrentUserIdAfterCompactingCB(0 ms) 
+[2019-08-02T01:37:12Z] *** Save MasterModel ***
+[2019-08-02T01:37:12Z] *** Open MasterLibrary ***
+[2019-08-02T01:37:13Z] Compact callbacks (40 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(40 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchRepository_c(0 ms) SketchNameIDCache_c(0 ms) SketchRepository_c(0 ms) 
+[2019-08-02T01:37:13Z] *** Save MasterLibrary ***
+[2019-08-02T01:37:13Z] Environment@1 write out baseline DumpRead@02.08.2019 04:36:51/0aa5a212-00bb-6447-97fa-5e9d070d3b11
+[2019-08-02T01:37:13Z] Environment@1 read in baseline: MasterMergeBaseline@02.08.2019 04:37:13/0aa5a212-00bb-6447-97fa-5e9d070d3b11
+[2019-08-02T01:37:13Z] Environment@1 read in new baseline: /0aa5a212-00bb-6447-97fa-5ead070d3b11
+[2019-08-02T01:37:13Z] EnvModelOptions@1 write out baseline DumpRead@02.08.2019 04:36:51/87efa789-5c63-7841-982b-1fc1b747ac5f
+[2019-08-02T01:37:13Z] EnvModelOptions@1 read in baseline: MasterMergeBaseline@02.08.2019 04:37:13/87efa789-5c63-7841-982b-1fc1b747ac5f
+[2019-08-02T01:37:13Z] EnvModelOptions@1 read in new baseline: /87efa789-5c63-7841-982b-1fd1b747ac5f
+[2019-08-02T01:37:13Z] EnvDrawingOptions@1 write out baseline DumpRead@02.08.2019 04:36:51/7df15753-3ab7-8f41-82b6-8ba46fd5c5ca
+[2019-08-02T01:37:13Z] EnvDrawingOptions@1 read in baseline: MasterMergeBaseline@02.08.2019 04:37:13/7df15753-3ab7-8f41-82b6-8ba46fd5c5ca
+[2019-08-02T01:37:13Z] EnvDrawingOptions@1 read in new baseline: /7df15753-3ab7-8f41-82b6-8bb46fd5c5ca
