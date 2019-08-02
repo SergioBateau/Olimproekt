@@ -1,0 +1,34 @@
+ASSERT: 02.08.2019 13:39:02 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 02.08.2019 13:39:02 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 02.08.2019 13:57:34 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 02.08.2019 13:57:34 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 02.08.2019 13:57:34 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 02.08.2019 13:57:34 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 02.08.2019 13:57:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 02.08.2019 13:57:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 02.08.2019 13:57:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 02.08.2019 13:57:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 02.08.2019 13:57:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 02.08.2019 13:57:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 02.08.2019 13:57:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 02.08.2019 13:57:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync
+ERROR:  02.08.2019 14:45:11 current planes out of sync

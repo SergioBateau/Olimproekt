@@ -5888,3 +5888,359 @@ Assembly numbering done in 0s
 Numbering 35 assemblies or assembly families
 Family numbering done in 0s
 *** Operation finished Fri Aug 02 01:12:55 2019
+
+*** Numbering (korablev): Fri Aug 02 10:26:20 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 395 parts.
+Part    guid: ID0CC1C2C8-4E93-428A-A983-3AF7626EA046  series:/1  /0 -> /196
+Part    guid: IDD466BAE1-A046-4C73-B644-173C5DAF9A0B  series:/1  /0 -> /183
+Part    guid: ID82967AE7-4FC3-44C9-80A9-3801CF46C19C  series:/1  /0 -> /185
+Part    guid: ID3348B2BB-8D29-4990-B6AE-E4DC90E4BD7E  series:/1  /0 -> /186
+Part    guid: ID8786ACB3-F8A7-4047-AF33-5D482517AF81  series:/1  /0 -> /196
+Part    guid: IDE24DEA47-FE9C-4230-9284-C50EAF0DE5C2  series:/1  /0 -> /183
+Part    guid: IDF2F7BCC8-48D8-4323-A8F1-78B8D9AA31AA  series:/1  /0 -> /186
+Part    guid: IDE6B32903-512F-4749-BBEA-47B4F447A74F  series:/1  /0 -> /185
+Part    guid: IDD60547F9-445B-48A0-BEA0-3B4CC906D7CB  series:/1  /0 -> /196
+Part    guid: IDA5353946-B03F-4E8A-83AB-08FB52CB0D8E  series:/1  /0 -> /183
+Part    guid: ID3B6C3BFF-5E7D-46B6-9780-C3DC5EB57F6F  series:/1  /0 -> /186
+Part    guid: IDB4DC983F-5C8C-4CE6-ACA2-8E2492538EF3  series:/1  /0 -> /185
+Part    guid: ID197A2764-CD26-4CDA-A5C4-E8970D7056E8  series:/1  /0 -> /187
+Part    guid: IDC0A3DB8F-B7CD-42BC-A0E9-0A7E73D72F46  series:/1  /0 -> /183
+Part    guid: ID8F0A1FAC-0653-451E-9AA6-4EA5426D581E  series:/1  /0 -> /186
+Part    guid: IDA4D0985A-E61D-4C7E-911D-7E04070038D1  series:/1  /0 -> /185
+Part    guid: ID4542B723-77E9-4EAF-A2B0-C3A88942DE5C  series:/1  /0 -> /188
+Part    guid: ID17C80AEE-8512-4B73-8A8F-18B46E3C6D54  series:/1  /0 -> /183
+Part    guid: ID8A8D1CB7-DFA0-4AB6-B38F-9EF52963050B  series:/1  /0 -> /188
+Part    guid: IDBD3E9E09-4308-42BA-8026-91815494AB58  series:/1  /0 -> /183
+Part    guid: IDA8CB1E73-1F1D-4FB1-9856-085ED8CF9504  series:/1  /0 -> /188
+Part    guid: ID42AB6F9C-8F58-4E76-8768-7592DF55408D  series:/1  /0 -> /183
+Part    guid: IDF910CAC1-6751-456C-A448-4E62CBFFE613  series:/1  /0 -> /191
+Part    guid: ID74262C87-D058-4D9F-A4ED-8DB4023B289E  series:/1  /0 -> /192
+Part    guid: IDED355D2F-2F51-4980-9D57-B850863854E5  series:/1  /0 -> /193
+Part    guid: IDBD524BF0-27AE-4B50-A3A1-CA69DFCF652B  series:/1  /0 -> /194
+Part    guid: ID29205F6C-2791-4BDB-86C0-C9AE827A9B45  series:/1  /0 -> /189
+Part    guid: IDDBBFFC6C-D5E8-4BA7-971E-2B7E89E29836  series:/1  /0 -> /186
+Part    guid: ID07B41B3B-54EB-44A4-822A-34F7F9DDE962  series:/1  /0 -> /185
+Part    guid: ID27247469-19C6-4E50-9DFB-024A872F44AF  series:/1  /0 -> /190
+Part    guid: ID721DCE13-3B6E-4FCB-BE46-3C201E3E472D  series:/1  /0 -> /186
+Part    guid: ID479631BF-EA94-4764-9957-B1D6F2EDD5B4  series:/1  /0 -> /185
+Part    guid: ID16585C3D-7E67-4F3E-B4B5-0D182B3ABB0B  series:/1  /0 -> /190
+Part    guid: ID39658E7B-4EB1-42B7-BBE3-C32B8003290B  series:/1  /0 -> /186
+Part    guid: ID01B5FB23-615D-4B38-88B3-DC671C9AC4A1  series:/1  /0 -> /185
+Part    guid: IDAB9D21D3-B7CE-4BBC-8A61-D72A01072432  series:/1  /0 -> /184
+Part    guid: ID5303F352-0DBC-4AF1-B4D5-C051A611A1EF  series:/1  /0 -> /184
+Part    guid: ID8E6E9EFD-0F01-4D82-8257-FC54EBE1BC93  series:/1  /0 -> /184
+Part    guid: IDEE041485-6910-4B1D-A9FC-185AFABB8D76  series:/1  /0 -> /184
+Part    guid: ID4607920E-4E3D-46E9-9C6F-567BB5F317EB  series:/1  /0 -> /197
+Part    guid: ID65795952-FF3D-4D40-8308-5C3E5183422C  series:/1  /0 -> /197
+Part    guid: IDE6B6580D-B46F-4742-A6C6-2C633C7E8C93  series:/1  /0 -> /198
+Part    guid: IDD9FCBFCF-3363-4961-952F-DF611B40A2DD  series:/1  /0 -> /182
+Part    guid: IDB033F74C-7CFC-4F8D-8D7F-9432E517185B  series:/1  /0 -> /197
+Part    guid: IDCA701DE6-68A4-47A3-BAF6-CF5A872FBCBA  series:/1  /0 -> /197
+Part    guid: IDF79F1B85-594D-49A8-802A-B91FB9428307  series:/1  /0 -> /198
+Part    guid: ID063B914B-E5AB-4D9B-A114-9A5898E725EA  series:/1  /0 -> /182
+Part    guid: IDC9875C98-8C3F-43D7-87DC-7E28A9F82084  series:/1  /0 -> /197
+Part    guid: ID7B8EEE96-C1AA-4810-A9A3-56887A378AB6  series:/1  /0 -> /197
+Part    guid: ID62CBEFAC-153C-48DC-A8DC-1AF4A4C697DA  series:/1  /0 -> /198
+Part    guid: ID55E8F55E-DA26-47EC-A4D7-3188F9A3A7AB  series:/1  /0 -> /182
+Part    guid: ID58A54C75-73A9-4F4E-88B5-389674ED88FA  series:/1  /0 -> /197
+Part    guid: IDC3FCF134-3E88-448A-8CFD-7BE78A15C137  series:/1  /0 -> /197
+Part    guid: ID7A2BCEC8-D4F9-4026-9384-A3C04A6B88D7  series:/1  /0 -> /198
+Part    guid: ID4FC45BC8-0E6B-4769-8DAF-AFC45D98666D  series:/1  /0 -> /182
+Part    guid: IDF8A46E8E-40D6-470F-A0B3-7C871114E526  series:/1  /0 -> /184
+Part    guid: ID958C4DE1-7C61-4281-BCFD-F20B15A8644B  series:/1  /0 -> /184
+Part    guid: ID673AE978-A60B-41C5-96C8-B77320B86B61  series:/1  /0 -> /197
+Part    guid: ID7B49DAB3-C783-4D3F-A702-B62EB8502AA9  series:/1  /0 -> /197
+Part    guid: ID10F195F7-5619-4E00-A3B3-760590D9A3F0  series:/1  /0 -> /198
+Part    guid: ID4F0917B7-D197-4C6D-8890-85C982640DF8  series:/1  /0 -> /182
+Part    guid: IDD38B7CD0-8FED-4B1F-942C-0861D4D05045  series:/1  /0 -> /197
+Part    guid: IDA3772D38-6856-4E76-92D1-26466EA1BC5B  series:/1  /0 -> /197
+Part    guid: ID07E1FADF-A3D6-4D00-9344-5236F33CA79B  series:/1  /0 -> /198
+Part    guid: ID49C7F199-98D7-461C-A435-D17FB78C2705  series:/1  /0 -> /182
+Part    guid: ID6D3C191D-B64D-4496-B25F-45DED8CAA8D3  series:/1  /0 -> /197
+Part    guid: ID84E2E662-7F34-4F6F-BA17-98A0FD17E924  series:/1  /0 -> /197
+Part    guid: IDEB35612E-D6C0-4AF3-8CB0-18CAC9F0D79E  series:/1  /0 -> /198
+Part    guid: ID4E8EFE8B-0E26-4FD0-96ED-1A0BF41E0B8C  series:/1  /0 -> /182
+Part    guid: IDE0E7C6BC-1B92-441D-B15A-6F0E94E2AD15  series:/1  /0 -> /126
+Part    guid: IDCF58FF4A-3D4A-462F-BA62-58DC1E1AD950  series:/1  /0 -> /126
+Part    guid: ID40AB1CE4-D8D2-4441-8BF4-472156F06C35  series:/1  /0 -> /195
+Part    guid: ID50CBE84F-C320-4961-B180-48CE3DF10D88  series:/1  /0 -> /182
+Part    guid: ID5FFA3036-EF44-429C-BF19-9C1F0E5D31E4  series:/1  /0 -> /178
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 123 assemblies or assembly families
+Assembly guid: ID79D789A3-604A-4EFE-8A59-2A3578553AF8  series:Á/1  Á/0 -> Á/1
+Assembly guid: IDD6E1AD84-F0BF-4DF4-9856-770941CDF430  series:Á/1  Á/0 -> Á/2
+Assembly guid: ID22168C24-23B4-42A1-849C-5AEC39E00390  series:Á/1  Á/0 -> Á/3
+Assembly guid: ID34FD06D3-BA86-4BC1-8A9C-BE2F1625BC2D  series:Á/1  Á/0 -> Á/4
+Assembly guid: ID61DF3E9C-D382-42B0-A387-44B8B04C38C9  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/1
+Assembly guid: IDBA56F6DE-3432-4C94-A6C8-CAC8ACA8AAA3  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/1
+Assembly guid: ID203171C0-A9D2-4045-9545-9E7E3E889AD6  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/1
+Assembly guid: ID7F17BA01-88E6-49F0-9DA8-669D4FDF703F  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/2
+Assembly guid: ID9E0020B7-354C-401E-AAE4-B6B3B8F3C661  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/2
+Assembly guid: IDE48BCFA7-54C9-4677-A32F-2622F40CC9C0  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/3
+Assembly guid: ID2F7602ED-06CE-430B-BF87-48E3D215C9C1  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/4
+Assembly guid: ID7795160D-97B0-4422-A188-52DB63526AAF  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/5
+Assembly guid: IDF279166A-58B0-4381-A0F5-BEDB19E86927  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/5
+Assembly guid: IDD4C00AAC-DF45-4CAD-8456-D296C25B2605  series:ÊÌ/1  ÊÌ/0 -> ÊÌ/5
+Assembly guid: IDD4FBB28C-F2C5-4F0B-9516-E7A46BC7C6D1  series:Ì/1  Ì/0 -> Ì/45
+Assembly guid: ID58D07727-CD35-44AF-A156-A02F6942F44B  series:Ì/1  Ì/0 -> Ì/46
+Assembly guid: IDB4B25134-997E-4A96-8F07-8CED12682CF1  series:Ì/1  Ì/0 -> Ì/46
+Assembly guid: IDAD8E978A-9595-48B3-999C-59DE43897463  series:Ì/1  Ì/0 -> Ì/47
+Assembly guid: ID68CD9588-4521-48C3-A0EF-6EE1C2E9348C  series:Ì/1  Ì/7 -> Ì/15
+Assembly guid: IDC7FDE212-FACF-4243-A1CB-29794C443598  series:Ì/1  Ì/7 -> Ì/15
+Assembly guid: IDAE2E19C5-309E-4138-BB39-A279112F41A7  series:Ì/1  Ì/7 -> Ì/15
+Assembly guid: ID45CE2622-0599-4022-9A0C-8F180CF9F389  series:Ì/1  Ì/7 -> Ì/15
+Assembly guid: IDFF0AD4A5-4F7B-4E79-839B-B21595FBFCF8  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID9E0A8487-2C66-4565-9D02-B1D6A6193B6E  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID85BD6529-82E3-45DC-97B4-F82F304BF38A  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID20830001-67B8-444B-AE8D-84B3626A6BED  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: IDB0A0A4CF-2BE2-4509-AF01-B62ABB0EB5E7  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID6DA05B0C-02B8-43A5-9A49-317D51FAABCC  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: IDC3CD68C5-C9F8-415E-9F1B-AF3284CBE746  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID5ECBA54A-D2E0-4851-87C5-4EFDC5006FD4  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID4242A872-5E11-470B-8F50-477DD4ED17BD  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID50E37FC1-08A9-429F-AA4B-A98992399914  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: IDEA3F720D-80D4-4404-B7D1-7ADD482D7BD3  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID49973E91-107C-4E97-BCCB-4FCD4FE56ADA  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: IDD7B66203-E90A-43CC-90B0-D20AEBAB454B  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID02F6D1AC-6243-4AC4-8F39-7996EE4CF0D2  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID716CE71E-5017-4324-8AED-C08CF20878E5  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID184CD1AC-80F4-4D28-8A65-B2BAB18C8020  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: IDB9BC06A5-70A6-4103-BEA7-DCBD6ADBD4A8  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID84AB5974-7BB7-41E0-B398-E9BE4B6D7816  series:Ì/1  Ì/0 -> Ì/15
+Assembly guid: ID9E1A61F3-B8E0-4CB5-8F5F-093FC1887899  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: ID369E2E64-4338-41B3-A04F-C2A1F2EA5A3B  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: ID5A4031BB-D09B-44E2-AF15-B31EE150D39C  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: IDCD8E1803-F5ED-44D6-A52D-16591C4787B1  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: ID859DD699-5715-439B-8850-4748DA5EB507  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: ID0673BF00-27D2-4D4D-A69C-C9BC47D9A9E3  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: ID18D1EA8C-2376-43A4-BF4A-CE5D4D579DBE  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: ID288721FE-D9AD-42D1-B9F1-C6CA5C2B20EB  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: IDAD0FE5AC-0126-4237-B4AB-92327DA30D75  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: ID8C778743-7B4E-4746-8867-F7FAA0656579  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: IDFA6B4BC5-1915-41E8-9208-DC4A866AC306  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: IDFB169964-E357-4A86-8466-BE17A0068487  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: IDAEA101E0-0F09-4A34-8CFF-C7F847DE98A9  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: IDB23947A6-BE5B-4E45-A7C8-D806E5E94228  series:Ì/1  Ì/0 -> Ì/48
+Assembly guid: ID58DDE4DE-C1B3-40A1-A5BA-CA387945EE15  series:Ì/1  Ì/0 -> Ì/49
+Assembly guid: IDA76D5AA5-FCBB-4D70-9770-3F0813806C19  series:Ì/1  Ì/0 -> Ì/49
+Assembly guid: ID11627904-85C1-4F0B-AD4A-24F4561E89D3  series:Ì/1  Ì/0 -> Ì/49
+Assembly guid: ID16F1393C-418D-4229-A598-6FF01AACC128  series:Ì/1  Ì/0 -> Ì/49
+Assembly guid: IDF9B2F9CA-48D3-4BC7-8FC9-C5884F50BA8F  series:Ì/1  Ì/0 -> Ì/49
+Assembly guid: ID62AE2745-CC94-4B47-85BD-D79D90939759  series:Ì/1  Ì/0 -> Ì/49
+Assembly guid: ID93B3D257-510C-405C-8383-905D553D5FB4  series:Ì/1  Ì/0 -> Ì/49
+Assembly guid: IDA8FCA803-835A-4D7C-BB88-1835E6E4DA52  series:Ì/1  Ì/0 -> Ì/50
+Assembly guid: ID05EE9F77-46CA-4E33-AA7C-BC4E0B1FD362  series:Ì/1  Ì/0 -> Ì/50
+Assembly guid: IDC7F2D413-8150-4EC1-977B-136A0F98997C  series:Ì/1  Ì/0 -> Ì/50
+Assembly guid: ID9CB87471-17A4-4120-8F8C-BA4EFB312B6E  series:Ì/1  Ì/0 -> Ì/50
+Assembly guid: ID4B66D3B6-DB39-4C8E-9008-A9DEEA85F6A0  series:Ì/1  Ì/0 -> Ì/50
+Assembly guid: IDA39CA853-306E-4AB1-BC90-C22F7743A05B  series:Ì/1  Ì/0 -> Ì/50
+Assembly guid: ID9E108A5D-3B95-4452-9778-0FD9F3C6EEDF  series:Ì/1  Ì/0 -> Ì/50
+Assembly numbering done in 0s
+Numbering 123 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 10:26:21 2019
+
+*** Numbering (korablev): Fri Aug 02 10:36:44 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 302 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 65 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 65 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 10:36:44 2019
+
+*** Numbering (korablev): Fri Aug 02 10:40:13 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 302 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 65 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 65 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 10:40:14 2019
+
+*** Numbering (korablev): Fri Aug 02 10:41:56 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 302 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 65 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 65 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 10:41:56 2019
+
+*** Numbering (korablev): Fri Aug 02 10:45:48 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 302 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 65 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 65 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 10:45:48 2019
+
+*** Numbering (korablev): Fri Aug 02 13:30:21 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 313 parts.
+Part    guid: ID6BAB7FDA-9452-4687-8872-0A81C90E5A6B  series:/1  /0 -> /199
+Part    guid: ID13D4A653-E4CC-4CB0-9895-37644291732E  series:/1  /0 -> /199
+Part    guid: IDAD1036A9-C38D-4665-8E7B-FDFCEEC1A94D  series:/1  /0 -> /199
+Part    guid: ID287E9431-F3FC-44F8-99AD-0067744708BE  series:/1  /0 -> /199
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 71 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 71 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 13:30:21 2019
+
+*** Numbering (korablev): Fri Aug 02 15:17:45 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 280 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 54 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 54 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 15:17:45 2019
