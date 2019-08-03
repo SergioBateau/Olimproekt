@@ -6244,3 +6244,33 @@ Assembly numbering done in 0s
 Numbering 54 assemblies or assembly families
 Family numbering done in 0s
 *** Operation finished Fri Aug 02 15:17:45 2019
+
+*** Numbering (Batman): Fri Aug 02 18:09:07 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments ignored
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 209 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 6 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 6 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Aug 02 18:09:07 2019
