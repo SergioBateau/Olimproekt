@@ -1,0 +1,791 @@
+
+
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+  <html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+
+  <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1251">
+
+  <title>Выборка металла</title>
+
+  </head>
+
+  <body>
+
+  <TABLE  ALIGN="CENTER"   style="border-collapse:collapse; font-family: GOST type A, Graitec I, ISOCPEUR, Arial, sans-serif" table border="1" cellspacing="0" width="500">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th colspan="5"> 115/16-ГК-КМ2                </th>
+
+  </TR>
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th colspan="5"> Приложение 4. Выборка металла</th>
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th> Профиль                           </th>
+
+  <th> ГОСТ                              </th>
+
+  <th> Материал                          </th>
+
+  <th> Вес чистый, кг                    </th>
+
+  <th> Вес брутто, кг                    </th>
+
+  </TR>
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> —4.0                              </td>
+
+ <td> ГОСТ 19903-2015                   </td>
+
+ <td> C255                              </td>
+
+ <td> 130.1                             </td>
+
+ <td> 130.1                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> —8.0                              </td>
+
+ <td> ГОСТ 19903-2015                   </td>
+
+ <td> C255                              </td>
+
+ <td> 1273.3                            </td>
+
+ <td> 1421.6                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> —10.0                             </td>
+
+ <td> ГОСТ 19903-2015                   </td>
+
+ <td> C255                              </td>
+
+ <td> 489.6                             </td>
+
+ <td> 532.0                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> —16.0                             </td>
+
+ <td> ГОСТ 19903-2015                   </td>
+
+ <td> C255                              </td>
+
+ <td> 2550.4                            </td>
+
+ <td> 2567.3                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> —20.0                             </td>
+
+ <td> ГОСТ 19903-2015                   </td>
+
+ <td> C255                              </td>
+
+ <td> 1734.1                            </td>
+
+ <td> 1734.2                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> —30.0                             </td>
+
+ <td> ГОСТ 19903-2015                   </td>
+
+ <td> C245                              </td>
+
+ <td> 652.6                             </td>
+
+ <td> 652.6                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> —30.0                             </td>
+
+ <td> ГОСТ 19903-2015                   </td>
+
+ <td> C255                              </td>
+
+ <td> 2749.0                            </td>
+
+ <td> 2749.0                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Двутавр 20К2                      </td>
+
+ <td> СТО АСЧМ 20-93                    </td>
+
+ <td> C255                              </td>
+
+ <td> 1515.7                            </td>
+
+ <td> 1515.7                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Двутавр 20К2                      </td>
+
+ <td> СТО АСЧМ 20-93                    </td>
+
+ <td> C345                              </td>
+
+ <td> 203.9                             </td>
+
+ <td> 203.9                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Двутавр 20Ш1                      </td>
+
+ <td> СТО АСЧМ 20-93                    </td>
+
+ <td> C255                              </td>
+
+ <td> 571.6                             </td>
+
+ <td> 571.6                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Двутавр 30Ш1                      </td>
+
+ <td> СТО АСЧМ 20-93                    </td>
+
+ <td> C255                              </td>
+
+ <td> 958.3                             </td>
+
+ <td> 958.3                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Двутавр 30Ш1                      </td>
+
+ <td> СТО АСЧМ 20-93                    </td>
+
+ <td> C345                              </td>
+
+ <td> 3604.4                            </td>
+
+ <td> 3604.4                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Двутавр 35К1                      </td>
+
+ <td> СТО АСЧМ 20-93                    </td>
+
+ <td> C245                              </td>
+
+ <td> 11880.4                           </td>
+
+ <td> 11880.4                           </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Двутавр 35К1                      </td>
+
+ <td> СТО АСЧМ 20-93                    </td>
+
+ <td> C345                              </td>
+
+ <td> 1149.3                            </td>
+
+ <td> 1149.3                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Двутавр 35Ш2                      </td>
+
+ <td> СТО АСЧМ 20-93                    </td>
+
+ <td> C345                              </td>
+
+ <td> 16207.6                           </td>
+
+ <td> 16207.6                           </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПK 100x7.0                  </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C255                              </td>
+
+ <td> 6775.0                            </td>
+
+ <td> 6775.0                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПK 100x7.0                  </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C345                              </td>
+
+ <td> 1619.1                            </td>
+
+ <td> 1619.1                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПK 120x7.0                  </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C255                              </td>
+
+ <td> 388.5                             </td>
+
+ <td> 389.8                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПK 120x7.0                  </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C345                              </td>
+
+ <td> 976.3                             </td>
+
+ <td> 976.3                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПК 140x7.0                  </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C345                              </td>
+
+ <td> 18982.8                           </td>
+
+ <td> 18982.8                           </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПК 160x7.0                  </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C255                              </td>
+
+ <td> 2567.1                            </td>
+
+ <td> 2567.1                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПК 160x8.0                  </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C345                              </td>
+
+ <td> 13432.4                           </td>
+
+ <td> 13432.4                           </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПК 180x6.0                  </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C255                              </td>
+
+ <td> 2364.3                            </td>
+
+ <td> 2364.3                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПП 180x140x6.0              </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C345                              </td>
+
+ <td> 2269.6                            </td>
+
+ <td> 2269.6                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПП 200x160x7.0              </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C345                              </td>
+
+ <td> 14924.9                           </td>
+
+ <td> 14924.9                           </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Труба ПП 240x120x6.0              </td>
+
+ <td> ГОСТ Р 54157-2010                 </td>
+
+ <td> C255                              </td>
+
+ <td> 20059.3                           </td>
+
+ <td> 20060.7                           </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 50x8                       </td>
+
+ <td> ГОСТ 8509-93                      </td>
+
+ <td> C255                              </td>
+
+ <td> 20.9                              </td>
+
+ <td> 20.9                              </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 70x8                       </td>
+
+ <td> ГОСТ 8509-93                      </td>
+
+ <td> C255                              </td>
+
+ <td> 58.1                              </td>
+
+ <td> 58.1                              </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 80x7                       </td>
+
+ <td> ГОСТ 8509-93                      </td>
+
+ <td> C245                              </td>
+
+ <td> 174.1                             </td>
+
+ <td> 174.1                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 80x7                       </td>
+
+ <td> ГОСТ 8509-93                      </td>
+
+ <td> C255                              </td>
+
+ <td> 347.8                             </td>
+
+ <td> 347.8                             </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 100x8                      </td>
+
+ <td> ГОСТ 8509-93                      </td>
+
+ <td> C255                              </td>
+
+ <td> 2890.9                            </td>
+
+ <td> 2891.3                            </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 100x10                     </td>
+
+ <td> ГОСТ 8509-93                      </td>
+
+ <td> C255                              </td>
+
+ <td> 14.8                              </td>
+
+ <td> 14.8                              </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 100x65x10                  </td>
+
+ <td> ГОСТ 8510-86                      </td>
+
+ <td> C255                              </td>
+
+ <td> 20.7                              </td>
+
+ <td> 20.7                              </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 160x10                     </td>
+
+ <td> ГОСТ 8509-93                      </td>
+
+ <td> C255                              </td>
+
+ <td> 49.3                              </td>
+
+ <td> 49.3                              </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Уголок 200x12                     </td>
+
+ <td> ГОСТ 8509-93                      </td>
+
+ <td> C255                              </td>
+
+ <td> 11.1                              </td>
+
+ <td> 11.1                              </td>
+
+ </TR>
+
+
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td> Швеллер 16П                       </td>
+
+ <td> ГОСТ 8240-97                      </td>
+
+ <td> C255                              </td>
+
+ <td> 4.5                               </td>
+
+ <td> 4.5                               </td>
+
+ </TR>
+
+
+
+
+
+ <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+ <td>                                   </td>
+
+ <td>                                   </td>
+
+ <td> Итого:                            </td>
+
+ <td> 133621.5                          </td>
+
+ <td> 133832.3                          </td>
+
+ </TR>
+
+ </TABLE>
+
+ </body>
+
+ </html>
+

@@ -1,0 +1,35 @@
+ASSERT: 04.08.2019 11:05:22 REASON: (!"Unknown field in drawing list sorting"), File: gr_drawing_list_dialog.cpp, Line: 630
+ASSERT: 04.08.2019 11:05:32 REASON: (!"Unknown field in drawing list sorting"), File: gr_drawing_list_dialog.cpp, Line: 630
+ASSERT: 04.08.2019 11:05:37 REASON: (!"Unknown field in drawing list sorting"), File: gr_drawing_list_dialog.cpp, Line: 630
+ASSERT: 04.08.2019 11:05:37 REASON: (!"Unknown field in drawing list sorting"), File: gr_drawing_list_dialog.cpp, Line: 630
+ASSERT: 04.08.2019 14:11:23 REASON: (!"history_delete is empty"), File: db_history.cpp, Line: 415
+ASSERT: 04.08.2019 14:22:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:21 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:21 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:21 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:21 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:21 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:21 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:21 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:22:21 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:49 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:49 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:49 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:49 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:49 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 14:52:50 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 04.08.2019 15:12:13 REASON: (!LicenseInfo.empty()), File: tpl_project.cpp, Line: 24

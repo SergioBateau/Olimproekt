@@ -5,7 +5,7 @@
     <PrinterName>Adobe PDF</PrinterName>
     <PDFAndPlotFileLocation>C:\PDF</PDFAndPlotFileLocation>
     <EmbedFonts>true</EmbedFonts>
-    <OpenFolderWhenFinished>true</OpenFolderWhenFinished>
+    <OpenFolderWhenFinished>false</OpenFolderWhenFinished>
     <OpenFileWhenFinished>false</OpenFileWhenFinished>
     <OutputToSingleFile>false</OutputToSingleFile>
     <SinglePDFFileName>Combined</SinglePDFFileName>

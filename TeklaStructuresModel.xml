@@ -11,7 +11,7 @@
         <Environment>russia</Environment>
         <IsTemplate>FALSE</IsTemplate>
         <XS_PROJECT>\\25.98.58.137\TeklaStructuresModels\TEKLA_PROJECT</XS_PROJECT>
-        <XS_FIRM>C:\TeklaStructuresModels\TEKLA</XS_FIRM>
+        <XS_FIRM>\\25.98.58.137\TeklaStructuresModels\TEKLA</XS_FIRM>
         <XS_SYSTEM>C:\ProgramData\Tekla Structures\2017\\environments\russia\system\steel_detailer\;C:\ProgramData\Tekla Structures\2017\\environments\russia\system\;C:\ProgramData\Tekla Structures\2017\\environments\common\system\;C:\ProgramData\Tekla Structures\2017\\envi</XS_SYSTEM>
     </Model>
 </TeklaStructuresModels>
