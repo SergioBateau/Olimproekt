@@ -18,7 +18,7 @@
     <PrintOnMultipleSheets>false</PrintOnMultipleSheets>
     <MultipleSheetOrder>LeftToRightTopToBottom</MultipleSheetOrder>
     <PaperSize>Auto</PaperSize>
-    <Orientation>Landscape</Orientation>
+    <Orientation>Portrait</Orientation>
     <ColorMode>BlackAndWhite</ColorMode>
     <NumberOfCopies>1</NumberOfCopies>
     <Collate>false</Collate>
