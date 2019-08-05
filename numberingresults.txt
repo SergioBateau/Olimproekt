@@ -1,6 +1,6 @@
 
-*** Numbering (Batman): Sun Aug 04 20:38:35 2019
-  Diagnose & Repair Numbering: All
+*** Numbering (Batman): Mon Aug 05 22:57:31 2019
+  Modified numbering for selected series
   Compare modified to old parts
   Compare new to old parts
   Re-use old numbers
@@ -19,54 +19,60 @@
   ConcreteTolerance: 2.000000
   RebarTolerance: 2.000000
   WeldSeamPropertyTolerance: 0.000000
-Numbering 3639 parts.
-Part numbering done in 1s
+Numbering 619 parts.
+Part    guid: ID2D53D396-1021-4F45-8B53-88E7F328EB82  series:/1  /180 -> /250
+Part    guid: ID0F345017-A552-4B8C-A167-4561DCD40D2D  series:/1  /180 -> /254
+Part    guid: ID02A3FFC3-3177-4E6B-BA5D-788490F3D1C8  series:/1  /179 -> /255
+Part    guid: IDD7B8A1CC-40C5-434C-80A0-BA13AF09231C  series:/1  /179 -> /255
+Part    guid: IDAC6FDB48-D14D-479B-8BB2-9C19D075A5B5  series:/1  /179 -> /255
+Part    guid: ID145ABB34-2EE0-4872-B546-4585CE96D01E  series:/1  /179 -> /255
+Part    guid: ID08624EEE-D2DD-4700-A811-10274E9C4476  series:/1  /179 -> /256
+Part    guid: IDDC68D912-A784-4B16-A7B3-8E4104456EDD  series:/1  /179 -> /256
+Part    guid: IDD1B12D4D-3BF3-4A59-9B58-BBF4D26D53F6  series:/1  /179 -> /255
+Part    guid: IDA9FECB39-3ACA-4EF0-A5AD-3AB9F3FE1129  series:/1  /179 -> /255
+Part    guid: ID77E97B28-6087-47DF-B686-58153E55A25D  series:/1  /179 -> /255
+Part    guid: ID0AC24F9B-AC9B-41CC-AD18-D876B52508F5  series:/1  /179 -> /257
+Part    guid: ID1B382847-D37F-4994-93A7-362348E63AEF  series:/1  /179 -> /258
+Part    guid: ID24D503CF-67A4-418E-A1C0-17A70878DD0D  series:/1  /179 -> /258
+Part    guid: ID57C39DA1-5AD2-4389-B4F3-100F24804D0E  series:/1  /179 -> /256
+Part    guid: ID52B8BC87-4D20-428D-8B40-41B62613465D  series:/1  /179 -> /256
+Part    guid: ID545F482B-2F45-4A26-8478-97DCB8096345  series:/1  /179 -> /256
+Part    guid: IDC24D79C5-0545-42C5-A493-5110EC7DD5AC  series:/1  /179 -> /256
+Part    guid: ID58A8CAC0-435D-4CDB-B813-0734C58BA4FD  series:/1  /179 -> /256
+Part    guid: IDBF18851C-8ED4-4384-AEEC-553562291E6D  series:/1  /179 -> /256
+Part    guid: ID098BADFD-8DD5-4A65-ADE6-CCF3E4465B2F  series:/1  /179 -> /256
+Part    guid: ID983FF451-38FA-4846-9E09-3292558BE42C  series:/1  /179 -> /256
+Part    guid: IDC1E217F8-C98B-452E-8929-BFF5A7C3BFE1  series:/1  /179 -> /256
+Part    guid: IDD5ECDFC5-A92A-4F84-82C5-8119415ABE09  series:/1  /179 -> /256
+Part    guid: IDF5179C30-EEC9-47C4-BC6A-377DC6915CE5  series:/1  /179 -> /256
+Part    guid: ID48D70ADF-3D83-4AF3-96AF-B6C8107D3243  series:/1  /179 -> /259
+Part    guid: ID152E728B-920E-4533-9D90-2F9A750E0402  series:/1  /179 -> /255
+Part    guid: ID8C6FF811-F030-445B-AE70-D545284A6D55  series:/1  /179 -> /260
+Part    guid: IDE03B3DB4-BF42-43F7-8373-B89996639951  series:/1  /179 -> /260
+Part    guid: ID01C1A223-5E9E-4C30-889D-8E85843954E2  series:/1  /179 -> /261
+Part    guid: ID1514DD88-E972-4E8E-BDD3-13C22C139A21  series:/1  /179 -> /261
+Part    guid: ID7F15E3BB-0278-4DAC-AE22-AFBAE40EB16C  series:/1  /179 -> /260
+Part    guid: IDF001B5F2-312B-4FD3-99F7-5F429160F4BA  series:/1  /179 -> /260
+Part    guid: IDD296E7BF-CDBF-4CBA-88FD-5AE56630A77B  series:/1  /179 -> /256
+Part    guid: ID61EF3929-37CA-4755-B607-6F331F13A223  series:/1  /179 -> /256
+Part    guid: ID05DC229C-793D-4825-8AAA-3520D484F15A  series:/1  /179 -> /256
+Part    guid: ID14F4F375-AD41-4FCA-835E-088041C68325  series:/1  /179 -> /256
+Part    guid: ID92FA7CDB-4719-498A-B93F-14A1EA8FDA62  series:/1  /179 -> /256
+Part    guid: ID17643D67-3EB7-4545-80BB-1BCF044FF920  series:/1  /179 -> /256
+Part    guid: ID05E95D3A-C875-497B-8B76-3F39713D7CCE  series:/1  /179 -> /256
+Part    guid: ID39EE8544-E9FB-4290-97C0-AB8039330164  series:/1  /179 -> /256
+Part    guid: ID2250337E-E832-4DD2-93B1-D007276C0414  series:/1  /179 -> /256
+Part    guid: ID8C68DC00-358C-425E-AFC9-A4C6A7C08AA8  series:/1  /179 -> /256
+Part    guid: ID3DC54DDB-A2AB-4D20-BB44-26079A578C49  series:/1  /179 -> /256
+Part    guid: IDB409F52E-66E5-45D1-B6EF-22E51395037B  series:/1  /179 -> /256
+Part    guid: ID96266A2E-BEB9-41D9-94B2-17F136C12DD9  series:/1  /179 -> /259
+Part    guid: ID09423245-2FD3-4A49-BF74-26654A08A25A  series:/1  /179 -> /255
+Part    guid: ID107422CE-4C81-4367-8174-652CE049960F  series:/1  /180 -> /250
+Part    guid: IDEB03D317-AB0F-434B-B821-3874D467F28F  series:/1  /180 -> /250
+Part numbering done in 0s
 Numbering 0 reinforcing bars
 Reinforcing bar numbering done in 0s
-Numbering 1386 assemblies or assembly families
-Assembly guid: ID3D463539-B705-4418-BDF2-B7486C62ED77  series:ÁÏ/1  ÁÏ/5 -> ÁÏ/3
-Assembly guid: ID9FF5290C-399B-4343-B165-1F3BF21DCD4B  series:ÁÏ/1  ÁÏ/5 -> ÁÏ/3
-Assembly guid: ID99C0AAF4-1AE4-456C-AC43-DEE13F11376B  series:ÁÏ/1  ÁÏ/5 -> ÁÏ/3
-Assembly guid: ID4E46FE36-9ECA-4EA8-B74B-DE66B13F8C36  series:Ê/1  Ê/10 -> Ê/3
-Assembly guid: IDBB6787EE-8222-4D1A-9EF2-F37BE8AB4471  series:Ê/1  Ê/12 -> Ê/11
-Assembly guid: IDC0E3F65C-77D6-4797-AD84-EED1D4D826A5  series:Ê/1  Ê/14 -> Ê/13
-Assembly guid: ID454C2AB8-BFD2-4007-A69E-C97B2AA67D74  series:Ê/1  Ê/16 -> Ê/15
-Assembly guid: IDF95FB38E-FC67-419E-A04F-83CC91265EAA  series:Ê/1  Ê/16 -> Ê/15
-Assembly guid: IDCC748A2B-11A8-416D-9590-4333E816E87D  series:Ê/1  Ê/16 -> Ê/15
-Assembly guid: IDE34A54B1-88CA-4C5E-9579-CB66AD090332  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID55BF4CC5-EDA0-40C5-93EF-A1B60339C1A7  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDA990B920-7AC6-4EB2-B875-8C82E8EC34FD  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID715C4034-EA54-4049-8B0D-FC0A7EB9DE6E  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDBEF8F9A5-1683-4A79-908F-12C1BFFEC973  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID86367E65-B21C-4780-81EB-36A5185DDAA9  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID90F8B3E4-C278-49B2-A295-85E90B0DDC1F  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDA7C041E4-EA0F-42AE-9973-EA40F21CF33E  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID2F4162BB-6E6C-4DED-9037-813F50A07475  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID369A1699-57E9-4585-B5C7-5A161BCBD285  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDFDF6DD43-84A1-4261-9A4C-8B25AD0142E2  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID56D5630C-5EF8-478B-9882-211CA5235EBD  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID294B3254-92D2-4E35-956E-B00CBCCC7771  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID56FA8277-0DA7-436C-9692-1D98A33C690F  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID764950D5-EA80-4936-A863-90549724102E  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDA2727295-BAD5-4F16-86FD-8FA17CF12A10  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDE0A5291A-2396-4FB7-B4E3-EAD991416440  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID952074F1-DE49-4824-8E20-D55A60FDCB30  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDC2B93842-EE11-42A7-A732-98F9839DA7EB  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDB65D434F-83E0-4E9A-8DED-5AB42D08A94B  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID3CA3695C-0A34-42A7-BB03-2280A38BEF1F  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID9E01246B-53BD-444E-BCF4-41DFA6FAE848  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID2BC6F705-5273-4B7A-A46D-AC6D4828AFC8  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID0DAD20CA-4A25-4B7F-A5F9-7425C7F11D61  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID62343A64-5F66-4710-869B-C602D6F60457  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID5474AE22-6690-4F2D-95BD-66537DFC5E60  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID95ABCC26-65EE-46C5-A25E-20DFA040D7B5  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: IDAB27680E-F413-48FB-8F4B-F15EC741343E  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID3694CA5A-E153-4909-8764-2D9FC5675917  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID6765A1E7-E885-4B63-8758-8563F27A75FF  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID90518771-0573-410D-A155-7A56216D0E65  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID3BF8DF73-59C6-4C0A-87F6-089CC3252DCB  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID90E64D7E-1086-44F2-B865-70E78582CAA6  series:Ì/1  Ì/0 -> Ì/58
-Assembly guid: ID246101D4-58BB-4D20-88EB-E16763D3E020  series:Ì/1  Ì/0 -> Ì/58
+Numbering 40 assemblies or assembly families
 Assembly numbering done in 0s
-Numbering 1386 assemblies or assembly families
+Numbering 40 assemblies or assembly families
 Family numbering done in 0s

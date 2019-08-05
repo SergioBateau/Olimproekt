@@ -1,0 +1,138 @@
+ASSERT: 05.08.2019 20:19:14 REASON: (!"history_delete is empty"), File: db_history.cpp, Line: 415
+ASSERT: 05.08.2019 20:37:04 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:37:04 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:37:04 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:37:04 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:37:04 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:37:04 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:37:04 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:39:04 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 05.08.2019 20:39:04 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 05.08.2019 20:39:04 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 05.08.2019 20:39:04 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 05.08.2019 20:55:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:55:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:55:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:55:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:55:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 20:55:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:15:46 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:15:46 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:15:46 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:15:46 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:15:46 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:29:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:29:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:29:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:29:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:29:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:39:41 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:39:41 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:39:41 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:39:41 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:39:41 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:39:41 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:39:41 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:57:08 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 05.08.2019 21:57:08 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 05.08.2019 21:58:17 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:58:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:58:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:58:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:58:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:58:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:58:18 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 21:59:53 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 05.08.2019 21:59:53 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 05.08.2019 22:00:35 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:00:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 05.08.2019 22:00:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 05.08.2019 22:00:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 05.08.2019 22:00:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 05.08.2019 22:00:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 05.08.2019 22:00:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 05.08.2019 22:00:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 05.08.2019 22:00:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 05.08.2019 22:00:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 05.08.2019 22:00:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 05.08.2019 22:00:35 REASON: (false), File: int_intelligent_graphic_object_point.cpp, Line: 101
+ASSERT: 05.08.2019 22:00:35 REASON: (!"Failed to insert associative rule (GO)"), File: int_intelligent_go_associations.cpp, Line: 21
+ASSERT: 05.08.2019 22:00:35 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:00:35 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:00:36 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:00:36 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:16:17 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:16:17 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:16:17 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:16:17 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:16:17 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:16:17 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:16:17 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:48:15 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:48:15 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:48:15 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:48:15 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:55:27 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:55:27 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:55:27 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 22:55:27 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:00:56 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:00:56 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:00:56 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:00:56 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:00:59 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:00:59 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:00:59 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:00:59 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:02 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:02 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:02 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:02 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:05 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:05 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:05 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:05 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:10 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 23:01:13 REASON: (0), File: int_drawing_view.cpp, Line: 148

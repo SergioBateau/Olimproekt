@@ -1,0 +1,7 @@
+ASSERT: 05.08.2019 19:49:44 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 19:49:44 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 19:49:44 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 19:49:44 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 19:49:44 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 05.08.2019 19:53:15 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 05.08.2019 19:53:15 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
