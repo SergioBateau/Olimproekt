@@ -1,0 +1,245 @@
+
+
+
+
+
+
+  <head>
+
+  <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1251">
+
+  <title>Ведомость отправочных марок</title>
+
+  </head>
+
+  <body>
+
+  <TABLE  ALIGN="CENTER"   style="border-collapse:collapse; font-family: GOST type A, Graitec I, ISOCPEUR, Arial, sans-serif" table border="1" cellspacing="0" width="800">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th colspan="20">115/16-ГК-КМ2                             </th>
+
+  </TR>
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th colspan="20">Ведомость марок по DP                      </th>
+
+  </TR>
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <th width="6%">             Марка                 </th>
+
+  <th width="6%">             Шифр чертежа          </th>
+
+  <th width="14%">            Наименование          </th>
+
+  <th width="5%">             Кол-во шт.            </th>
+
+  <th>                        DP1 (кол-во)          </th>
+
+  <th>                        DP2 (кол-во)          </th>
+
+  <th>                        DP3 (кол-во)          </th>
+
+  <th>                        DP4 (кол-во)          </th>
+
+  <th>                        DP5 (кол-во)          </th>
+
+  <th>                        DP6 (кол-во)          </th>
+
+  <th>                        DP7 (кол-во)          </th>
+
+  <th>                        DP8 (кол-во)          </th>
+
+  <th>                        DP9 (кол-во)          </th>
+
+  <th>                        DP10 (кол-во)         </th>
+
+  <th>                        DP11 (кол-во)         </th>
+
+  <th>                        DP12 (кол-во)         </th>
+
+  <th>                        DP13 (кол-во)         </th>
+
+  <th>                        DP14 (кол-во)         </th>
+
+  <th>                        DP15 (кол-во)         </th>
+
+  <th>                        Положение             </th>
+
+  </TR>
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> 0-Н-6                             </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td>
+
+
+
+    Ф/13/Ф/А                         ;
+
+
+
+       </td>
+
+  </TR>
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> 0-Ш-1                             </td>
+
+  <td>                                   </td>
+
+  <td> Шайба                             </td>
+
+  <td> 2                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td>
+
+
+
+    Ф/13/Ф/А                         ;
+
+
+
+       </td>
+
+  </TR>
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> 0-Ш-2                             </td>
+
+  <td>                                   </td>
+
+  <td> Шайба                             </td>
+
+  <td> 4                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td> 0                                 </td>
+
+  <td>
+
+
+
+    Ф/13/Ф/А                         ;
+
+
+
+       </td>
+
+  </TR>
+
+
+ </TABLE>
+
+ </body>
+
+ </html>
+

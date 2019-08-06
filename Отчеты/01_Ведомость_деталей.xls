@@ -1,0 +1,249 @@
+
+
+
+   <head>
+
+   <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1251">
+
+   <title>
+
+   Ведомость деталей
+
+   </title>
+
+   </head>
+
+   <body>
+
+   <TABLE  ALIGN="CENTER"   style="border-collapse:collapse" table border="1" cellspacing="0" width="500">
+
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+
+    <th> Поз. детали                       </th>
+
+    <th> Тип                               </th>
+
+    <th> Профиль                           </th>
+
+    <th> Марка стали                       </th>
+
+    <th> Толщина                           </th>
+
+    <th> Ширина                            </th>
+
+    <th> Длина                             </th>
+
+    <th> Количество деталей                </th>
+
+    <th> Гнутая деталь                     </th>
+
+    <th> Количество вырезов                </th>
+
+    <th> Примечание                        </th>
+
+    </TR>
+
+
+
+
+
+
+   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+   <td> '1                                   </td>
+
+   <td> Профиль                              </td>
+
+   <td> I35K1_20_93                          </td>
+
+   <td> C345                                 </td>
+
+   <td> 342                                  </td>
+
+   <td> 348                                  </td>
+
+   <td> 630                                  </td>
+
+   <td> 1                                    </td>
+
+   <td> Нет                                  </td>
+
+   <td>  0                                   </td>
+
+   <td>           торец строгать             </td>
+
+   </TR>
+
+
+
+   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+   <td> '6                                   </td>
+
+   <td> Лист                                 </td>
+
+   <td> 10*50                                </td>
+
+   <td> C255                                 </td>
+
+   <td> 10                                   </td>
+
+   <td> 50                                   </td>
+
+   <td> 50                                   </td>
+
+   <td> 2                                    </td>
+
+   <td> Нет                                  </td>
+
+   <td>  0                                   </td>
+
+   <td>                                      </td>
+
+   </TR>
+
+
+
+   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+   <td> '11                                  </td>
+
+   <td> Лист                                 </td>
+
+   <td> 20*80                                </td>
+
+   <td> C255                                 </td>
+
+   <td> 20                                   </td>
+
+   <td> 80                                   </td>
+
+   <td> 80                                   </td>
+
+   <td> 4                                    </td>
+
+   <td> Нет                                  </td>
+
+   <td>  0                                   </td>
+
+   <td>                                      </td>
+
+   </TR>
+
+
+
+   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+   <td> '14                                  </td>
+
+   <td> Лист                                 </td>
+
+   <td> 20*380                               </td>
+
+   <td> C255                                 </td>
+
+   <td> 20                                   </td>
+
+   <td> 380                                  </td>
+
+   <td> 588                                  </td>
+
+   <td> 1                                    </td>
+
+   <td> Нет                                  </td>
+
+   <td>  0                                   </td>
+
+   <td>                                      </td>
+
+   </TR>
+
+
+
+   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+   <td> '18                                  </td>
+
+   <td> Лист                                 </td>
+
+   <td> 30*180                               </td>
+
+   <td> C255                                 </td>
+
+   <td> 30                                   </td>
+
+   <td> 180                                  </td>
+
+   <td> 342                                  </td>
+
+   <td> 1                                    </td>
+
+   <td> Нет                                  </td>
+
+   <td>  0                                   </td>
+
+   <td>                                      </td>
+
+   </TR>
+
+
+
+   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+   <td> '19                                  </td>
+
+   <td> Лист                                 </td>
+
+   <td> 30*200                               </td>
+
+   <td> C255                                 </td>
+
+   <td> 30                                   </td>
+
+   <td> 200                                  </td>
+
+   <td> 240                                  </td>
+
+   <td> 2                                    </td>
+
+   <td> Нет                                  </td>
+
+   <td>  0                                   </td>
+
+   <td>           торец строгать             </td>
+
+   </TR>
+
+
+
+   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+   <td> '95                                  </td>
+
+   <td> Лист                                 </td>
+
+   <td> 16*110                               </td>
+
+   <td> C255                                 </td>
+
+   <td> 16                                   </td>
+
+   <td> 110                                  </td>
+
+   <td> 320                                  </td>
+
+   <td> 1                                    </td>
+
+   <td> Нет                                  </td>
+
+   <td>  0                                   </td>
+
+   <td>                                      </td>
+
+   </TR>
+
+
+
