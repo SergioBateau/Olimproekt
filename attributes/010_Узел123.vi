@@ -7,11 +7,11 @@ cut_length 3.000000
 cut_min_dist 400.000000
 cut_skew_parts 0
 size_mode 0
-xmin -631.490000
-xmax 851.490000
-ymin 16124.470000
-ymax 18837.270000
-depth_neg 762.380000
+xmin -828.270000
+xmax 665.460000
+ymin 16509.500000
+ymax 17400.000000
+depth_neg 880.000000
 depth_pos 0.000000
 label_height 3.000000
 label_position 0
@@ -564,7 +564,7 @@ vsm.content_1 0
 vsm.flags 0
 vsm.mark_use_part_end 0
 vsm.ContentString1 "<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE Mark><Mark><MarkPart groupid="0"><Element name="" value="" subType="15"><Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></Element></MarkPart><MarkPart groupid="0"><UserText>отв.<Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></UserText></MarkPart><MarkPart groupid="0"><Symbol symbol="gostsym@0"><Format font="Arial" color="155" height="3.500" hidden="0" override="1"/></Symbol></MarkPart><MarkPart groupid="0"><Element name="SCREW_DIAMETER" value="" subType="8"><Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></Element></MarkPart></Mark>"
-vsm.ContentString2 "<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE Mark><Mark><MarkPart groupid="0"><Element name="" value="" subType="15"><Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></Element></MarkPart><MarkPart groupid="0"><UserText>отв.<Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></UserText></MarkPart><MarkPart groupid="0"><Symbol symbol="gostsym@0"><Format font="Arial" color="155" height="3.500" hidden="0"/></Symbol></MarkPart><MarkPart groupid="0"><Element name="SCREW_HOLE_DIAMETER" value="" subType="9"><Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></Element></MarkPart></Mark>"
+vsm.ContentString2 "<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE Mark><Mark><MarkPart groupid="0"><Element name="" value="" subType="15"><Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></Element></MarkPart><MarkPart groupid="0"><UserText>отв.<Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></UserText></MarkPart><MarkPart groupid="0"><Symbol symbol="gostsym@0"><Format font="Arial" color="155" height="3.500" hidden="0" override="1"/></Symbol></MarkPart><MarkPart groupid="0"><Element name="SCREW_HOLE_DIAMETER" value="" subType="9"><Format font="GOST type A" color="155" height="3.500" hidden="0" override="1"/></Element></MarkPart></Mark>"
 vsm.ContentString3 ""
 vsm.ContentString4 ""
 vsm.ChamferContentString ""
@@ -1800,7 +1800,7 @@ PourObjects_en 0
 PourObjects.in_file "standard"
 PourObjects.out_file "standard"
 PourObjects.draw_as 1
-PourObjects.inner_contours 1
+PourObjects.inner_contours 0
 PourObjects.draw_hidden 1
 PourObjects.draw_own 1
 PourObjects.BoltDrawAs 0

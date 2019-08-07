@@ -9271,3 +9271,2335 @@ Assembly numbering done in 0s
 Numbering 14 assemblies or assembly families
 Family numbering done in 0s
 *** Operation finished Wed Aug 07 03:00:22 2019
+
+*** Numbering (Batman): Wed Aug 07 19:18:37 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 385 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 86 assemblies or assembly families
+Assembly guid: ID647845A2-4711-4B47-86D6-053F9C992C74  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID762DC063-1A40-4C7A-A026-3716E990B72E  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3595B237-A822-4CB9-9569-2981A2168E51  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID79006FC3-F120-4BFE-8DF6-DD50951DD08F  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID271E830C-E469-4B8E-889F-B3BCE49D8E17  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID38CF8AF1-9A18-464D-B244-3010FCE6F898  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB08CA8C0-55B8-4070-BFB1-C0A786009899  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDC92C6979-3F74-4815-9F0A-B886B7D90615  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID2806F176-8B0B-44E5-9199-26668E394300  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID8B9CC0B1-B586-4F08-8501-5A05E25CFE96  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD7F137D5-27A2-4CE5-9911-EB48B291F66B  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3DBD67F0-791C-420F-81A6-73C73C72BF5A  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID60ACFCA3-5088-4B00-8267-AFB69CBA5ABA  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDFC137215-3CDA-49A5-BB4D-2019C9F1377E  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDF8B03A96-D50C-41E2-852B-83C91F4946DE  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID35E40870-4383-4055-B2EF-C67690023164  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID71509F4A-23A7-424E-9D3A-C2D653237AE3  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID24E2F451-FA77-4B0D-8A99-836EACB96FDC  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB7E65EC7-EDA8-4786-AD97-0144932957F3  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID849A946D-CFA7-474D-B442-38BED81A6BFB  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID4C35704B-1CFF-4268-B5F9-C87A3C35B25F  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID53A7D7EC-AD1F-4DA5-A551-A8A029917793  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID14F12CD6-9387-4B2C-9D61-EB2B62AF89BA  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID8269679A-577B-44DA-8BEF-148D40DE399C  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID5FB2284A-79B7-477D-A7C3-329C01413037  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID1C945F59-C845-48F6-AF58-A90F1C5D4D2E  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID0BDEDD55-30B8-4EBF-87F7-E1F4BC63EA48  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID50601CBF-45FC-49D2-9369-4DD10DF0BA78  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDFA78B224-E633-4F28-837B-EA7B1D7A31AA  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID9645C240-3375-4E1E-9018-7C20038B76EB  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID67016B2F-BB8C-45D4-8DB0-B07506E9C860  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDADCBBF99-D515-4E20-861F-048C3F3657E0  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID92C81393-706A-495B-85D5-DC431ECDEC06  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB24A630F-5503-4776-ABEF-9DFA3D57ADBD  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDE69E0514-27BC-4487-AED3-085E6189AE21  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDA3D047E2-4B2F-4505-B78B-4CA84766A252  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDCB0C1960-FE3C-4F41-828D-A00E024CBD63  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID61A14187-1B8C-4746-BD94-082F90135328  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID1E7A5113-196D-4686-98AE-FD440D299E6B  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3C771284-7FD8-4D8B-9404-288F84DDF664  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDE2A549DF-E9E0-4C72-95CB-586C5F994814  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB2EB7F67-DB63-470D-B724-CD7352F406A0  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3507B9D7-E66F-4DC7-8ED4-D797388B0D03  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDABCCBA37-05D7-4627-8C0E-6740E37E9153  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID931E87A4-E4FC-4A89-B20A-040CD2E4DD11  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID17889999-F139-4E80-9ECF-1B036A229FFF  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID85F91BB3-7BB4-4E2F-9F05-AFC209107C83  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID5D4B5C5F-78A6-4814-A59C-EE80D0D222F8  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID9DD17D63-F98D-41F8-8B71-13A66B7AE218  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDFBC37BAB-B11B-4DE9-9D54-1D5D68BBDE5D  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID057B9720-8B01-438B-B0AD-F468264C9CD2  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3CBADE8B-AF7D-4BC4-AE2A-71C6C1630737  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD3148E39-2777-4C3F-A107-6B28D7284B75  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID090E91EA-C730-4B97-BDB6-2B0A8E93E132  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID880CDAE1-804C-46D4-B696-56E111E4C28A  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID58FA8463-43EC-413E-A976-CDF3B703286D  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDC0C9F106-6E66-48F1-BB18-5D85BDAB9C11  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB2664242-A541-4616-82A4-9A9A4714BCEC  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID7BDF6374-3166-495C-B7E5-AA2E4B7237F9  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID5BAEF2AD-5B31-4103-B47D-D5B0D555E353  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDA4B069D6-8C80-4001-8979-E5428E378B2F  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDA0E08D11-254C-4666-8792-FAA2188B1A46  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID16AE7209-EC7D-420D-B165-839BF48EA891  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDC83F30E4-E026-4D99-A910-B1FB043AE74A  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD8E45A0C-5D57-490D-B139-C87674C363F9  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD233D7A2-BDC5-44ED-90EA-88A307162121  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID2E50D7F0-26E9-4179-8B03-B849AFD08493  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDC08A800C-4524-45DE-90BF-6EFA92A48772  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID46AD0F0B-32AB-4DF9-B71C-5519FE40D5A8  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDA0FCFDE8-8DB2-4183-A416-E9DDF14D4DD3  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3E5E125C-3142-4B31-A12C-6B5B76F78283  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDBB64FB07-86CF-454A-9AF9-A94A32CB7CD9  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID84343B42-69B9-49C3-B96A-4B1ADC577E6F  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID2745D187-82D3-452A-8979-966924B1C866  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID01B108B4-0204-4DA7-AEBF-1FB0421987E2  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDCA071D73-5874-4264-8DD6-547EDA6F87BE  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID4EA73ADF-AF54-4677-8C87-C3DDE795A1EF  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID4C16DE03-C7C1-461C-A15A-8D2F8AB97010  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDCB6AF610-B75E-4FA5-ABAD-532947B7DB37  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID2C855E7C-32D1-4757-AEE2-140BD6AD71AE  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD13D8061-0763-4634-8232-368350F0327B  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID8CDF3F66-1B8C-498F-83E7-19C03FD16E2B  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID77538BF9-38A4-4441-8AE7-31004BB371E7  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID59AD00CC-4CB5-4695-ACBD-B44CE75762FE  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID9D41FA23-3D92-435F-B0E2-5DA784811239  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDEE4AC2E4-5505-4494-8F5A-74FD4D6A00CF  series:Ø/3  Ø/0 -> Ø/3
+Assembly numbering done in 0s
+Numbering 86 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:18:38 2019
+
+*** Numbering (Batman): Wed Aug 07 19:20:12 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 387 parts.
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93019995, GUID: ID590C669B-42FC-4602-8EED-351672488C2A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93020137, GUID: ID06EC9DF5-7BAF-4033-A5B9-4CCFD4E124A5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053605, GUID: IDC81EBF44-28BC-4D48-8DC8-3D40F0A681F4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053723, GUID: ID5EDFFFB0-A59C-40B6-8400-FFFF36158605, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053811, GUID: IDE1643154-FB56-4363-B88A-19FFDF0DF8AD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053872, GUID: ID62738670-CEC2-401A-A18D-080EF8F6A61C, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054253, GUID: IDC9D81049-BC14-484F-8D07-AF6D356BD4DD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054311, GUID: IDC518A9EF-55E0-4221-9202-74C0DDD9488B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054369, GUID: IDE5955CBC-19F4-4E6E-9B2F-46890AE55A6E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054427, GUID: ID13C7887C-DC79-4614-AD9B-3E47F1C3B0B2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054730, GUID: ID8849BD27-CBCF-4954-936D-70B7C0212B8E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054788, GUID: IDCC8FA915-9760-42FC-80AC-C1BE4F076A45, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054846, GUID: IDAD4F196C-925E-427E-9709-AFE9BCFF5937, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054904, GUID: ID184585FB-3388-424F-B117-095F3C2B7A2D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055215, GUID: ID142C787E-AC46-4732-B9E1-CCE128A7AC2A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055273, GUID: ID1C823D27-59F9-4484-9347-FAF7239F93F2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055331, GUID: ID04D32808-E80B-4C78-B54C-BDA39FBD5EEC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055389, GUID: IDA9823A3F-4A01-4B70-BEEF-45D8932A0907, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055700, GUID: ID5DBE5490-D682-46FF-9BD9-1E2CDCF464BC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055758, GUID: IDE54BBED3-B4B9-46EF-B238-AD11487EEDA0, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055816, GUID: ID2EC894E1-EAE8-44BB-AB91-2F2AE7F2619C, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055874, GUID: IDC6F68E85-968A-4E67-9330-50B2D011AD3B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056185, GUID: ID34A03983-6FC9-4E4E-9A90-908E7E7237D7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056243, GUID: ID45628CB1-C077-4E59-A9A3-9E5B08D41FBF, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056301, GUID: ID0CBCF3B5-C729-43E6-80B2-C8E8CEF1DA12, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056359, GUID: ID11CE879B-3184-4B5B-8D93-34BFB64604EA, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076723, GUID: ID5063D6C2-EA4F-45AD-A3FD-BCD047F4D2D7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076781, GUID: ID3F949600-0D23-45D8-AE66-69E9954B709F, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076839, GUID: ID0DDCA77A-AC1B-47B7-B156-CA130FFAD323, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076897, GUID: ID2A649F73-9A24-4868-BA24-3373E9E55DD8, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93097525, GUID: IDF3228664-9734-4A88-9ADE-280B945B9C26, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93101984, GUID: ID17490958-A589-464C-BF39-A407E65DC0F5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102072, GUID: ID11485C41-088B-4948-B763-D540B44E6975, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102160, GUID: ID74079D19-C17A-446C-9982-5845021C679D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102847, GUID: IDC0570A6E-EA36-4971-93C6-D6D6937441F4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102978, GUID: ID4411CE49-2DC3-412C-AEE0-4D45DCC62BF5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103036, GUID: ID30DDC8AA-2B72-43D4-ADBA-DC37157514AE, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103094, GUID: ID8B9CA63D-B725-46EC-8085-67C0DC7BDEAF, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103327, GUID: ID994C915C-F193-4BE0-8768-635910B427C3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103458, GUID: ID2D909077-39A5-4091-8FB9-2F90398E11B1, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103516, GUID: ID3F9B828C-6109-49CF-B4E8-5B4592B56B6A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103574, GUID: ID147E9875-0936-46B8-A676-477941EB9B13, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103807, GUID: ID9EF008E2-15F6-4D97-A9E1-C3402B2CDDF3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103938, GUID: ID91F858B6-7049-4B70-A844-4A45DAD718A2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103996, GUID: ID9A200211-7755-48CB-B015-612EBE4C2182, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104054, GUID: IDD4B26D39-6D4D-47BF-9FD3-4958E26AA5ED, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104287, GUID: IDE41C3C48-738B-438A-AFBE-5E5E971C35A7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104418, GUID: IDDF380713-EF3B-4727-8528-C3CCF651D5E7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104476, GUID: ID46A0143B-D66C-4921-9B2C-05FDCAAFA72B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104534, GUID: IDF14CEB4C-1FCC-4D96-A203-D7D6B6D76C65, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117119, GUID: IDBDBE1594-33D5-485C-AFE4-6D07146BA7F0, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117250, GUID: ID984F653A-F622-4339-BE1E-4ACC6F881A48, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117308, GUID: ID1A10E860-F3B4-4082-B0A5-79C2F2350311, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117366, GUID: ID107113D5-5AE8-4BD5-9064-DB11398E6091, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117599, GUID: IDD81C1897-FA16-4151-BEC6-3307BBD66B63, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117730, GUID: IDABDD220C-3590-4593-BDF3-1570087A8ABA, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117788, GUID: ID4AC56C6E-AC0B-47C6-8D60-D21E87CC76FB, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117846, GUID: ID162D9728-F84A-4BF6-A94B-B315ABE23B47, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118079, GUID: ID290E06C3-A52D-48EB-BCF4-192F1D259C99, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118210, GUID: IDCCEC7C44-D400-4A50-853D-552C0C6C43B1, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118268, GUID: ID83DA9876-D177-427B-9558-2AFE0DB4A9BC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118326, GUID: ID94C5E637-0E0D-49AD-86C0-506D85BB8885, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118559, GUID: IDC7528AB6-7489-471B-85C3-25CE188E441D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118690, GUID: ID202CFFE5-1943-487C-9769-7A3AC8A91FF8, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118748, GUID: ID934F8E82-CF28-44E8-A96D-DF4379B3F8F6, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118806, GUID: IDF5382F5E-AD8D-47D3-920C-8E4F0C4535C5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119039, GUID: ID35F66C34-F0CE-4135-A60D-AC00C75BF001, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119170, GUID: ID54B6188C-F369-4A69-A202-3525C85A6333, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119228, GUID: IDD3B1FD1C-93B2-4DF6-9173-66641E3CBDF4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119286, GUID: ID4455B40A-4246-412B-A117-147A2017E20D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119519, GUID: IDEE673842-EC35-46BB-9D72-DB69E838303D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119650, GUID: ID45B92AB5-16D2-46CC-83D9-87AD9CDB59F3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119708, GUID: IDF75ACB80-B04F-44A2-9424-113638C29B91, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119766, GUID: IDCE577B0A-B307-4AFF-806F-17807AB4AF7A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119999, GUID: ID7CEAA825-2119-4977-B72E-B8CE4754DAFD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120130, GUID: ID39BBA431-071A-455F-88C3-556647FE0F06, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120188, GUID: IDC1A54A7B-9FC7-4463-85B7-B483D159EDCD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120246, GUID: IDE9904EEB-5E9E-4296-8693-8AEFFE8589A9, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718401, GUID: ID5A8DE0B1-8B30-4F64-833C-A1EE9DF6AAA2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718459, GUID: ID2A127B5A-DA71-41EE-A4C4-BC0805D9147B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718517, GUID: ID969CC537-19D2-4031-B1FB-86AA6F7E9B95, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718575, GUID: ID06572E01-ACA2-4A07-B578-CDA33CEF1D20, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720003, GUID: IDD1FBA068-C99B-4EFC-B497-5E3A171BDF14, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720064, GUID: IDC6D02C27-8905-47C7-8BDD-49D025B6915D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720125, GUID: ID558174BF-6FC1-411F-BB98-758EC56D1CDD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720186, GUID: IDCEED1B9C-1062-4889-B9E5-55F990175A6E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 2 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 2 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:20:12 2019
+
+*** Numbering (Batman): Wed Aug 07 19:20:24 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 387 parts.
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93019995, GUID: ID590C669B-42FC-4602-8EED-351672488C2A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93020137, GUID: ID06EC9DF5-7BAF-4033-A5B9-4CCFD4E124A5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053605, GUID: IDC81EBF44-28BC-4D48-8DC8-3D40F0A681F4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053723, GUID: ID5EDFFFB0-A59C-40B6-8400-FFFF36158605, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053811, GUID: IDE1643154-FB56-4363-B88A-19FFDF0DF8AD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053872, GUID: ID62738670-CEC2-401A-A18D-080EF8F6A61C, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054253, GUID: IDC9D81049-BC14-484F-8D07-AF6D356BD4DD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054311, GUID: IDC518A9EF-55E0-4221-9202-74C0DDD9488B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054369, GUID: IDE5955CBC-19F4-4E6E-9B2F-46890AE55A6E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054427, GUID: ID13C7887C-DC79-4614-AD9B-3E47F1C3B0B2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054730, GUID: ID8849BD27-CBCF-4954-936D-70B7C0212B8E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054788, GUID: IDCC8FA915-9760-42FC-80AC-C1BE4F076A45, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054846, GUID: IDAD4F196C-925E-427E-9709-AFE9BCFF5937, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054904, GUID: ID184585FB-3388-424F-B117-095F3C2B7A2D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055215, GUID: ID142C787E-AC46-4732-B9E1-CCE128A7AC2A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055273, GUID: ID1C823D27-59F9-4484-9347-FAF7239F93F2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055331, GUID: ID04D32808-E80B-4C78-B54C-BDA39FBD5EEC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055389, GUID: IDA9823A3F-4A01-4B70-BEEF-45D8932A0907, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055700, GUID: ID5DBE5490-D682-46FF-9BD9-1E2CDCF464BC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055758, GUID: IDE54BBED3-B4B9-46EF-B238-AD11487EEDA0, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055816, GUID: ID2EC894E1-EAE8-44BB-AB91-2F2AE7F2619C, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055874, GUID: IDC6F68E85-968A-4E67-9330-50B2D011AD3B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056185, GUID: ID34A03983-6FC9-4E4E-9A90-908E7E7237D7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056243, GUID: ID45628CB1-C077-4E59-A9A3-9E5B08D41FBF, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056301, GUID: ID0CBCF3B5-C729-43E6-80B2-C8E8CEF1DA12, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056359, GUID: ID11CE879B-3184-4B5B-8D93-34BFB64604EA, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076723, GUID: ID5063D6C2-EA4F-45AD-A3FD-BCD047F4D2D7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076781, GUID: ID3F949600-0D23-45D8-AE66-69E9954B709F, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076839, GUID: ID0DDCA77A-AC1B-47B7-B156-CA130FFAD323, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076897, GUID: ID2A649F73-9A24-4868-BA24-3373E9E55DD8, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93097525, GUID: IDF3228664-9734-4A88-9ADE-280B945B9C26, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93101984, GUID: ID17490958-A589-464C-BF39-A407E65DC0F5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102072, GUID: ID11485C41-088B-4948-B763-D540B44E6975, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102160, GUID: ID74079D19-C17A-446C-9982-5845021C679D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102847, GUID: IDC0570A6E-EA36-4971-93C6-D6D6937441F4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102978, GUID: ID4411CE49-2DC3-412C-AEE0-4D45DCC62BF5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103036, GUID: ID30DDC8AA-2B72-43D4-ADBA-DC37157514AE, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103094, GUID: ID8B9CA63D-B725-46EC-8085-67C0DC7BDEAF, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103327, GUID: ID994C915C-F193-4BE0-8768-635910B427C3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103458, GUID: ID2D909077-39A5-4091-8FB9-2F90398E11B1, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103516, GUID: ID3F9B828C-6109-49CF-B4E8-5B4592B56B6A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103574, GUID: ID147E9875-0936-46B8-A676-477941EB9B13, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103807, GUID: ID9EF008E2-15F6-4D97-A9E1-C3402B2CDDF3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103938, GUID: ID91F858B6-7049-4B70-A844-4A45DAD718A2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103996, GUID: ID9A200211-7755-48CB-B015-612EBE4C2182, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104054, GUID: IDD4B26D39-6D4D-47BF-9FD3-4958E26AA5ED, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104287, GUID: IDE41C3C48-738B-438A-AFBE-5E5E971C35A7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104418, GUID: IDDF380713-EF3B-4727-8528-C3CCF651D5E7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104476, GUID: ID46A0143B-D66C-4921-9B2C-05FDCAAFA72B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104534, GUID: IDF14CEB4C-1FCC-4D96-A203-D7D6B6D76C65, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117119, GUID: IDBDBE1594-33D5-485C-AFE4-6D07146BA7F0, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117250, GUID: ID984F653A-F622-4339-BE1E-4ACC6F881A48, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117308, GUID: ID1A10E860-F3B4-4082-B0A5-79C2F2350311, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117366, GUID: ID107113D5-5AE8-4BD5-9064-DB11398E6091, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117599, GUID: IDD81C1897-FA16-4151-BEC6-3307BBD66B63, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117730, GUID: IDABDD220C-3590-4593-BDF3-1570087A8ABA, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117788, GUID: ID4AC56C6E-AC0B-47C6-8D60-D21E87CC76FB, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117846, GUID: ID162D9728-F84A-4BF6-A94B-B315ABE23B47, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118079, GUID: ID290E06C3-A52D-48EB-BCF4-192F1D259C99, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118210, GUID: IDCCEC7C44-D400-4A50-853D-552C0C6C43B1, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118268, GUID: ID83DA9876-D177-427B-9558-2AFE0DB4A9BC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118326, GUID: ID94C5E637-0E0D-49AD-86C0-506D85BB8885, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118559, GUID: IDC7528AB6-7489-471B-85C3-25CE188E441D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118690, GUID: ID202CFFE5-1943-487C-9769-7A3AC8A91FF8, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118748, GUID: ID934F8E82-CF28-44E8-A96D-DF4379B3F8F6, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118806, GUID: IDF5382F5E-AD8D-47D3-920C-8E4F0C4535C5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119039, GUID: ID35F66C34-F0CE-4135-A60D-AC00C75BF001, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119170, GUID: ID54B6188C-F369-4A69-A202-3525C85A6333, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119228, GUID: IDD3B1FD1C-93B2-4DF6-9173-66641E3CBDF4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119286, GUID: ID4455B40A-4246-412B-A117-147A2017E20D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119519, GUID: IDEE673842-EC35-46BB-9D72-DB69E838303D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119650, GUID: ID45B92AB5-16D2-46CC-83D9-87AD9CDB59F3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119708, GUID: IDF75ACB80-B04F-44A2-9424-113638C29B91, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119766, GUID: IDCE577B0A-B307-4AFF-806F-17807AB4AF7A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119999, GUID: ID7CEAA825-2119-4977-B72E-B8CE4754DAFD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120130, GUID: ID39BBA431-071A-455F-88C3-556647FE0F06, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120188, GUID: IDC1A54A7B-9FC7-4463-85B7-B483D159EDCD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120246, GUID: IDE9904EEB-5E9E-4296-8693-8AEFFE8589A9, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718401, GUID: ID5A8DE0B1-8B30-4F64-833C-A1EE9DF6AAA2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718459, GUID: ID2A127B5A-DA71-41EE-A4C4-BC0805D9147B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718517, GUID: ID969CC537-19D2-4031-B1FB-86AA6F7E9B95, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718575, GUID: ID06572E01-ACA2-4A07-B578-CDA33CEF1D20, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720003, GUID: IDD1FBA068-C99B-4EFC-B497-5E3A171BDF14, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720064, GUID: IDC6D02C27-8905-47C7-8BDD-49D025B6915D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720125, GUID: ID558174BF-6FC1-411F-BB98-758EC56D1CDD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720186, GUID: IDCEED1B9C-1062-4889-B9E5-55F990175A6E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 2 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 2 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:20:24 2019
+
+*** Numbering (Batman): Wed Aug 07 19:20:51 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 86 parts.
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93019995, GUID: ID590C669B-42FC-4602-8EED-351672488C2A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93020137, GUID: ID06EC9DF5-7BAF-4033-A5B9-4CCFD4E124A5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053605, GUID: IDC81EBF44-28BC-4D48-8DC8-3D40F0A681F4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053723, GUID: ID5EDFFFB0-A59C-40B6-8400-FFFF36158605, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053811, GUID: IDE1643154-FB56-4363-B88A-19FFDF0DF8AD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053872, GUID: ID62738670-CEC2-401A-A18D-080EF8F6A61C, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054253, GUID: IDC9D81049-BC14-484F-8D07-AF6D356BD4DD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054311, GUID: IDC518A9EF-55E0-4221-9202-74C0DDD9488B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054369, GUID: IDE5955CBC-19F4-4E6E-9B2F-46890AE55A6E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054427, GUID: ID13C7887C-DC79-4614-AD9B-3E47F1C3B0B2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054730, GUID: ID8849BD27-CBCF-4954-936D-70B7C0212B8E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054788, GUID: IDCC8FA915-9760-42FC-80AC-C1BE4F076A45, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054846, GUID: IDAD4F196C-925E-427E-9709-AFE9BCFF5937, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054904, GUID: ID184585FB-3388-424F-B117-095F3C2B7A2D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055215, GUID: ID142C787E-AC46-4732-B9E1-CCE128A7AC2A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055273, GUID: ID1C823D27-59F9-4484-9347-FAF7239F93F2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055331, GUID: ID04D32808-E80B-4C78-B54C-BDA39FBD5EEC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055389, GUID: IDA9823A3F-4A01-4B70-BEEF-45D8932A0907, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055700, GUID: ID5DBE5490-D682-46FF-9BD9-1E2CDCF464BC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055758, GUID: IDE54BBED3-B4B9-46EF-B238-AD11487EEDA0, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055816, GUID: ID2EC894E1-EAE8-44BB-AB91-2F2AE7F2619C, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055874, GUID: IDC6F68E85-968A-4E67-9330-50B2D011AD3B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056185, GUID: ID34A03983-6FC9-4E4E-9A90-908E7E7237D7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056243, GUID: ID45628CB1-C077-4E59-A9A3-9E5B08D41FBF, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056301, GUID: ID0CBCF3B5-C729-43E6-80B2-C8E8CEF1DA12, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056359, GUID: ID11CE879B-3184-4B5B-8D93-34BFB64604EA, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076723, GUID: ID5063D6C2-EA4F-45AD-A3FD-BCD047F4D2D7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076781, GUID: ID3F949600-0D23-45D8-AE66-69E9954B709F, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076839, GUID: ID0DDCA77A-AC1B-47B7-B156-CA130FFAD323, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076897, GUID: ID2A649F73-9A24-4868-BA24-3373E9E55DD8, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93097525, GUID: IDF3228664-9734-4A88-9ADE-280B945B9C26, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93101984, GUID: ID17490958-A589-464C-BF39-A407E65DC0F5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102072, GUID: ID11485C41-088B-4948-B763-D540B44E6975, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102160, GUID: ID74079D19-C17A-446C-9982-5845021C679D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102847, GUID: IDC0570A6E-EA36-4971-93C6-D6D6937441F4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102978, GUID: ID4411CE49-2DC3-412C-AEE0-4D45DCC62BF5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103036, GUID: ID30DDC8AA-2B72-43D4-ADBA-DC37157514AE, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103094, GUID: ID8B9CA63D-B725-46EC-8085-67C0DC7BDEAF, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103327, GUID: ID994C915C-F193-4BE0-8768-635910B427C3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103458, GUID: ID2D909077-39A5-4091-8FB9-2F90398E11B1, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103516, GUID: ID3F9B828C-6109-49CF-B4E8-5B4592B56B6A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103574, GUID: ID147E9875-0936-46B8-A676-477941EB9B13, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103807, GUID: ID9EF008E2-15F6-4D97-A9E1-C3402B2CDDF3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103938, GUID: ID91F858B6-7049-4B70-A844-4A45DAD718A2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103996, GUID: ID9A200211-7755-48CB-B015-612EBE4C2182, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104054, GUID: IDD4B26D39-6D4D-47BF-9FD3-4958E26AA5ED, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104287, GUID: IDE41C3C48-738B-438A-AFBE-5E5E971C35A7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104418, GUID: IDDF380713-EF3B-4727-8528-C3CCF651D5E7, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104476, GUID: ID46A0143B-D66C-4921-9B2C-05FDCAAFA72B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104534, GUID: IDF14CEB4C-1FCC-4D96-A203-D7D6B6D76C65, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117119, GUID: IDBDBE1594-33D5-485C-AFE4-6D07146BA7F0, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117250, GUID: ID984F653A-F622-4339-BE1E-4ACC6F881A48, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117308, GUID: ID1A10E860-F3B4-4082-B0A5-79C2F2350311, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117366, GUID: ID107113D5-5AE8-4BD5-9064-DB11398E6091, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117599, GUID: IDD81C1897-FA16-4151-BEC6-3307BBD66B63, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117730, GUID: IDABDD220C-3590-4593-BDF3-1570087A8ABA, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117788, GUID: ID4AC56C6E-AC0B-47C6-8D60-D21E87CC76FB, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117846, GUID: ID162D9728-F84A-4BF6-A94B-B315ABE23B47, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118079, GUID: ID290E06C3-A52D-48EB-BCF4-192F1D259C99, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118210, GUID: IDCCEC7C44-D400-4A50-853D-552C0C6C43B1, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118268, GUID: ID83DA9876-D177-427B-9558-2AFE0DB4A9BC, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118326, GUID: ID94C5E637-0E0D-49AD-86C0-506D85BB8885, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118559, GUID: IDC7528AB6-7489-471B-85C3-25CE188E441D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118690, GUID: ID202CFFE5-1943-487C-9769-7A3AC8A91FF8, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118748, GUID: ID934F8E82-CF28-44E8-A96D-DF4379B3F8F6, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118806, GUID: IDF5382F5E-AD8D-47D3-920C-8E4F0C4535C5, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119039, GUID: ID35F66C34-F0CE-4135-A60D-AC00C75BF001, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119170, GUID: ID54B6188C-F369-4A69-A202-3525C85A6333, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119228, GUID: IDD3B1FD1C-93B2-4DF6-9173-66641E3CBDF4, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119286, GUID: ID4455B40A-4246-412B-A117-147A2017E20D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119519, GUID: IDEE673842-EC35-46BB-9D72-DB69E838303D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119650, GUID: ID45B92AB5-16D2-46CC-83D9-87AD9CDB59F3, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119708, GUID: IDF75ACB80-B04F-44A2-9424-113638C29B91, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119766, GUID: IDCE577B0A-B307-4AFF-806F-17807AB4AF7A, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119999, GUID: ID7CEAA825-2119-4977-B72E-B8CE4754DAFD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120130, GUID: ID39BBA431-071A-455F-88C3-556647FE0F06, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120188, GUID: IDC1A54A7B-9FC7-4463-85B7-B483D159EDCD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120246, GUID: IDE9904EEB-5E9E-4296-8693-8AEFFE8589A9, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718401, GUID: ID5A8DE0B1-8B30-4F64-833C-A1EE9DF6AAA2, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718459, GUID: ID2A127B5A-DA71-41EE-A4C4-BC0805D9147B, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718517, GUID: ID969CC537-19D2-4031-B1FB-86AA6F7E9B95, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718575, GUID: ID06572E01-ACA2-4A07-B578-CDA33CEF1D20, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720003, GUID: IDD1FBA068-C99B-4EFC-B497-5E3A171BDF14, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720064, GUID: IDC6D02C27-8905-47C7-8BDD-49D025B6915D, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720125, GUID: ID558174BF-6FC1-411F-BB98-758EC56D1CDD, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720186, GUID: IDCEED1B9C-1062-4889-B9E5-55F990175A6E, series -12, position number -12 (tentative) <-- This object will not be (re)numbered!
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 0 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 0 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:20:52 2019
+
+*** Numbering (Batman): Wed Aug 07 19:21:45 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 86 parts.
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93019995, GUID: ID590C669B-42FC-4602-8EED-351672488C2A, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93020137, GUID: ID06EC9DF5-7BAF-4033-A5B9-4CCFD4E124A5, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053605, GUID: IDC81EBF44-28BC-4D48-8DC8-3D40F0A681F4, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053723, GUID: ID5EDFFFB0-A59C-40B6-8400-FFFF36158605, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053811, GUID: IDE1643154-FB56-4363-B88A-19FFDF0DF8AD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053872, GUID: ID62738670-CEC2-401A-A18D-080EF8F6A61C, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054253, GUID: IDC9D81049-BC14-484F-8D07-AF6D356BD4DD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054311, GUID: IDC518A9EF-55E0-4221-9202-74C0DDD9488B, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054369, GUID: IDE5955CBC-19F4-4E6E-9B2F-46890AE55A6E, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054427, GUID: ID13C7887C-DC79-4614-AD9B-3E47F1C3B0B2, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054730, GUID: ID8849BD27-CBCF-4954-936D-70B7C0212B8E, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054788, GUID: IDCC8FA915-9760-42FC-80AC-C1BE4F076A45, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054846, GUID: IDAD4F196C-925E-427E-9709-AFE9BCFF5937, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054904, GUID: ID184585FB-3388-424F-B117-095F3C2B7A2D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055215, GUID: ID142C787E-AC46-4732-B9E1-CCE128A7AC2A, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055273, GUID: ID1C823D27-59F9-4484-9347-FAF7239F93F2, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055331, GUID: ID04D32808-E80B-4C78-B54C-BDA39FBD5EEC, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055389, GUID: IDA9823A3F-4A01-4B70-BEEF-45D8932A0907, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055700, GUID: ID5DBE5490-D682-46FF-9BD9-1E2CDCF464BC, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055758, GUID: IDE54BBED3-B4B9-46EF-B238-AD11487EEDA0, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055816, GUID: ID2EC894E1-EAE8-44BB-AB91-2F2AE7F2619C, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055874, GUID: IDC6F68E85-968A-4E67-9330-50B2D011AD3B, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056185, GUID: ID34A03983-6FC9-4E4E-9A90-908E7E7237D7, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056243, GUID: ID45628CB1-C077-4E59-A9A3-9E5B08D41FBF, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056301, GUID: ID0CBCF3B5-C729-43E6-80B2-C8E8CEF1DA12, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056359, GUID: ID11CE879B-3184-4B5B-8D93-34BFB64604EA, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076723, GUID: ID5063D6C2-EA4F-45AD-A3FD-BCD047F4D2D7, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076781, GUID: ID3F949600-0D23-45D8-AE66-69E9954B709F, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076839, GUID: ID0DDCA77A-AC1B-47B7-B156-CA130FFAD323, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076897, GUID: ID2A649F73-9A24-4868-BA24-3373E9E55DD8, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93097525, GUID: IDF3228664-9734-4A88-9ADE-280B945B9C26, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93101984, GUID: ID17490958-A589-464C-BF39-A407E65DC0F5, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102072, GUID: ID11485C41-088B-4948-B763-D540B44E6975, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102160, GUID: ID74079D19-C17A-446C-9982-5845021C679D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102847, GUID: IDC0570A6E-EA36-4971-93C6-D6D6937441F4, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102978, GUID: ID4411CE49-2DC3-412C-AEE0-4D45DCC62BF5, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103036, GUID: ID30DDC8AA-2B72-43D4-ADBA-DC37157514AE, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103094, GUID: ID8B9CA63D-B725-46EC-8085-67C0DC7BDEAF, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103327, GUID: ID994C915C-F193-4BE0-8768-635910B427C3, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103458, GUID: ID2D909077-39A5-4091-8FB9-2F90398E11B1, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103516, GUID: ID3F9B828C-6109-49CF-B4E8-5B4592B56B6A, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103574, GUID: ID147E9875-0936-46B8-A676-477941EB9B13, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103807, GUID: ID9EF008E2-15F6-4D97-A9E1-C3402B2CDDF3, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103938, GUID: ID91F858B6-7049-4B70-A844-4A45DAD718A2, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103996, GUID: ID9A200211-7755-48CB-B015-612EBE4C2182, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104054, GUID: IDD4B26D39-6D4D-47BF-9FD3-4958E26AA5ED, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104287, GUID: IDE41C3C48-738B-438A-AFBE-5E5E971C35A7, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104418, GUID: IDDF380713-EF3B-4727-8528-C3CCF651D5E7, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104476, GUID: ID46A0143B-D66C-4921-9B2C-05FDCAAFA72B, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104534, GUID: IDF14CEB4C-1FCC-4D96-A203-D7D6B6D76C65, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117119, GUID: IDBDBE1594-33D5-485C-AFE4-6D07146BA7F0, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117250, GUID: ID984F653A-F622-4339-BE1E-4ACC6F881A48, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117308, GUID: ID1A10E860-F3B4-4082-B0A5-79C2F2350311, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117366, GUID: ID107113D5-5AE8-4BD5-9064-DB11398E6091, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117599, GUID: IDD81C1897-FA16-4151-BEC6-3307BBD66B63, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117730, GUID: IDABDD220C-3590-4593-BDF3-1570087A8ABA, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117788, GUID: ID4AC56C6E-AC0B-47C6-8D60-D21E87CC76FB, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117846, GUID: ID162D9728-F84A-4BF6-A94B-B315ABE23B47, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118079, GUID: ID290E06C3-A52D-48EB-BCF4-192F1D259C99, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118210, GUID: IDCCEC7C44-D400-4A50-853D-552C0C6C43B1, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118268, GUID: ID83DA9876-D177-427B-9558-2AFE0DB4A9BC, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118326, GUID: ID94C5E637-0E0D-49AD-86C0-506D85BB8885, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118559, GUID: IDC7528AB6-7489-471B-85C3-25CE188E441D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118690, GUID: ID202CFFE5-1943-487C-9769-7A3AC8A91FF8, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118748, GUID: ID934F8E82-CF28-44E8-A96D-DF4379B3F8F6, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118806, GUID: IDF5382F5E-AD8D-47D3-920C-8E4F0C4535C5, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119039, GUID: ID35F66C34-F0CE-4135-A60D-AC00C75BF001, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119170, GUID: ID54B6188C-F369-4A69-A202-3525C85A6333, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119228, GUID: IDD3B1FD1C-93B2-4DF6-9173-66641E3CBDF4, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119286, GUID: ID4455B40A-4246-412B-A117-147A2017E20D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119519, GUID: IDEE673842-EC35-46BB-9D72-DB69E838303D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119650, GUID: ID45B92AB5-16D2-46CC-83D9-87AD9CDB59F3, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119708, GUID: IDF75ACB80-B04F-44A2-9424-113638C29B91, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119766, GUID: IDCE577B0A-B307-4AFF-806F-17807AB4AF7A, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119999, GUID: ID7CEAA825-2119-4977-B72E-B8CE4754DAFD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120130, GUID: ID39BBA431-071A-455F-88C3-556647FE0F06, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120188, GUID: IDC1A54A7B-9FC7-4463-85B7-B483D159EDCD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120246, GUID: IDE9904EEB-5E9E-4296-8693-8AEFFE8589A9, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718401, GUID: ID5A8DE0B1-8B30-4F64-833C-A1EE9DF6AAA2, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718459, GUID: ID2A127B5A-DA71-41EE-A4C4-BC0805D9147B, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718517, GUID: ID969CC537-19D2-4031-B1FB-86AA6F7E9B95, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718575, GUID: ID06572E01-ACA2-4A07-B578-CDA33CEF1D20, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720003, GUID: IDD1FBA068-C99B-4EFC-B497-5E3A171BDF14, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720064, GUID: IDC6D02C27-8905-47C7-8BDD-49D025B6915D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720125, GUID: ID558174BF-6FC1-411F-BB98-758EC56D1CDD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720186, GUID: IDCEED1B9C-1062-4889-B9E5-55F990175A6E, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 0 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 0 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:21:45 2019
+
+*** Numbering (Batman): Wed Aug 07 19:22:15 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 387 parts.
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93019995, GUID: ID590C669B-42FC-4602-8EED-351672488C2A, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93020137, GUID: ID06EC9DF5-7BAF-4033-A5B9-4CCFD4E124A5, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053605, GUID: IDC81EBF44-28BC-4D48-8DC8-3D40F0A681F4, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053723, GUID: ID5EDFFFB0-A59C-40B6-8400-FFFF36158605, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053811, GUID: IDE1643154-FB56-4363-B88A-19FFDF0DF8AD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053872, GUID: ID62738670-CEC2-401A-A18D-080EF8F6A61C, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054253, GUID: IDC9D81049-BC14-484F-8D07-AF6D356BD4DD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054311, GUID: IDC518A9EF-55E0-4221-9202-74C0DDD9488B, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054369, GUID: IDE5955CBC-19F4-4E6E-9B2F-46890AE55A6E, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054427, GUID: ID13C7887C-DC79-4614-AD9B-3E47F1C3B0B2, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054730, GUID: ID8849BD27-CBCF-4954-936D-70B7C0212B8E, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054788, GUID: IDCC8FA915-9760-42FC-80AC-C1BE4F076A45, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054846, GUID: IDAD4F196C-925E-427E-9709-AFE9BCFF5937, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054904, GUID: ID184585FB-3388-424F-B117-095F3C2B7A2D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055215, GUID: ID142C787E-AC46-4732-B9E1-CCE128A7AC2A, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055273, GUID: ID1C823D27-59F9-4484-9347-FAF7239F93F2, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055331, GUID: ID04D32808-E80B-4C78-B54C-BDA39FBD5EEC, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055389, GUID: IDA9823A3F-4A01-4B70-BEEF-45D8932A0907, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055700, GUID: ID5DBE5490-D682-46FF-9BD9-1E2CDCF464BC, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055758, GUID: IDE54BBED3-B4B9-46EF-B238-AD11487EEDA0, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055816, GUID: ID2EC894E1-EAE8-44BB-AB91-2F2AE7F2619C, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055874, GUID: IDC6F68E85-968A-4E67-9330-50B2D011AD3B, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056185, GUID: ID34A03983-6FC9-4E4E-9A90-908E7E7237D7, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056243, GUID: ID45628CB1-C077-4E59-A9A3-9E5B08D41FBF, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056301, GUID: ID0CBCF3B5-C729-43E6-80B2-C8E8CEF1DA12, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056359, GUID: ID11CE879B-3184-4B5B-8D93-34BFB64604EA, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076723, GUID: ID5063D6C2-EA4F-45AD-A3FD-BCD047F4D2D7, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076781, GUID: ID3F949600-0D23-45D8-AE66-69E9954B709F, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076839, GUID: ID0DDCA77A-AC1B-47B7-B156-CA130FFAD323, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076897, GUID: ID2A649F73-9A24-4868-BA24-3373E9E55DD8, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93097525, GUID: IDF3228664-9734-4A88-9ADE-280B945B9C26, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93101984, GUID: ID17490958-A589-464C-BF39-A407E65DC0F5, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102072, GUID: ID11485C41-088B-4948-B763-D540B44E6975, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102160, GUID: ID74079D19-C17A-446C-9982-5845021C679D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102847, GUID: IDC0570A6E-EA36-4971-93C6-D6D6937441F4, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102978, GUID: ID4411CE49-2DC3-412C-AEE0-4D45DCC62BF5, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103036, GUID: ID30DDC8AA-2B72-43D4-ADBA-DC37157514AE, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103094, GUID: ID8B9CA63D-B725-46EC-8085-67C0DC7BDEAF, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103327, GUID: ID994C915C-F193-4BE0-8768-635910B427C3, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103458, GUID: ID2D909077-39A5-4091-8FB9-2F90398E11B1, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103516, GUID: ID3F9B828C-6109-49CF-B4E8-5B4592B56B6A, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103574, GUID: ID147E9875-0936-46B8-A676-477941EB9B13, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103807, GUID: ID9EF008E2-15F6-4D97-A9E1-C3402B2CDDF3, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103938, GUID: ID91F858B6-7049-4B70-A844-4A45DAD718A2, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103996, GUID: ID9A200211-7755-48CB-B015-612EBE4C2182, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104054, GUID: IDD4B26D39-6D4D-47BF-9FD3-4958E26AA5ED, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104287, GUID: IDE41C3C48-738B-438A-AFBE-5E5E971C35A7, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104418, GUID: IDDF380713-EF3B-4727-8528-C3CCF651D5E7, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104476, GUID: ID46A0143B-D66C-4921-9B2C-05FDCAAFA72B, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104534, GUID: IDF14CEB4C-1FCC-4D96-A203-D7D6B6D76C65, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117119, GUID: IDBDBE1594-33D5-485C-AFE4-6D07146BA7F0, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117250, GUID: ID984F653A-F622-4339-BE1E-4ACC6F881A48, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117308, GUID: ID1A10E860-F3B4-4082-B0A5-79C2F2350311, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117366, GUID: ID107113D5-5AE8-4BD5-9064-DB11398E6091, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117599, GUID: IDD81C1897-FA16-4151-BEC6-3307BBD66B63, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117730, GUID: IDABDD220C-3590-4593-BDF3-1570087A8ABA, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117788, GUID: ID4AC56C6E-AC0B-47C6-8D60-D21E87CC76FB, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117846, GUID: ID162D9728-F84A-4BF6-A94B-B315ABE23B47, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118079, GUID: ID290E06C3-A52D-48EB-BCF4-192F1D259C99, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118210, GUID: IDCCEC7C44-D400-4A50-853D-552C0C6C43B1, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118268, GUID: ID83DA9876-D177-427B-9558-2AFE0DB4A9BC, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118326, GUID: ID94C5E637-0E0D-49AD-86C0-506D85BB8885, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118559, GUID: IDC7528AB6-7489-471B-85C3-25CE188E441D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118690, GUID: ID202CFFE5-1943-487C-9769-7A3AC8A91FF8, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118748, GUID: ID934F8E82-CF28-44E8-A96D-DF4379B3F8F6, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118806, GUID: IDF5382F5E-AD8D-47D3-920C-8E4F0C4535C5, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119039, GUID: ID35F66C34-F0CE-4135-A60D-AC00C75BF001, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119170, GUID: ID54B6188C-F369-4A69-A202-3525C85A6333, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119228, GUID: IDD3B1FD1C-93B2-4DF6-9173-66641E3CBDF4, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119286, GUID: ID4455B40A-4246-412B-A117-147A2017E20D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119519, GUID: IDEE673842-EC35-46BB-9D72-DB69E838303D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119650, GUID: ID45B92AB5-16D2-46CC-83D9-87AD9CDB59F3, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119708, GUID: IDF75ACB80-B04F-44A2-9424-113638C29B91, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119766, GUID: IDCE577B0A-B307-4AFF-806F-17807AB4AF7A, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119999, GUID: ID7CEAA825-2119-4977-B72E-B8CE4754DAFD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120130, GUID: ID39BBA431-071A-455F-88C3-556647FE0F06, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120188, GUID: IDC1A54A7B-9FC7-4463-85B7-B483D159EDCD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120246, GUID: IDE9904EEB-5E9E-4296-8693-8AEFFE8589A9, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718401, GUID: ID5A8DE0B1-8B30-4F64-833C-A1EE9DF6AAA2, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718459, GUID: ID2A127B5A-DA71-41EE-A4C4-BC0805D9147B, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718517, GUID: ID969CC537-19D2-4031-B1FB-86AA6F7E9B95, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718575, GUID: ID06572E01-ACA2-4A07-B578-CDA33CEF1D20, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720003, GUID: IDD1FBA068-C99B-4EFC-B497-5E3A171BDF14, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720064, GUID: IDC6D02C27-8905-47C7-8BDD-49D025B6915D, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720125, GUID: ID558174BF-6FC1-411F-BB98-758EC56D1CDD, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720186, GUID: IDCEED1B9C-1062-4889-B9E5-55F990175A6E, series -300, position number -300 (tentative) <-- This object will not be (re)numbered!
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 2 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 2 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:22:15 2019
+
+*** Numbering (Batman): Wed Aug 07 19:22:56 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 387 parts.
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93019995, GUID: ID590C669B-42FC-4602-8EED-351672488C2A, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93020137, GUID: ID06EC9DF5-7BAF-4033-A5B9-4CCFD4E124A5, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053605, GUID: IDC81EBF44-28BC-4D48-8DC8-3D40F0A681F4, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053723, GUID: ID5EDFFFB0-A59C-40B6-8400-FFFF36158605, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053811, GUID: IDE1643154-FB56-4363-B88A-19FFDF0DF8AD, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053872, GUID: ID62738670-CEC2-401A-A18D-080EF8F6A61C, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054253, GUID: IDC9D81049-BC14-484F-8D07-AF6D356BD4DD, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054311, GUID: IDC518A9EF-55E0-4221-9202-74C0DDD9488B, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054369, GUID: IDE5955CBC-19F4-4E6E-9B2F-46890AE55A6E, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054427, GUID: ID13C7887C-DC79-4614-AD9B-3E47F1C3B0B2, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054730, GUID: ID8849BD27-CBCF-4954-936D-70B7C0212B8E, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054788, GUID: IDCC8FA915-9760-42FC-80AC-C1BE4F076A45, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054846, GUID: IDAD4F196C-925E-427E-9709-AFE9BCFF5937, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054904, GUID: ID184585FB-3388-424F-B117-095F3C2B7A2D, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055215, GUID: ID142C787E-AC46-4732-B9E1-CCE128A7AC2A, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055273, GUID: ID1C823D27-59F9-4484-9347-FAF7239F93F2, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055331, GUID: ID04D32808-E80B-4C78-B54C-BDA39FBD5EEC, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055389, GUID: IDA9823A3F-4A01-4B70-BEEF-45D8932A0907, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055700, GUID: ID5DBE5490-D682-46FF-9BD9-1E2CDCF464BC, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055758, GUID: IDE54BBED3-B4B9-46EF-B238-AD11487EEDA0, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055816, GUID: ID2EC894E1-EAE8-44BB-AB91-2F2AE7F2619C, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055874, GUID: IDC6F68E85-968A-4E67-9330-50B2D011AD3B, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056185, GUID: ID34A03983-6FC9-4E4E-9A90-908E7E7237D7, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056243, GUID: ID45628CB1-C077-4E59-A9A3-9E5B08D41FBF, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056301, GUID: ID0CBCF3B5-C729-43E6-80B2-C8E8CEF1DA12, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056359, GUID: ID11CE879B-3184-4B5B-8D93-34BFB64604EA, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076723, GUID: ID5063D6C2-EA4F-45AD-A3FD-BCD047F4D2D7, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076781, GUID: ID3F949600-0D23-45D8-AE66-69E9954B709F, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076839, GUID: ID0DDCA77A-AC1B-47B7-B156-CA130FFAD323, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076897, GUID: ID2A649F73-9A24-4868-BA24-3373E9E55DD8, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93097525, GUID: IDF3228664-9734-4A88-9ADE-280B945B9C26, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93101984, GUID: ID17490958-A589-464C-BF39-A407E65DC0F5, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102072, GUID: ID11485C41-088B-4948-B763-D540B44E6975, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102160, GUID: ID74079D19-C17A-446C-9982-5845021C679D, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102847, GUID: IDC0570A6E-EA36-4971-93C6-D6D6937441F4, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102978, GUID: ID4411CE49-2DC3-412C-AEE0-4D45DCC62BF5, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103036, GUID: ID30DDC8AA-2B72-43D4-ADBA-DC37157514AE, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103094, GUID: ID8B9CA63D-B725-46EC-8085-67C0DC7BDEAF, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103327, GUID: ID994C915C-F193-4BE0-8768-635910B427C3, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103458, GUID: ID2D909077-39A5-4091-8FB9-2F90398E11B1, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103516, GUID: ID3F9B828C-6109-49CF-B4E8-5B4592B56B6A, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103574, GUID: ID147E9875-0936-46B8-A676-477941EB9B13, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103807, GUID: ID9EF008E2-15F6-4D97-A9E1-C3402B2CDDF3, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103938, GUID: ID91F858B6-7049-4B70-A844-4A45DAD718A2, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103996, GUID: ID9A200211-7755-48CB-B015-612EBE4C2182, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104054, GUID: IDD4B26D39-6D4D-47BF-9FD3-4958E26AA5ED, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104287, GUID: IDE41C3C48-738B-438A-AFBE-5E5E971C35A7, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104418, GUID: IDDF380713-EF3B-4727-8528-C3CCF651D5E7, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104476, GUID: ID46A0143B-D66C-4921-9B2C-05FDCAAFA72B, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104534, GUID: IDF14CEB4C-1FCC-4D96-A203-D7D6B6D76C65, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117119, GUID: IDBDBE1594-33D5-485C-AFE4-6D07146BA7F0, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117250, GUID: ID984F653A-F622-4339-BE1E-4ACC6F881A48, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117308, GUID: ID1A10E860-F3B4-4082-B0A5-79C2F2350311, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117366, GUID: ID107113D5-5AE8-4BD5-9064-DB11398E6091, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117599, GUID: IDD81C1897-FA16-4151-BEC6-3307BBD66B63, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117730, GUID: IDABDD220C-3590-4593-BDF3-1570087A8ABA, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117788, GUID: ID4AC56C6E-AC0B-47C6-8D60-D21E87CC76FB, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117846, GUID: ID162D9728-F84A-4BF6-A94B-B315ABE23B47, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118079, GUID: ID290E06C3-A52D-48EB-BCF4-192F1D259C99, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118210, GUID: IDCCEC7C44-D400-4A50-853D-552C0C6C43B1, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118268, GUID: ID83DA9876-D177-427B-9558-2AFE0DB4A9BC, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118326, GUID: ID94C5E637-0E0D-49AD-86C0-506D85BB8885, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118559, GUID: IDC7528AB6-7489-471B-85C3-25CE188E441D, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118690, GUID: ID202CFFE5-1943-487C-9769-7A3AC8A91FF8, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118748, GUID: ID934F8E82-CF28-44E8-A96D-DF4379B3F8F6, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118806, GUID: IDF5382F5E-AD8D-47D3-920C-8E4F0C4535C5, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119039, GUID: ID35F66C34-F0CE-4135-A60D-AC00C75BF001, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119170, GUID: ID54B6188C-F369-4A69-A202-3525C85A6333, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119228, GUID: IDD3B1FD1C-93B2-4DF6-9173-66641E3CBDF4, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119286, GUID: ID4455B40A-4246-412B-A117-147A2017E20D, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119519, GUID: IDEE673842-EC35-46BB-9D72-DB69E838303D, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119650, GUID: ID45B92AB5-16D2-46CC-83D9-87AD9CDB59F3, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119708, GUID: IDF75ACB80-B04F-44A2-9424-113638C29B91, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119766, GUID: IDCE577B0A-B307-4AFF-806F-17807AB4AF7A, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119999, GUID: ID7CEAA825-2119-4977-B72E-B8CE4754DAFD, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120130, GUID: ID39BBA431-071A-455F-88C3-556647FE0F06, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120188, GUID: IDC1A54A7B-9FC7-4463-85B7-B483D159EDCD, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120246, GUID: IDE9904EEB-5E9E-4296-8693-8AEFFE8589A9, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718401, GUID: ID5A8DE0B1-8B30-4F64-833C-A1EE9DF6AAA2, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718459, GUID: ID2A127B5A-DA71-41EE-A4C4-BC0805D9147B, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718517, GUID: ID969CC537-19D2-4031-B1FB-86AA6F7E9B95, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718575, GUID: ID06572E01-ACA2-4A07-B578-CDA33CEF1D20, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720003, GUID: IDD1FBA068-C99B-4EFC-B497-5E3A171BDF14, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720064, GUID: IDC6D02C27-8905-47C7-8BDD-49D025B6915D, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720125, GUID: ID558174BF-6FC1-411F-BB98-758EC56D1CDD, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720186, GUID: IDCEED1B9C-1062-4889-B9E5-55F990175A6E, series -300, position number -301 (tentative) <-- This object will not be (re)numbered!
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 2 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 2 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:22:56 2019
+
+*** Numbering (Batman): Wed Aug 07 19:23:05 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 387 parts.
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93019995, GUID: ID590C669B-42FC-4602-8EED-351672488C2A, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93020137, GUID: ID06EC9DF5-7BAF-4033-A5B9-4CCFD4E124A5, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053605, GUID: IDC81EBF44-28BC-4D48-8DC8-3D40F0A681F4, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053723, GUID: ID5EDFFFB0-A59C-40B6-8400-FFFF36158605, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053811, GUID: IDE1643154-FB56-4363-B88A-19FFDF0DF8AD, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93053872, GUID: ID62738670-CEC2-401A-A18D-080EF8F6A61C, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054253, GUID: IDC9D81049-BC14-484F-8D07-AF6D356BD4DD, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054311, GUID: IDC518A9EF-55E0-4221-9202-74C0DDD9488B, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054369, GUID: IDE5955CBC-19F4-4E6E-9B2F-46890AE55A6E, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054427, GUID: ID13C7887C-DC79-4614-AD9B-3E47F1C3B0B2, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054730, GUID: ID8849BD27-CBCF-4954-936D-70B7C0212B8E, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054788, GUID: IDCC8FA915-9760-42FC-80AC-C1BE4F076A45, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054846, GUID: IDAD4F196C-925E-427E-9709-AFE9BCFF5937, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93054904, GUID: ID184585FB-3388-424F-B117-095F3C2B7A2D, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055215, GUID: ID142C787E-AC46-4732-B9E1-CCE128A7AC2A, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055273, GUID: ID1C823D27-59F9-4484-9347-FAF7239F93F2, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055331, GUID: ID04D32808-E80B-4C78-B54C-BDA39FBD5EEC, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055389, GUID: IDA9823A3F-4A01-4B70-BEEF-45D8932A0907, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055700, GUID: ID5DBE5490-D682-46FF-9BD9-1E2CDCF464BC, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055758, GUID: IDE54BBED3-B4B9-46EF-B238-AD11487EEDA0, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055816, GUID: ID2EC894E1-EAE8-44BB-AB91-2F2AE7F2619C, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93055874, GUID: IDC6F68E85-968A-4E67-9330-50B2D011AD3B, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056185, GUID: ID34A03983-6FC9-4E4E-9A90-908E7E7237D7, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056243, GUID: ID45628CB1-C077-4E59-A9A3-9E5B08D41FBF, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056301, GUID: ID0CBCF3B5-C729-43E6-80B2-C8E8CEF1DA12, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93056359, GUID: ID11CE879B-3184-4B5B-8D93-34BFB64604EA, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076723, GUID: ID5063D6C2-EA4F-45AD-A3FD-BCD047F4D2D7, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076781, GUID: ID3F949600-0D23-45D8-AE66-69E9954B709F, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076839, GUID: ID0DDCA77A-AC1B-47B7-B156-CA130FFAD323, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93076897, GUID: ID2A649F73-9A24-4868-BA24-3373E9E55DD8, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93097525, GUID: IDF3228664-9734-4A88-9ADE-280B945B9C26, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93101984, GUID: ID17490958-A589-464C-BF39-A407E65DC0F5, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102072, GUID: ID11485C41-088B-4948-B763-D540B44E6975, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102160, GUID: ID74079D19-C17A-446C-9982-5845021C679D, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102847, GUID: IDC0570A6E-EA36-4971-93C6-D6D6937441F4, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93102978, GUID: ID4411CE49-2DC3-412C-AEE0-4D45DCC62BF5, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103036, GUID: ID30DDC8AA-2B72-43D4-ADBA-DC37157514AE, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103094, GUID: ID8B9CA63D-B725-46EC-8085-67C0DC7BDEAF, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103327, GUID: ID994C915C-F193-4BE0-8768-635910B427C3, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103458, GUID: ID2D909077-39A5-4091-8FB9-2F90398E11B1, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103516, GUID: ID3F9B828C-6109-49CF-B4E8-5B4592B56B6A, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103574, GUID: ID147E9875-0936-46B8-A676-477941EB9B13, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103807, GUID: ID9EF008E2-15F6-4D97-A9E1-C3402B2CDDF3, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103938, GUID: ID91F858B6-7049-4B70-A844-4A45DAD718A2, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93103996, GUID: ID9A200211-7755-48CB-B015-612EBE4C2182, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104054, GUID: IDD4B26D39-6D4D-47BF-9FD3-4958E26AA5ED, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104287, GUID: IDE41C3C48-738B-438A-AFBE-5E5E971C35A7, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104418, GUID: IDDF380713-EF3B-4727-8528-C3CCF651D5E7, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104476, GUID: ID46A0143B-D66C-4921-9B2C-05FDCAAFA72B, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93104534, GUID: IDF14CEB4C-1FCC-4D96-A203-D7D6B6D76C65, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117119, GUID: IDBDBE1594-33D5-485C-AFE4-6D07146BA7F0, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117250, GUID: ID984F653A-F622-4339-BE1E-4ACC6F881A48, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117308, GUID: ID1A10E860-F3B4-4082-B0A5-79C2F2350311, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117366, GUID: ID107113D5-5AE8-4BD5-9064-DB11398E6091, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117599, GUID: IDD81C1897-FA16-4151-BEC6-3307BBD66B63, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117730, GUID: IDABDD220C-3590-4593-BDF3-1570087A8ABA, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117788, GUID: ID4AC56C6E-AC0B-47C6-8D60-D21E87CC76FB, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93117846, GUID: ID162D9728-F84A-4BF6-A94B-B315ABE23B47, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118079, GUID: ID290E06C3-A52D-48EB-BCF4-192F1D259C99, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118210, GUID: IDCCEC7C44-D400-4A50-853D-552C0C6C43B1, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118268, GUID: ID83DA9876-D177-427B-9558-2AFE0DB4A9BC, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118326, GUID: ID94C5E637-0E0D-49AD-86C0-506D85BB8885, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118559, GUID: IDC7528AB6-7489-471B-85C3-25CE188E441D, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118690, GUID: ID202CFFE5-1943-487C-9769-7A3AC8A91FF8, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118748, GUID: ID934F8E82-CF28-44E8-A96D-DF4379B3F8F6, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93118806, GUID: IDF5382F5E-AD8D-47D3-920C-8E4F0C4535C5, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119039, GUID: ID35F66C34-F0CE-4135-A60D-AC00C75BF001, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119170, GUID: ID54B6188C-F369-4A69-A202-3525C85A6333, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119228, GUID: IDD3B1FD1C-93B2-4DF6-9173-66641E3CBDF4, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119286, GUID: ID4455B40A-4246-412B-A117-147A2017E20D, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119519, GUID: IDEE673842-EC35-46BB-9D72-DB69E838303D, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119650, GUID: ID45B92AB5-16D2-46CC-83D9-87AD9CDB59F3, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119708, GUID: IDF75ACB80-B04F-44A2-9424-113638C29B91, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119766, GUID: IDCE577B0A-B307-4AFF-806F-17807AB4AF7A, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93119999, GUID: ID7CEAA825-2119-4977-B72E-B8CE4754DAFD, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120130, GUID: ID39BBA431-071A-455F-88C3-556647FE0F06, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120188, GUID: IDC1A54A7B-9FC7-4463-85B7-B483D159EDCD, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93120246, GUID: IDE9904EEB-5E9E-4296-8693-8AEFFE8589A9, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718401, GUID: ID5A8DE0B1-8B30-4F64-833C-A1EE9DF6AAA2, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718459, GUID: ID2A127B5A-DA71-41EE-A4C4-BC0805D9147B, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718517, GUID: ID969CC537-19D2-4031-B1FB-86AA6F7E9B95, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93718575, GUID: ID06572E01-ACA2-4A07-B578-CDA33CEF1D20, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720003, GUID: IDD1FBA068-C99B-4EFC-B497-5E3A171BDF14, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720064, GUID: IDC6D02C27-8905-47C7-8BDD-49D025B6915D, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720125, GUID: ID558174BF-6FC1-411F-BB98-758EC56D1CDD, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Overlap detected in numbering:
+ (A) Id: 93669775, GUID: IDC4661D90-32A0-4586-9782-45B46F254268, series -1, position number -302
+ (B) Id: 93720186, GUID: IDCEED1B9C-1062-4889-B9E5-55F990175A6E, series -300, position number -302 (tentative) <-- This object will not be (re)numbered!
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 2 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 2 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:23:06 2019
+
+*** Numbering (Batman): Wed Aug 07 19:24:24 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 385 parts.
+Part    guid: ID590C669B-42FC-4602-8EED-351672488C2A  series:/1  /0 -> /11
+Part    guid: ID06EC9DF5-7BAF-4033-A5B9-4CCFD4E124A5  series:/1  /0 -> /11
+Part    guid: IDC81EBF44-28BC-4D48-8DC8-3D40F0A681F4  series:/1  /0 -> /11
+Part    guid: ID5EDFFFB0-A59C-40B6-8400-FFFF36158605  series:/1  /0 -> /11
+Part    guid: IDE1643154-FB56-4363-B88A-19FFDF0DF8AD  series:/1  /0 -> /11
+Part    guid: ID62738670-CEC2-401A-A18D-080EF8F6A61C  series:/1  /0 -> /11
+Part    guid: IDC9D81049-BC14-484F-8D07-AF6D356BD4DD  series:/1  /0 -> /11
+Part    guid: IDC518A9EF-55E0-4221-9202-74C0DDD9488B  series:/1  /0 -> /11
+Part    guid: IDE5955CBC-19F4-4E6E-9B2F-46890AE55A6E  series:/1  /0 -> /11
+Part    guid: ID13C7887C-DC79-4614-AD9B-3E47F1C3B0B2  series:/1  /0 -> /11
+Part    guid: ID8849BD27-CBCF-4954-936D-70B7C0212B8E  series:/1  /0 -> /11
+Part    guid: IDCC8FA915-9760-42FC-80AC-C1BE4F076A45  series:/1  /0 -> /11
+Part    guid: IDAD4F196C-925E-427E-9709-AFE9BCFF5937  series:/1  /0 -> /11
+Part    guid: ID184585FB-3388-424F-B117-095F3C2B7A2D  series:/1  /0 -> /11
+Part    guid: ID142C787E-AC46-4732-B9E1-CCE128A7AC2A  series:/1  /0 -> /11
+Part    guid: ID1C823D27-59F9-4484-9347-FAF7239F93F2  series:/1  /0 -> /11
+Part    guid: ID04D32808-E80B-4C78-B54C-BDA39FBD5EEC  series:/1  /0 -> /11
+Part    guid: IDA9823A3F-4A01-4B70-BEEF-45D8932A0907  series:/1  /0 -> /11
+Part    guid: ID5DBE5490-D682-46FF-9BD9-1E2CDCF464BC  series:/1  /0 -> /11
+Part    guid: IDE54BBED3-B4B9-46EF-B238-AD11487EEDA0  series:/1  /0 -> /11
+Part    guid: ID2EC894E1-EAE8-44BB-AB91-2F2AE7F2619C  series:/1  /0 -> /11
+Part    guid: IDC6F68E85-968A-4E67-9330-50B2D011AD3B  series:/1  /0 -> /11
+Part    guid: ID34A03983-6FC9-4E4E-9A90-908E7E7237D7  series:/1  /0 -> /11
+Part    guid: ID45628CB1-C077-4E59-A9A3-9E5B08D41FBF  series:/1  /0 -> /11
+Part    guid: ID0CBCF3B5-C729-43E6-80B2-C8E8CEF1DA12  series:/1  /0 -> /11
+Part    guid: ID11CE879B-3184-4B5B-8D93-34BFB64604EA  series:/1  /0 -> /11
+Part    guid: ID5063D6C2-EA4F-45AD-A3FD-BCD047F4D2D7  series:/1  /0 -> /11
+Part    guid: ID3F949600-0D23-45D8-AE66-69E9954B709F  series:/1  /0 -> /11
+Part    guid: ID0DDCA77A-AC1B-47B7-B156-CA130FFAD323  series:/1  /0 -> /11
+Part    guid: ID2A649F73-9A24-4868-BA24-3373E9E55DD8  series:/1  /0 -> /11
+Part    guid: IDF3228664-9734-4A88-9ADE-280B945B9C26  series:/1  /0 -> /11
+Part    guid: ID17490958-A589-464C-BF39-A407E65DC0F5  series:/1  /0 -> /11
+Part    guid: ID11485C41-088B-4948-B763-D540B44E6975  series:/1  /0 -> /11
+Part    guid: ID74079D19-C17A-446C-9982-5845021C679D  series:/1  /0 -> /11
+Part    guid: IDC0570A6E-EA36-4971-93C6-D6D6937441F4  series:/1  /0 -> /11
+Part    guid: ID4411CE49-2DC3-412C-AEE0-4D45DCC62BF5  series:/1  /0 -> /11
+Part    guid: ID30DDC8AA-2B72-43D4-ADBA-DC37157514AE  series:/1  /0 -> /11
+Part    guid: ID8B9CA63D-B725-46EC-8085-67C0DC7BDEAF  series:/1  /0 -> /11
+Part    guid: ID994C915C-F193-4BE0-8768-635910B427C3  series:/1  /0 -> /11
+Part    guid: ID2D909077-39A5-4091-8FB9-2F90398E11B1  series:/1  /0 -> /11
+Part    guid: ID3F9B828C-6109-49CF-B4E8-5B4592B56B6A  series:/1  /0 -> /11
+Part    guid: ID147E9875-0936-46B8-A676-477941EB9B13  series:/1  /0 -> /11
+Part    guid: ID9EF008E2-15F6-4D97-A9E1-C3402B2CDDF3  series:/1  /0 -> /11
+Part    guid: ID91F858B6-7049-4B70-A844-4A45DAD718A2  series:/1  /0 -> /11
+Part    guid: ID9A200211-7755-48CB-B015-612EBE4C2182  series:/1  /0 -> /11
+Part    guid: IDD4B26D39-6D4D-47BF-9FD3-4958E26AA5ED  series:/1  /0 -> /11
+Part    guid: IDE41C3C48-738B-438A-AFBE-5E5E971C35A7  series:/1  /0 -> /11
+Part    guid: IDDF380713-EF3B-4727-8528-C3CCF651D5E7  series:/1  /0 -> /11
+Part    guid: ID46A0143B-D66C-4921-9B2C-05FDCAAFA72B  series:/1  /0 -> /11
+Part    guid: IDF14CEB4C-1FCC-4D96-A203-D7D6B6D76C65  series:/1  /0 -> /11
+Part    guid: IDBDBE1594-33D5-485C-AFE4-6D07146BA7F0  series:/1  /0 -> /11
+Part    guid: ID984F653A-F622-4339-BE1E-4ACC6F881A48  series:/1  /0 -> /11
+Part    guid: ID1A10E860-F3B4-4082-B0A5-79C2F2350311  series:/1  /0 -> /11
+Part    guid: ID107113D5-5AE8-4BD5-9064-DB11398E6091  series:/1  /0 -> /11
+Part    guid: IDD81C1897-FA16-4151-BEC6-3307BBD66B63  series:/1  /0 -> /11
+Part    guid: IDABDD220C-3590-4593-BDF3-1570087A8ABA  series:/1  /0 -> /11
+Part    guid: ID4AC56C6E-AC0B-47C6-8D60-D21E87CC76FB  series:/1  /0 -> /11
+Part    guid: ID162D9728-F84A-4BF6-A94B-B315ABE23B47  series:/1  /0 -> /11
+Part    guid: ID290E06C3-A52D-48EB-BCF4-192F1D259C99  series:/1  /0 -> /11
+Part    guid: IDCCEC7C44-D400-4A50-853D-552C0C6C43B1  series:/1  /0 -> /11
+Part    guid: ID83DA9876-D177-427B-9558-2AFE0DB4A9BC  series:/1  /0 -> /11
+Part    guid: ID94C5E637-0E0D-49AD-86C0-506D85BB8885  series:/1  /0 -> /11
+Part    guid: IDC7528AB6-7489-471B-85C3-25CE188E441D  series:/1  /0 -> /11
+Part    guid: ID202CFFE5-1943-487C-9769-7A3AC8A91FF8  series:/1  /0 -> /11
+Part    guid: ID934F8E82-CF28-44E8-A96D-DF4379B3F8F6  series:/1  /0 -> /11
+Part    guid: IDF5382F5E-AD8D-47D3-920C-8E4F0C4535C5  series:/1  /0 -> /11
+Part    guid: ID35F66C34-F0CE-4135-A60D-AC00C75BF001  series:/1  /0 -> /11
+Part    guid: ID54B6188C-F369-4A69-A202-3525C85A6333  series:/1  /0 -> /11
+Part    guid: IDD3B1FD1C-93B2-4DF6-9173-66641E3CBDF4  series:/1  /0 -> /11
+Part    guid: ID4455B40A-4246-412B-A117-147A2017E20D  series:/1  /0 -> /11
+Part    guid: IDEE673842-EC35-46BB-9D72-DB69E838303D  series:/1  /0 -> /11
+Part    guid: ID45B92AB5-16D2-46CC-83D9-87AD9CDB59F3  series:/1  /0 -> /11
+Part    guid: IDF75ACB80-B04F-44A2-9424-113638C29B91  series:/1  /0 -> /11
+Part    guid: IDCE577B0A-B307-4AFF-806F-17807AB4AF7A  series:/1  /0 -> /11
+Part    guid: ID7CEAA825-2119-4977-B72E-B8CE4754DAFD  series:/1  /0 -> /11
+Part    guid: ID39BBA431-071A-455F-88C3-556647FE0F06  series:/1  /0 -> /11
+Part    guid: IDC1A54A7B-9FC7-4463-85B7-B483D159EDCD  series:/1  /0 -> /11
+Part    guid: IDE9904EEB-5E9E-4296-8693-8AEFFE8589A9  series:/1  /0 -> /11
+Part    guid: ID5A8DE0B1-8B30-4F64-833C-A1EE9DF6AAA2  series:/1  /0 -> /11
+Part    guid: ID2A127B5A-DA71-41EE-A4C4-BC0805D9147B  series:/1  /0 -> /11
+Part    guid: ID969CC537-19D2-4031-B1FB-86AA6F7E9B95  series:/1  /0 -> /11
+Part    guid: ID06572E01-ACA2-4A07-B578-CDA33CEF1D20  series:/1  /0 -> /11
+Part    guid: IDD1FBA068-C99B-4EFC-B497-5E3A171BDF14  series:/1  /0 -> /11
+Part    guid: IDC6D02C27-8905-47C7-8BDD-49D025B6915D  series:/1  /0 -> /11
+Part    guid: ID558174BF-6FC1-411F-BB98-758EC56D1CDD  series:/1  /0 -> /11
+Part    guid: IDCEED1B9C-1062-4889-B9E5-55F990175A6E  series:/1  /0 -> /11
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 86 assemblies or assembly families
+Assembly guid: ID647845A2-4711-4B47-86D6-053F9C992C74  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID762DC063-1A40-4C7A-A026-3716E990B72E  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3595B237-A822-4CB9-9569-2981A2168E51  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID79006FC3-F120-4BFE-8DF6-DD50951DD08F  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID271E830C-E469-4B8E-889F-B3BCE49D8E17  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID38CF8AF1-9A18-464D-B244-3010FCE6F898  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB08CA8C0-55B8-4070-BFB1-C0A786009899  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDC92C6979-3F74-4815-9F0A-B886B7D90615  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID2806F176-8B0B-44E5-9199-26668E394300  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID8B9CC0B1-B586-4F08-8501-5A05E25CFE96  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD7F137D5-27A2-4CE5-9911-EB48B291F66B  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3DBD67F0-791C-420F-81A6-73C73C72BF5A  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID60ACFCA3-5088-4B00-8267-AFB69CBA5ABA  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDFC137215-3CDA-49A5-BB4D-2019C9F1377E  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDF8B03A96-D50C-41E2-852B-83C91F4946DE  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID35E40870-4383-4055-B2EF-C67690023164  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID71509F4A-23A7-424E-9D3A-C2D653237AE3  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID24E2F451-FA77-4B0D-8A99-836EACB96FDC  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB7E65EC7-EDA8-4786-AD97-0144932957F3  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID849A946D-CFA7-474D-B442-38BED81A6BFB  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID4C35704B-1CFF-4268-B5F9-C87A3C35B25F  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID53A7D7EC-AD1F-4DA5-A551-A8A029917793  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID14F12CD6-9387-4B2C-9D61-EB2B62AF89BA  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID8269679A-577B-44DA-8BEF-148D40DE399C  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID5FB2284A-79B7-477D-A7C3-329C01413037  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID1C945F59-C845-48F6-AF58-A90F1C5D4D2E  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID0BDEDD55-30B8-4EBF-87F7-E1F4BC63EA48  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID50601CBF-45FC-49D2-9369-4DD10DF0BA78  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDFA78B224-E633-4F28-837B-EA7B1D7A31AA  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID9645C240-3375-4E1E-9018-7C20038B76EB  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID67016B2F-BB8C-45D4-8DB0-B07506E9C860  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDADCBBF99-D515-4E20-861F-048C3F3657E0  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID92C81393-706A-495B-85D5-DC431ECDEC06  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB24A630F-5503-4776-ABEF-9DFA3D57ADBD  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDE69E0514-27BC-4487-AED3-085E6189AE21  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDA3D047E2-4B2F-4505-B78B-4CA84766A252  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDCB0C1960-FE3C-4F41-828D-A00E024CBD63  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID61A14187-1B8C-4746-BD94-082F90135328  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID1E7A5113-196D-4686-98AE-FD440D299E6B  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3C771284-7FD8-4D8B-9404-288F84DDF664  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDE2A549DF-E9E0-4C72-95CB-586C5F994814  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB2EB7F67-DB63-470D-B724-CD7352F406A0  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3507B9D7-E66F-4DC7-8ED4-D797388B0D03  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDABCCBA37-05D7-4627-8C0E-6740E37E9153  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID931E87A4-E4FC-4A89-B20A-040CD2E4DD11  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID17889999-F139-4E80-9ECF-1B036A229FFF  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID85F91BB3-7BB4-4E2F-9F05-AFC209107C83  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID5D4B5C5F-78A6-4814-A59C-EE80D0D222F8  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID9DD17D63-F98D-41F8-8B71-13A66B7AE218  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDFBC37BAB-B11B-4DE9-9D54-1D5D68BBDE5D  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID057B9720-8B01-438B-B0AD-F468264C9CD2  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3CBADE8B-AF7D-4BC4-AE2A-71C6C1630737  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD3148E39-2777-4C3F-A107-6B28D7284B75  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID090E91EA-C730-4B97-BDB6-2B0A8E93E132  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID880CDAE1-804C-46D4-B696-56E111E4C28A  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID58FA8463-43EC-413E-A976-CDF3B703286D  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDC0C9F106-6E66-48F1-BB18-5D85BDAB9C11  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDB2664242-A541-4616-82A4-9A9A4714BCEC  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID7BDF6374-3166-495C-B7E5-AA2E4B7237F9  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID5BAEF2AD-5B31-4103-B47D-D5B0D555E353  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDA4B069D6-8C80-4001-8979-E5428E378B2F  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDA0E08D11-254C-4666-8792-FAA2188B1A46  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID16AE7209-EC7D-420D-B165-839BF48EA891  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDC83F30E4-E026-4D99-A910-B1FB043AE74A  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD8E45A0C-5D57-490D-B139-C87674C363F9  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD233D7A2-BDC5-44ED-90EA-88A307162121  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID2E50D7F0-26E9-4179-8B03-B849AFD08493  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDC08A800C-4524-45DE-90BF-6EFA92A48772  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID46AD0F0B-32AB-4DF9-B71C-5519FE40D5A8  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDA0FCFDE8-8DB2-4183-A416-E9DDF14D4DD3  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID3E5E125C-3142-4B31-A12C-6B5B76F78283  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDBB64FB07-86CF-454A-9AF9-A94A32CB7CD9  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID84343B42-69B9-49C3-B96A-4B1ADC577E6F  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID2745D187-82D3-452A-8979-966924B1C866  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID01B108B4-0204-4DA7-AEBF-1FB0421987E2  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDCA071D73-5874-4264-8DD6-547EDA6F87BE  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID4EA73ADF-AF54-4677-8C87-C3DDE795A1EF  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID4C16DE03-C7C1-461C-A15A-8D2F8AB97010  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDCB6AF610-B75E-4FA5-ABAD-532947B7DB37  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID2C855E7C-32D1-4757-AEE2-140BD6AD71AE  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDD13D8061-0763-4634-8232-368350F0327B  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID8CDF3F66-1B8C-498F-83E7-19C03FD16E2B  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID77538BF9-38A4-4441-8AE7-31004BB371E7  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID59AD00CC-4CB5-4695-ACBD-B44CE75762FE  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: ID9D41FA23-3D92-435F-B0E2-5DA784811239  series:Ø/3  Ø/0 -> Ø/3
+Assembly guid: IDEE4AC2E4-5505-4494-8F5A-74FD4D6A00CF  series:Ø/3  Ø/0 -> Ø/3
+Assembly numbering done in 0s
+Numbering 86 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Wed Aug 07 19:24:24 2019
