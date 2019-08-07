@@ -6,9 +6,9 @@ TITLE_OBJECT_GROUP
     {
         0 
         1 
-        co_part 
-        proNAME 
-        albl_Name 
+        co_assembly 
+        proNUMBERING_SERIE 
+        albl_Prefix 
         == 
         albl_Equals 
         Ø 

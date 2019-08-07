@@ -202,6 +202,902 @@
 
   <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
 
+  <td> БМ-1                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка металлическая               </td>
+
+  <td> 1                                 </td>
+
+  <td> 11249                             </td>
+
+  <td> 384                               </td>
+
+  <td> 340                               </td>
+
+  <td> 974.6                             </td>
+
+  <td> 974.6                             </td>
+
+  <td> 19.959                            </td>
+
+  <td> 19.959                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БМ-2                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка металлическая               </td>
+
+  <td> 1                                 </td>
+
+  <td> 8895                              </td>
+
+  <td> 541                               </td>
+
+  <td> 340                               </td>
+
+  <td> 778.9                             </td>
+
+  <td> 778.9                             </td>
+
+  <td> 15.881                            </td>
+
+  <td> 15.881                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БМ-3                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка металлическая               </td>
+
+  <td> 1                                 </td>
+
+  <td> 11226                             </td>
+
+  <td> 387                               </td>
+
+  <td> 340                               </td>
+
+  <td> 950.6                             </td>
+
+  <td> 950.6                             </td>
+
+  <td> 19.533                            </td>
+
+  <td> 19.533                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БМ-4                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка металлическая               </td>
+
+  <td> 1                                 </td>
+
+  <td> 10508                             </td>
+
+  <td> 384                               </td>
+
+  <td> 340                               </td>
+
+  <td> 896.3                             </td>
+
+  <td> 896.3                             </td>
+
+  <td> 18.338                            </td>
+
+  <td> 18.338                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БМ-5                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка металлическая               </td>
+
+  <td> 1                                 </td>
+
+  <td> 11509                             </td>
+
+  <td> 384                               </td>
+
+  <td> 340                               </td>
+
+  <td> 976.8                             </td>
+
+  <td> 976.8                             </td>
+
+  <td> 20.001                            </td>
+
+  <td> 20.001                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БМ-6                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка металлическая               </td>
+
+  <td> 1                                 </td>
+
+  <td> 9385                              </td>
+
+  <td> 537                               </td>
+
+  <td> 340                               </td>
+
+  <td> 840.7                             </td>
+
+  <td> 840.7                             </td>
+
+  <td> 17.084                            </td>
+
+  <td> 17.084                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БП-1                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка подстропильная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 6836                              </td>
+
+  <td> 500                               </td>
+
+  <td> 380                               </td>
+
+  <td> 652.2                             </td>
+
+  <td> 652.2                             </td>
+
+  <td> 12.876                            </td>
+
+  <td> 12.876                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БП-2                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка подстропильная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 6836                              </td>
+
+  <td> 496                               </td>
+
+  <td> 380                               </td>
+
+  <td> 650.7                             </td>
+
+  <td> 650.7                             </td>
+
+  <td> 12.863                            </td>
+
+  <td> 12.863                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БП-3                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка подстропильная              </td>
+
+  <td> 7                                 </td>
+
+  <td> 11636                             </td>
+
+  <td> 496                               </td>
+
+  <td> 380                               </td>
+
+  <td> 1072.9                            </td>
+
+  <td> 7510.3                            </td>
+
+  <td> 21.407                            </td>
+
+  <td> 149.849                           </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БП-4                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка подстропильная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 8636                              </td>
+
+  <td> 500                               </td>
+
+  <td> 380                               </td>
+
+  <td> 797.0                             </td>
+
+  <td> 797.0                             </td>
+
+  <td> 15.867                            </td>
+
+  <td> 15.867                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БП-6                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка подстропильная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 9056                              </td>
+
+  <td> 500                               </td>
+
+  <td> 380                               </td>
+
+  <td> 840.1                             </td>
+
+  <td> 840.1                             </td>
+
+  <td> 16.739                            </td>
+
+  <td> 16.739                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БП-7                              </td>
+
+  <td>                                   </td>
+
+  <td> Балка подстропильная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 9056                              </td>
+
+  <td> 500                               </td>
+
+  <td> 380                               </td>
+
+  <td> 840.1                             </td>
+
+  <td> 840.1                             </td>
+
+  <td> 16.739                            </td>
+
+  <td> 16.739                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БП-13                             </td>
+
+  <td>                                   </td>
+
+  <td> Балка подстропильная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 8636                              </td>
+
+  <td> 500                               </td>
+
+  <td> 380                               </td>
+
+  <td> 797.0                             </td>
+
+  <td> 797.0                             </td>
+
+  <td> 15.866                            </td>
+
+  <td> 15.866                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> БП-15                             </td>
+
+  <td>                                   </td>
+
+  <td> Балка подстропильная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 11636                             </td>
+
+  <td> 500                               </td>
+
+  <td> 380                               </td>
+
+  <td> 1074.3                            </td>
+
+  <td> 1074.3                            </td>
+
+  <td> 21.420                            </td>
+
+  <td> 21.420                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-1                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 8268                              </td>
+
+  <td> 415                               </td>
+
+  <td> 390                               </td>
+
+  <td> 521.2                             </td>
+
+  <td> 521.2                             </td>
+
+  <td> 12.007                            </td>
+
+  <td> 12.007                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-2                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 8350                              </td>
+
+  <td> 485                               </td>
+
+  <td> 415                               </td>
+
+  <td> 541.3                             </td>
+
+  <td> 541.3                             </td>
+
+  <td> 12.632                            </td>
+
+  <td> 12.632                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-3                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 2                                 </td>
+
+  <td> 7934                              </td>
+
+  <td> 461                               </td>
+
+  <td> 390                               </td>
+
+  <td> 926.4                             </td>
+
+  <td> 1852.8                            </td>
+
+  <td> 17.003                            </td>
+
+  <td> 34.007                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-4                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 8433                              </td>
+
+  <td> 485                               </td>
+
+  <td> 415                               </td>
+
+  <td> 546.0                             </td>
+
+  <td> 546.0                             </td>
+
+  <td> 12.746                            </td>
+
+  <td> 12.746                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-5                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 8270                              </td>
+
+  <td> 470                               </td>
+
+  <td> 408                               </td>
+
+  <td> 537.8                             </td>
+
+  <td> 537.8                             </td>
+
+  <td> 12.312                            </td>
+
+  <td> 12.312                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-6                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 4135                              </td>
+
+  <td> 447                               </td>
+
+  <td> 340                               </td>
+
+  <td> 246.5                             </td>
+
+  <td> 246.5                             </td>
+
+  <td> 5.574                             </td>
+
+  <td> 5.574                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-7                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 10067                             </td>
+
+  <td> 415                               </td>
+
+  <td> 390                               </td>
+
+  <td> 627.3                             </td>
+
+  <td> 627.3                             </td>
+
+  <td> 14.569                            </td>
+
+  <td> 14.569                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-8                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 10180                             </td>
+
+  <td> 415                               </td>
+
+  <td> 390                               </td>
+
+  <td> 633.9                             </td>
+
+  <td> 633.9                             </td>
+
+  <td> 14.725                            </td>
+
+  <td> 14.725                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-9                               </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 10198                             </td>
+
+  <td> 447                               </td>
+
+  <td> 415                               </td>
+
+  <td> 642.4                             </td>
+
+  <td> 642.4                             </td>
+
+  <td> 15.001                            </td>
+
+  <td> 15.001                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-10                              </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 8134                              </td>
+
+  <td> 467                               </td>
+
+  <td> 390                               </td>
+
+  <td> 948.4                             </td>
+
+  <td> 948.4                             </td>
+
+  <td> 17.413                            </td>
+
+  <td> 17.413                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-11                              </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 2                                 </td>
+
+  <td> 7914                              </td>
+
+  <td> 461                               </td>
+
+  <td> 390                               </td>
+
+  <td> 927.0                             </td>
+
+  <td> 1854.0                            </td>
+
+  <td> 17.057                            </td>
+
+  <td> 34.114                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-12                              </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 1                                 </td>
+
+  <td> 8134                              </td>
+
+  <td> 461                               </td>
+
+  <td> 390                               </td>
+
+  <td> 948.4                             </td>
+
+  <td> 948.4                             </td>
+
+  <td> 17.414                            </td>
+
+  <td> 17.414                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-13                              </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 2                                 </td>
+
+  <td> 9714                              </td>
+
+  <td> 643                               </td>
+
+  <td> 461                               </td>
+
+  <td> 1133.9                            </td>
+
+  <td> 2267.8                            </td>
+
+  <td> 21.043                            </td>
+
+  <td> 42.086                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> К-15                              </td>
+
+  <td>                                   </td>
+
+  <td> Колонна                           </td>
+
+  <td> 6                                 </td>
+
+  <td> 9714                              </td>
+
+  <td> 461                               </td>
+
+  <td> 390                               </td>
+
+  <td> 1125.4                            </td>
+
+  <td> 6752.4                            </td>
+
+  <td> 20.758                            </td>
+
+  <td> 124.547                           </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
   <td> КМ-1                              </td>
 
   <td>                                   </td>
@@ -383,6 +1279,1382 @@
   <td> 5.099                             </td>
 
   <td> 10.199                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-1                               </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 4                                 </td>
+
+  <td> 1800                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 22.0                              </td>
+
+  <td> 88.0                              </td>
+
+  <td> 0.723                             </td>
+
+  <td> 2.892                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-2                               </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1060                              </td>
+
+  <td> 220                               </td>
+
+  <td> 220                               </td>
+
+  <td> 29.5                              </td>
+
+  <td> 29.5                              </td>
+
+  <td> 0.668                             </td>
+
+  <td> 0.668                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-3                               </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1260                              </td>
+
+  <td> 220                               </td>
+
+  <td> 220                               </td>
+
+  <td> 33.9                              </td>
+
+  <td> 33.9                              </td>
+
+  <td> 0.764                             </td>
+
+  <td> 0.764                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-4                               </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 470                               </td>
+
+  <td> 340                               </td>
+
+  <td> 278                               </td>
+
+  <td> 24.1                              </td>
+
+  <td> 24.1                              </td>
+
+  <td> 0.567                             </td>
+
+  <td> 0.567                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-5                               </td>
+
+  <td>                                   </td>
+
+  <td> Прокладка                         </td>
+
+  <td> 23                                </td>
+
+  <td> 300                               </td>
+
+  <td> 210                               </td>
+
+  <td> 10                                </td>
+
+  <td> 4.9                               </td>
+
+  <td> 112.7                             </td>
+
+  <td> 0.136                             </td>
+
+  <td> 3.133                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-6                               </td>
+
+  <td>                                   </td>
+
+  <td> Прокладка                         </td>
+
+  <td> 5                                 </td>
+
+  <td> 300                               </td>
+
+  <td> 230                               </td>
+
+  <td> 10                                </td>
+
+  <td> 5.4                               </td>
+
+  <td> 27.0                              </td>
+
+  <td> 0.149                             </td>
+
+  <td> 0.743                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-7                               </td>
+
+  <td>                                   </td>
+
+  <td> Прокладка                         </td>
+
+  <td> 8                                 </td>
+
+  <td> 320                               </td>
+
+  <td> 110                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 2.2                               </td>
+
+  <td> 17.6                              </td>
+
+  <td> 0.077                             </td>
+
+  <td> 0.618                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-8                               </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 2                                 </td>
+
+  <td> 320                               </td>
+
+  <td> 275                               </td>
+
+  <td> 220                               </td>
+
+  <td> 14.0                              </td>
+
+  <td> 28.0                              </td>
+
+  <td> 0.337                             </td>
+
+  <td> 0.674                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-9                               </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 2                                 </td>
+
+  <td> 320                               </td>
+
+  <td> 275                               </td>
+
+  <td> 240                               </td>
+
+  <td> 15.0                              </td>
+
+  <td> 30.0                              </td>
+
+  <td> 0.357                             </td>
+
+  <td> 0.714                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-10                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 10                                </td>
+
+  <td> 1800                              </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 44.4                              </td>
+
+  <td> 444.0                             </td>
+
+  <td> 1.446                             </td>
+
+  <td> 14.461                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-11                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 3                                 </td>
+
+  <td> 320                               </td>
+
+  <td> 290                               </td>
+
+  <td> 278                               </td>
+
+  <td> 14.8                              </td>
+
+  <td> 44.4                              </td>
+
+  <td> 0.370                             </td>
+
+  <td> 1.109                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-12                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1080                              </td>
+
+  <td> 320                               </td>
+
+  <td> 120                               </td>
+
+  <td> 30.0                              </td>
+
+  <td> 30.0                              </td>
+
+  <td> 0.677                             </td>
+
+  <td> 0.677                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-13                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 880                               </td>
+
+  <td> 320                               </td>
+
+  <td> 120                               </td>
+
+  <td> 25.3                              </td>
+
+  <td> 25.3                              </td>
+
+  <td> 0.581                             </td>
+
+  <td> 0.581                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-14                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1260                              </td>
+
+  <td> 220                               </td>
+
+  <td> 220                               </td>
+
+  <td> 34.1                              </td>
+
+  <td> 34.1                              </td>
+
+  <td> 0.764                             </td>
+
+  <td> 0.764                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-15                              </td>
+
+  <td>                                   </td>
+
+  <td> Прокладка                         </td>
+
+  <td> 67                                </td>
+
+  <td> 320                               </td>
+
+  <td> 110                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 2.2                               </td>
+
+  <td> 147.4                             </td>
+
+  <td> 0.077                             </td>
+
+  <td> 5.178                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-16                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 18                                </td>
+
+  <td> 320                               </td>
+
+  <td> 275                               </td>
+
+  <td> 240                               </td>
+
+  <td> 15.2                              </td>
+
+  <td> 273.6                             </td>
+
+  <td> 0.357                             </td>
+
+  <td> 6.426                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-17                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 8                                 </td>
+
+  <td> 320                               </td>
+
+  <td> 310                               </td>
+
+  <td> 278                               </td>
+
+  <td> 15.9                              </td>
+
+  <td> 127.2                             </td>
+
+  <td> 0.387                             </td>
+
+  <td> 3.099                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-18                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 5                                 </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 80                                </td>
+
+  <td> 1.0                               </td>
+
+  <td> 5.0                               </td>
+
+  <td> 0.035                             </td>
+
+  <td> 0.175                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-19                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 34                                </td>
+
+  <td> 120                               </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 2.0                               </td>
+
+  <td> 68.0                              </td>
+
+  <td> 0.066                             </td>
+
+  <td> 2.236                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-20                              </td>
+
+  <td>                                   </td>
+
+  <td> Прокладка                         </td>
+
+  <td> 2                                 </td>
+
+  <td> 320                               </td>
+
+  <td> 260                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 5.2                               </td>
+
+  <td> 10.4                              </td>
+
+  <td> 0.176                             </td>
+
+  <td> 0.351                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-21                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 3                                 </td>
+
+  <td> 380                               </td>
+
+  <td> 320                               </td>
+
+  <td> 278                               </td>
+
+  <td> 23.5                              </td>
+
+  <td> 70.5                              </td>
+
+  <td> 0.543                             </td>
+
+  <td> 1.630                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-22                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 880                               </td>
+
+  <td> 320                               </td>
+
+  <td> 120                               </td>
+
+  <td> 25.3                              </td>
+
+  <td> 25.3                              </td>
+
+  <td> 0.581                             </td>
+
+  <td> 0.581                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-23                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1060                              </td>
+
+  <td> 220                               </td>
+
+  <td> 220                               </td>
+
+  <td> 29.3                              </td>
+
+  <td> 29.3                              </td>
+
+  <td> 0.668                             </td>
+
+  <td> 0.668                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-25                              </td>
+
+  <td>                                   </td>
+
+  <td> Прокладка                         </td>
+
+  <td> 1                                 </td>
+
+  <td> 320                               </td>
+
+  <td> 273                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 5.5                               </td>
+
+  <td> 5.5                               </td>
+
+  <td> 0.184                             </td>
+
+  <td> 0.184                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-26                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 320                               </td>
+
+  <td> 160                               </td>
+
+  <td> 64                                </td>
+
+  <td> 8.6                               </td>
+
+  <td> 8.6                               </td>
+
+  <td> 0.273                             </td>
+
+  <td> 0.273                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-27                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 5                                 </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 1.3                               </td>
+
+  <td> 6.5                               </td>
+
+  <td> 0.045                             </td>
+
+  <td> 0.224                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-28                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 48                                </td>
+
+  <td> 320                               </td>
+
+  <td> 160                               </td>
+
+  <td> 80                                </td>
+
+  <td> 5.5                               </td>
+
+  <td> 264.0                             </td>
+
+  <td> 0.209                             </td>
+
+  <td> 10.036                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-29                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1400                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 16.9                              </td>
+
+  <td> 16.9                              </td>
+
+  <td> 0.563                             </td>
+
+  <td> 0.563                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-30                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 2                                 </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 60                                </td>
+
+  <td> 0.7                               </td>
+
+  <td> 1.4                               </td>
+
+  <td> 0.027                             </td>
+
+  <td> 0.054                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-31                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 880                               </td>
+
+  <td> 320                               </td>
+
+  <td> 120                               </td>
+
+  <td> 25.3                              </td>
+
+  <td> 25.3                              </td>
+
+  <td> 0.581                             </td>
+
+  <td> 0.581                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-32                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 13                                </td>
+
+  <td> 1830                              </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 44.8                              </td>
+
+  <td> 582.4                             </td>
+
+  <td> 1.470                             </td>
+
+  <td> 19.112                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-33                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 13                                </td>
+
+  <td> 300                               </td>
+
+  <td> 160                               </td>
+
+  <td> 80                                </td>
+
+  <td> 5.3                               </td>
+
+  <td> 68.9                              </td>
+
+  <td> 0.196                             </td>
+
+  <td> 2.552                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-34                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1060                              </td>
+
+  <td> 220                               </td>
+
+  <td> 220                               </td>
+
+  <td> 29.0                              </td>
+
+  <td> 29.0                              </td>
+
+  <td> 0.668                             </td>
+
+  <td> 0.668                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-35                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1060                              </td>
+
+  <td> 220                               </td>
+
+  <td> 220                               </td>
+
+  <td> 29.5                              </td>
+
+  <td> 29.5                              </td>
+
+  <td> 0.668                             </td>
+
+  <td> 0.668                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-36                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 22                                </td>
+
+  <td> 150                               </td>
+
+  <td> 50                                </td>
+
+  <td> 50                                </td>
+
+  <td> 0.9                               </td>
+
+  <td> 19.8                              </td>
+
+  <td> 0.031                             </td>
+
+  <td> 0.692                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-37                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 24                                </td>
+
+  <td> 289                               </td>
+
+  <td> 70                                </td>
+
+  <td> 70                                </td>
+
+  <td> 2.4                               </td>
+
+  <td> 57.6                              </td>
+
+  <td> 0.083                             </td>
+
+  <td> 1.996                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-38                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 2                                 </td>
+
+  <td> 1780                              </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 43.6                              </td>
+
+  <td> 87.2                              </td>
+
+  <td> 1.430                             </td>
+
+  <td> 2.860                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-39                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 12                                </td>
+
+  <td> 120                               </td>
+
+  <td> 100                               </td>
+
+  <td> 16                                </td>
+
+  <td> 1.4                               </td>
+
+  <td> 16.8                              </td>
+
+  <td> 0.028                             </td>
+
+  <td> 0.339                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-40                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 12                                </td>
+
+  <td> 132                               </td>
+
+  <td> 100                               </td>
+
+  <td> 16                                </td>
+
+  <td> 1.7                               </td>
+
+  <td> 20.4                              </td>
+
+  <td> 0.034                             </td>
+
+  <td> 0.406                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-41                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 2                                 </td>
+
+  <td> 1680                              </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 41.2                              </td>
+
+  <td> 82.4                              </td>
+
+  <td> 1.350                             </td>
+
+  <td> 2.700                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-42                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 150                               </td>
+
+  <td> 50                                </td>
+
+  <td> 50                                </td>
+
+  <td> 0.9                               </td>
+
+  <td> 0.9                               </td>
+
+  <td> 0.029                             </td>
+
+  <td> 0.029                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-43                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 150                               </td>
+
+  <td> 50                                </td>
+
+  <td> 50                                </td>
+
+  <td> 0.9                               </td>
+
+  <td> 0.9                               </td>
+
+  <td> 0.029                             </td>
+
+  <td> 0.029                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-44                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 2                                 </td>
+
+  <td> 300                               </td>
+
+  <td> 80                                </td>
+
+  <td> 80                                </td>
+
+  <td> 2.6                               </td>
+
+  <td> 5.2                               </td>
+
+  <td> 0.098                             </td>
+
+  <td> 0.196                             </td>
 
   <td>                                                          </td>
 
@@ -582,15 +2854,4655 @@
 
 
 
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-51                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 100                               </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 2.7                               </td>
+
+  <td> 270.0                             </td>
+
+  <td> 0.095                             </td>
+
+  <td> 9.460                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-52                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 80                                </td>
+
+  <td> 8                                 </td>
+
+  <td> 0.5                               </td>
+
+  <td> 50.0                              </td>
+
+  <td> 0.019                             </td>
+
+  <td> 1.888                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-53                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 100                               </td>
+
+  <td> 200                               </td>
+
+  <td> 150                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 1.9                               </td>
+
+  <td> 190.0                             </td>
+
+  <td> 0.066                             </td>
+
+  <td> 6.560                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-54                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 681                               </td>
+
+  <td> 646                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 21.7                              </td>
+
+  <td> 21.7                              </td>
+
+  <td> 0.710                             </td>
+
+  <td> 0.710                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-55                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 680                               </td>
+
+  <td> 644                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 21.6                              </td>
+
+  <td> 21.6                              </td>
+
+  <td> 0.705                             </td>
+
+  <td> 0.705                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-56                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 663                               </td>
+
+  <td> 615                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 18.5                              </td>
+
+  <td> 18.5                              </td>
+
+  <td> 0.605                             </td>
+
+  <td> 0.605                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-57                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 200                               </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 6.2                               </td>
+
+  <td> 6.2                               </td>
+
+  <td> 0.170                             </td>
+
+  <td> 0.170                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-58                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 35                                </td>
+
+  <td> 300                               </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 3.7                               </td>
+
+  <td> 129.5                             </td>
+
+  <td> 0.123                             </td>
+
+  <td> 4.308                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-59                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 9                                 </td>
+
+  <td> 200                               </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 6.2                               </td>
+
+  <td> 55.8                              </td>
+
+  <td> 0.170                             </td>
+
+  <td> 1.528                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-60                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 4                                 </td>
+
+  <td> 1800                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 22.0                              </td>
+
+  <td> 88.0                              </td>
+
+  <td> 0.723                             </td>
+
+  <td> 2.892                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-61                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1800                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 22.0                              </td>
+
+  <td> 22.0                              </td>
+
+  <td> 0.723                             </td>
+
+  <td> 0.723                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-62                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1800                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 22.0                              </td>
+
+  <td> 22.0                              </td>
+
+  <td> 0.723                             </td>
+
+  <td> 0.723                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-63                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1800                              </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 44.0                              </td>
+
+  <td> 44.0                              </td>
+
+  <td> 1.446                             </td>
+
+  <td> 1.446                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-64                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1400                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 16.9                              </td>
+
+  <td> 16.9                              </td>
+
+  <td> 0.563                             </td>
+
+  <td> 0.563                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-65                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 18                                </td>
+
+  <td> 1800                              </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 44.0                              </td>
+
+  <td> 792.0                             </td>
+
+  <td> 1.446                             </td>
+
+  <td> 26.031                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-66                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 7                                 </td>
+
+  <td> 880                               </td>
+
+  <td> 320                               </td>
+
+  <td> 120                               </td>
+
+  <td> 25.3                              </td>
+
+  <td> 177.1                             </td>
+
+  <td> 0.581                             </td>
+
+  <td> 4.069                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-67                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 380                               </td>
+
+  <td> 320                               </td>
+
+  <td> 278                               </td>
+
+  <td> 23.5                              </td>
+
+  <td> 23.5                              </td>
+
+  <td> 0.543                             </td>
+
+  <td> 0.543                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-68                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 1                                 </td>
+
+  <td> 1830                              </td>
+
+  <td> 200                               </td>
+
+  <td> 100                               </td>
+
+  <td> 44.8                              </td>
+
+  <td> 44.8                              </td>
+
+  <td> 1.470                             </td>
+
+  <td> 1.470                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-69                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 4                                 </td>
+
+  <td> 200                               </td>
+
+  <td> 200                               </td>
+
+  <td> 150                               </td>
+
+  <td> 7.1                               </td>
+
+  <td> 28.4                              </td>
+
+  <td> 0.174                             </td>
+
+  <td> 0.698                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-70                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 2                                 </td>
+
+  <td> 414                               </td>
+
+  <td> 317                               </td>
+
+  <td> 200                               </td>
+
+  <td> 10.8                              </td>
+
+  <td> 21.6                              </td>
+
+  <td> 0.359                             </td>
+
+  <td> 0.719                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-71                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 2                                 </td>
+
+  <td> 414                               </td>
+
+  <td> 317                               </td>
+
+  <td> 200                               </td>
+
+  <td> 10.7                              </td>
+
+  <td> 21.4                              </td>
+
+  <td> 0.353                             </td>
+
+  <td> 0.707                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-72                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 3                                 </td>
+
+  <td> 360                               </td>
+
+  <td> 200                               </td>
+
+  <td> 8                                 </td>
+
+  <td> 4.5                               </td>
+
+  <td> 13.5                              </td>
+
+  <td> 0.153                             </td>
+
+  <td> 0.459                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> М-73                              </td>
+
+  <td>                                   </td>
+
+  <td> Монтажный элемент                 </td>
+
+  <td> 3                                 </td>
+
+  <td> 200                               </td>
+
+  <td> 90                                </td>
+
+  <td> 10                                </td>
+
+  <td> 1.4                               </td>
+
+  <td> 4.2                               </td>
+
+  <td> 0.042                             </td>
+
+  <td> 0.125                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-1                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 1010                              </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 177.2                             </td>
+
+  <td> 177.2                             </td>
+
+  <td> 2.891                             </td>
+
+  <td> 2.891                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-2                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 810                               </td>
+
+  <td> 588                               </td>
+
+  <td> 402                               </td>
+
+  <td> 157.2                             </td>
+
+  <td> 157.2                             </td>
+
+  <td> 2.556                             </td>
+
+  <td> 2.556                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-3                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 1010                              </td>
+
+  <td> 588                               </td>
+
+  <td> 402                               </td>
+
+  <td> 179.3                             </td>
+
+  <td> 179.3                             </td>
+
+  <td> 2.968                             </td>
+
+  <td> 2.968                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-4                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 810                               </td>
+
+  <td> 588                               </td>
+
+  <td> 402                               </td>
+
+  <td> 157.2                             </td>
+
+  <td> 157.2                             </td>
+
+  <td> 2.556                             </td>
+
+  <td> 2.556                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-5                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 1010                              </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 188.6                             </td>
+
+  <td> 188.6                             </td>
+
+  <td> 3.014                             </td>
+
+  <td> 3.014                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-6                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 8                                 </td>
+
+  <td> 790                               </td>
+
+  <td> 588                               </td>
+
+  <td> 402                               </td>
+
+  <td> 155.0                             </td>
+
+  <td> 1240.0                            </td>
+
+  <td> 2.515                             </td>
+
+  <td> 20.123                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-7                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 650                               </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 160.0                             </td>
+
+  <td> 160.0                             </td>
+
+  <td> 2.495                             </td>
+
+  <td> 2.495                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-8                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 2                                 </td>
+
+  <td> 650                               </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 160.1                             </td>
+
+  <td> 320.2                             </td>
+
+  <td> 2.495                             </td>
+
+  <td> 4.990                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Н-9                               </td>
+
+  <td>                                   </td>
+
+  <td> Надколонник                       </td>
+
+  <td> 1                                 </td>
+
+  <td> 650                               </td>
+
+  <td> 600                               </td>
+
+  <td> 588                               </td>
+
+  <td> 160.1                             </td>
+
+  <td> 160.1                             </td>
+
+  <td> 2.495                             </td>
+
+  <td> 2.495                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-1                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 5265                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 171.8                             </td>
+
+  <td> 171.8                             </td>
+
+  <td> 3.865                             </td>
+
+  <td> 3.865                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-2                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 4640                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 151.6                             </td>
+
+  <td> 151.6                             </td>
+
+  <td> 3.420                             </td>
+
+  <td> 3.420                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-3                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 10565                             </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 343.3                             </td>
+
+  <td> 343.3                             </td>
+
+  <td> 7.648                             </td>
+
+  <td> 7.648                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-4                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 9100                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 295.8                             </td>
+
+  <td> 295.8                             </td>
+
+  <td> 6.601                             </td>
+
+  <td> 6.601                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-5                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 6820                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 222.0                             </td>
+
+  <td> 222.0                             </td>
+
+  <td> 4.974                             </td>
+
+  <td> 4.974                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-6                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 7060                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 229.8                             </td>
+
+  <td> 229.8                             </td>
+
+  <td> 5.145                             </td>
+
+  <td> 5.145                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-7                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 5540                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 180.7                             </td>
+
+  <td> 180.7                             </td>
+
+  <td> 4.061                             </td>
+
+  <td> 4.061                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-8                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 5270                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 171.9                             </td>
+
+  <td> 171.9                             </td>
+
+  <td> 3.869                             </td>
+
+  <td> 3.869                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-9                               </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 12100                             </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 393.0                             </td>
+
+  <td> 393.0                             </td>
+
+  <td> 8.743                             </td>
+
+  <td> 8.743                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-10                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 7                                 </td>
+
+  <td> 11860                             </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 385.2                             </td>
+
+  <td> 2696.4                            </td>
+
+  <td> 8.571                             </td>
+
+  <td> 60.000                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-11                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 9520                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 309.5                             </td>
+
+  <td> 309.5                             </td>
+
+  <td> 6.901                             </td>
+
+  <td> 6.901                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-12                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 11765                             </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 382.2                             </td>
+
+  <td> 382.2                             </td>
+
+  <td> 8.505                             </td>
+
+  <td> 8.505                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-13                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 7190                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 234.1                             </td>
+
+  <td> 468.2                             </td>
+
+  <td> 5.241                             </td>
+
+  <td> 10.481                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-14                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 6440                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 209.9                             </td>
+
+  <td> 209.9                             </td>
+
+  <td> 4.705                             </td>
+
+  <td> 4.705                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-15                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 6315                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 205.7                             </td>
+
+  <td> 205.7                             </td>
+
+  <td> 4.615                             </td>
+
+  <td> 4.615                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-16                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 3868                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 126.6                             </td>
+
+  <td> 253.2                             </td>
+
+  <td> 2.869                             </td>
+
+  <td> 5.738                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-17                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 8368                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 272.3                             </td>
+
+  <td> 544.6                             </td>
+
+  <td> 6.081                             </td>
+
+  <td> 12.163                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-18                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 2968                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 97.5                              </td>
+
+  <td> 195.0                             </td>
+
+  <td> 2.227                             </td>
+
+  <td> 4.453                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-19                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 6568                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 214.0                             </td>
+
+  <td> 428.0                             </td>
+
+  <td> 4.797                             </td>
+
+  <td> 9.593                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-20                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 16                                </td>
+
+  <td> 5368                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 175.1                             </td>
+
+  <td> 2801.6                            </td>
+
+  <td> 3.940                             </td>
+
+  <td> 63.039                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-21                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 14                                </td>
+
+  <td> 11368                             </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 369.4                             </td>
+
+  <td> 5171.6                            </td>
+
+  <td> 8.223                             </td>
+
+  <td> 115.122                           </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-22                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 5858                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 191.0                             </td>
+
+  <td> 191.0                             </td>
+
+  <td> 4.290                             </td>
+
+  <td> 4.290                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-23                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 5789                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 188.8                             </td>
+
+  <td> 188.8                             </td>
+
+  <td> 4.240                             </td>
+
+  <td> 4.240                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-24                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 8788                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 285.8                             </td>
+
+  <td> 285.8                             </td>
+
+  <td> 6.381                             </td>
+
+  <td> 6.381                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-25                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 2367                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 78.0                              </td>
+
+  <td> 78.0                              </td>
+
+  <td> 1.798                             </td>
+
+  <td> 1.798                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-26                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 9229                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 300.1                             </td>
+
+  <td> 300.1                             </td>
+
+  <td> 6.696                             </td>
+
+  <td> 6.696                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-27                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 9879                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 321.2                             </td>
+
+  <td> 321.2                             </td>
+
+  <td> 7.160                             </td>
+
+  <td> 7.160                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-28                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 11079                             </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 360.0                             </td>
+
+  <td> 720.0                             </td>
+
+  <td> 8.017                             </td>
+
+  <td> 16.034                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-29                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 12079                             </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 392.4                             </td>
+
+  <td> 784.8                             </td>
+
+  <td> 8.730                             </td>
+
+  <td> 17.461                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-30                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 9100                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 295.8                             </td>
+
+  <td> 295.8                             </td>
+
+  <td> 6.601                             </td>
+
+  <td> 6.601                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-31                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 5858                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 191.0                             </td>
+
+  <td> 191.0                             </td>
+
+  <td> 4.290                             </td>
+
+  <td> 4.290                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-32                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 8788                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 285.8                             </td>
+
+  <td> 571.6                             </td>
+
+  <td> 6.381                             </td>
+
+  <td> 12.763                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-33                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 2                                 </td>
+
+  <td> 8788                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 285.8                             </td>
+
+  <td> 571.6                             </td>
+
+  <td> 6.381                             </td>
+
+  <td> 12.763                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-34                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 9520                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 309.5                             </td>
+
+  <td> 309.5                             </td>
+
+  <td> 6.901                             </td>
+
+  <td> 6.901                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-35                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 7190                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 234.1                             </td>
+
+  <td> 234.1                             </td>
+
+  <td> 5.241                             </td>
+
+  <td> 5.241                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-38                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 5574                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 181.8                             </td>
+
+  <td> 181.8                             </td>
+
+  <td> 4.087                             </td>
+
+  <td> 4.087                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Р-39                              </td>
+
+  <td>                                   </td>
+
+  <td> Ригель                            </td>
+
+  <td> 1                                 </td>
+
+  <td> 4624                              </td>
+
+  <td> 240                               </td>
+
+  <td> 120                               </td>
+
+  <td> 151.0                             </td>
+
+  <td> 151.0                             </td>
+
+  <td> 3.409                             </td>
+
+  <td> 3.409                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-1                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 2                                 </td>
+
+  <td> 2627                              </td>
+
+  <td> 230                               </td>
+
+  <td> 200                               </td>
+
+  <td> 90.6                              </td>
+
+  <td> 181.2                             </td>
+
+  <td> 2.171                             </td>
+
+  <td> 4.343                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-2                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 2                                 </td>
+
+  <td> 2635                              </td>
+
+  <td> 230                               </td>
+
+  <td> 200                               </td>
+
+  <td> 90.8                              </td>
+
+  <td> 181.6                             </td>
+
+  <td> 2.177                             </td>
+
+  <td> 4.354                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-3                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 2                                 </td>
+
+  <td> 2632                              </td>
+
+  <td> 230                               </td>
+
+  <td> 200                               </td>
+
+  <td> 90.7                              </td>
+
+  <td> 181.4                             </td>
+
+  <td> 2.175                             </td>
+
+  <td> 4.350                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-4                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 2                                 </td>
+
+  <td> 2623                              </td>
+
+  <td> 230                               </td>
+
+  <td> 200                               </td>
+
+  <td> 90.4                              </td>
+
+  <td> 180.8                             </td>
+
+  <td> 2.169                             </td>
+
+  <td> 4.337                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-5                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 4                                 </td>
+
+  <td> 10764                             </td>
+
+  <td> 230                               </td>
+
+  <td> 200                               </td>
+
+  <td> 353.5                             </td>
+
+  <td> 1414.0                            </td>
+
+  <td> 8.019                             </td>
+
+  <td> 32.075                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-6                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 2                                 </td>
+
+  <td> 3273                              </td>
+
+  <td> 230                               </td>
+
+  <td> 200                               </td>
+
+  <td> 111.5                             </td>
+
+  <td> 223.0                             </td>
+
+  <td> 2.637                             </td>
+
+  <td> 5.274                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-7                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 2                                 </td>
+
+  <td> 3301                              </td>
+
+  <td> 230                               </td>
+
+  <td> 200                               </td>
+
+  <td> 112.4                             </td>
+
+  <td> 224.8                             </td>
+
+  <td> 2.657                             </td>
+
+  <td> 5.314                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-8                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 2                                 </td>
+
+  <td> 2780                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 53.2                              </td>
+
+  <td> 106.4                             </td>
+
+  <td> 1.115                             </td>
+
+  <td> 2.229                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СВ-9                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь вертикальная                </td>
+
+  <td> 2                                 </td>
+
+  <td> 3041                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 58.1                              </td>
+
+  <td> 116.2                             </td>
+
+  <td> 1.219                             </td>
+
+  <td> 2.438                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-1                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 4                                 </td>
+
+  <td> 4500                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 86.1                              </td>
+
+  <td> 344.4                             </td>
+
+  <td> 1.803                             </td>
+
+  <td> 7.211                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-2                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 8                                 </td>
+
+  <td> 3600                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 68.8                              </td>
+
+  <td> 550.4                             </td>
+
+  <td> 1.443                             </td>
+
+  <td> 11.542                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-3(?)                           </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3300                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 106.6                             </td>
+
+  <td> 106.6                             </td>
+
+  <td> 2.117                             </td>
+
+  <td> 2.117                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-4                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 28                                </td>
+
+  <td> 3141                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 101.5                             </td>
+
+  <td> 2842.0                            </td>
+
+  <td> 2.015                             </td>
+
+  <td> 56.407                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-5                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3972                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 75.9                              </td>
+
+  <td> 151.8                             </td>
+
+  <td> 1.591                             </td>
+
+  <td> 3.183                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-6                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 91                                </td>
+
+  <td> 4000                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 76.5                              </td>
+
+  <td> 6961.5                            </td>
+
+  <td> 1.603                             </td>
+
+  <td> 145.855                           </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-7                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 8                                 </td>
+
+  <td> 4500                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 145.4                             </td>
+
+  <td> 1163.2                            </td>
+
+  <td> 2.884                             </td>
+
+  <td> 23.076                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-8                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 2880                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 55.1                              </td>
+
+  <td> 55.1                              </td>
+
+  <td> 1.155                             </td>
+
+  <td> 1.155                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-9                              </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 8                                 </td>
+
+  <td> 4710                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 90.1                              </td>
+
+  <td> 720.8                             </td>
+
+  <td> 1.887                             </td>
+
+  <td> 15.094                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-10                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3222                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 61.6                              </td>
+
+  <td> 61.6                              </td>
+
+  <td> 1.292                             </td>
+
+  <td> 1.292                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-11                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3058                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 58.5                              </td>
+
+  <td> 58.5                              </td>
+
+  <td> 1.226                             </td>
+
+  <td> 1.226                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-12                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 2278                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 43.6                              </td>
+
+  <td> 43.6                              </td>
+
+  <td> 0.914                             </td>
+
+  <td> 0.914                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-13                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 4051                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 77.5                              </td>
+
+  <td> 77.5                              </td>
+
+  <td> 1.623                             </td>
+
+  <td> 1.623                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-14                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3743                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 71.6                              </td>
+
+  <td> 71.6                              </td>
+
+  <td> 1.500                             </td>
+
+  <td> 1.500                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-15                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 2675                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 51.2                              </td>
+
+  <td> 51.2                              </td>
+
+  <td> 1.073                             </td>
+
+  <td> 1.073                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-16                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 2622                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 50.1                              </td>
+
+  <td> 50.1                              </td>
+
+  <td> 1.052                             </td>
+
+  <td> 1.052                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-17                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 2808                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 53.7                              </td>
+
+  <td> 53.7                              </td>
+
+  <td> 1.126                             </td>
+
+  <td> 1.126                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-18                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3070                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 99.2                              </td>
+
+  <td> 198.4                             </td>
+
+  <td> 1.969                             </td>
+
+  <td> 3.938                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-19                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3300                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 106.6                             </td>
+
+  <td> 106.6                             </td>
+
+  <td> 2.117                             </td>
+
+  <td> 2.117                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-20                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 7                                 </td>
+
+  <td> 3100                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 100.1                             </td>
+
+  <td> 700.8                             </td>
+
+  <td> 1.988                             </td>
+
+  <td> 13.917                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-21                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 2626                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 84.8                              </td>
+
+  <td> 84.8                              </td>
+
+  <td> 1.685                             </td>
+
+  <td> 1.685                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-22                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3120                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 100.8                             </td>
+
+  <td> 100.8                             </td>
+
+  <td> 2.001                             </td>
+
+  <td> 2.001                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-23                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3079                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 99.5                              </td>
+
+  <td> 99.5                              </td>
+
+  <td> 1.975                             </td>
+
+  <td> 1.975                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-24                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 1823                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 58.9                              </td>
+
+  <td> 58.9                              </td>
+
+  <td> 1.172                             </td>
+
+  <td> 1.172                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-25                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3018                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 57.7                              </td>
+
+  <td> 57.7                              </td>
+
+  <td> 1.210                             </td>
+
+  <td> 1.210                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-26                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3038                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 58.1                              </td>
+
+  <td> 116.2                             </td>
+
+  <td> 1.218                             </td>
+
+  <td> 2.436                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-27                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 3                                 </td>
+
+  <td> 2073                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 67.0                              </td>
+
+  <td> 201.0                             </td>
+
+  <td> 1.332                             </td>
+
+  <td> 3.995                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-28                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3956                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 75.7                              </td>
+
+  <td> 75.7                              </td>
+
+  <td> 1.585                             </td>
+
+  <td> 1.585                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-29                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 4                                 </td>
+
+  <td> 2722                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 52.1                              </td>
+
+  <td> 208.4                             </td>
+
+  <td> 1.092                             </td>
+
+  <td> 4.366                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-30                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3748                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 71.7                              </td>
+
+  <td> 143.4                             </td>
+
+  <td> 1.502                             </td>
+
+  <td> 3.004                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-31                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 4                                 </td>
+
+  <td> 3600                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 116.3                             </td>
+
+  <td> 465.2                             </td>
+
+  <td> 2.308                             </td>
+
+  <td> 9.234                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-32                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3722                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 71.2                              </td>
+
+  <td> 142.4                             </td>
+
+  <td> 1.492                             </td>
+
+  <td> 2.983                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-33                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3555                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 68.0                              </td>
+
+  <td> 68.0                              </td>
+
+  <td> 1.425                             </td>
+
+  <td> 1.425                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-34                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 2348                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 44.9                              </td>
+
+  <td> 44.9                              </td>
+
+  <td> 0.942                             </td>
+
+  <td> 0.942                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-35                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 2646                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 50.6                              </td>
+
+  <td> 50.6                              </td>
+
+  <td> 1.061                             </td>
+
+  <td> 1.061                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-36                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3703                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 70.8                              </td>
+
+  <td> 141.6                             </td>
+
+  <td> 1.484                             </td>
+
+  <td> 2.968                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-37                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3847                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 73.6                              </td>
+
+  <td> 147.2                             </td>
+
+  <td> 1.542                             </td>
+
+  <td> 3.083                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-38                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3930                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 127.0                             </td>
+
+  <td> 127.0                             </td>
+
+  <td> 2.520                             </td>
+
+  <td> 2.520                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-39                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 4999                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 95.6                              </td>
+
+  <td> 95.6                              </td>
+
+  <td> 2.002                             </td>
+
+  <td> 2.002                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-40                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 5049                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 96.5                              </td>
+
+  <td> 96.5                              </td>
+
+  <td> 2.022                             </td>
+
+  <td> 2.022                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-41                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 27                                </td>
+
+  <td> 4000                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 129.2                             </td>
+
+  <td> 3488.4                            </td>
+
+  <td> 2.564                             </td>
+
+  <td> 69.241                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-42                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 5061                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 96.8                              </td>
+
+  <td> 193.6                             </td>
+
+  <td> 2.027                             </td>
+
+  <td> 4.055                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-43                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3400                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 109.9                             </td>
+
+  <td> 219.8                             </td>
+
+  <td> 2.181                             </td>
+
+  <td> 4.361                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-44                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3099                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 100.1                             </td>
+
+  <td> 100.1                             </td>
+
+  <td> 1.988                             </td>
+
+  <td> 1.988                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-45                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 2970                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 96.0                              </td>
+
+  <td> 192.0                             </td>
+
+  <td> 1.905                             </td>
+
+  <td> 3.810                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-46                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3824                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 73.1                              </td>
+
+  <td> 146.2                             </td>
+
+  <td> 1.532                             </td>
+
+  <td> 3.065                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-47                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 43                                </td>
+
+  <td> 3836                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 73.3                              </td>
+
+  <td> 3151.9                            </td>
+
+  <td> 1.537                             </td>
+
+  <td> 66.091                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-48                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 4                                 </td>
+
+  <td> 4032                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 77.1                              </td>
+
+  <td> 308.4                             </td>
+
+  <td> 1.616                             </td>
+
+  <td> 6.462                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-49                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 11                                </td>
+
+  <td> 4710                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 152.2                             </td>
+
+  <td> 1674.2                            </td>
+
+  <td> 3.019                             </td>
+
+  <td> 33.208                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-50                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 4019                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 76.9                              </td>
+
+  <td> 153.8                             </td>
+
+  <td> 1.610                             </td>
+
+  <td> 3.221                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-51                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3200                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 103.4                             </td>
+
+  <td> 103.4                             </td>
+
+  <td> 2.052                             </td>
+
+  <td> 2.052                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-52                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 1                                 </td>
+
+  <td> 3000                              </td>
+
+  <td> 160                               </td>
+
+  <td> 160                               </td>
+
+  <td> 96.9                              </td>
+
+  <td> 96.9                              </td>
+
+  <td> 1.924                             </td>
+
+  <td> 1.924                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-53                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 2710                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 51.8                              </td>
+
+  <td> 103.6                             </td>
+
+  <td> 1.087                             </td>
+
+  <td> 2.173                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-54                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3910                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 74.8                              </td>
+
+  <td> 149.6                             </td>
+
+  <td> 1.567                             </td>
+
+  <td> 3.134                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-55                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 4045                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 77.4                              </td>
+
+  <td> 154.8                             </td>
+
+  <td> 1.621                             </td>
+
+  <td> 3.242                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-56                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 2981                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 57.0                              </td>
+
+  <td> 114.0                             </td>
+
+  <td> 1.195                             </td>
+
+  <td> 2.390                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> СГ-57                             </td>
+
+  <td>                                   </td>
+
+  <td> Связь горизонтальная              </td>
+
+  <td> 2                                 </td>
+
+  <td> 3817                              </td>
+
+  <td> 100                               </td>
+
+  <td> 100                               </td>
+
+  <td> 73.0                              </td>
+
+  <td> 146.0                             </td>
+
+  <td> 1.530                             </td>
+
+  <td> 3.060                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> ФС-1                              </td>
+
+  <td>                                   </td>
+
+  <td> Ферма                             </td>
+
+  <td> 2                                 </td>
+
+  <td> 12596                             </td>
+
+  <td> 2345                              </td>
+
+  <td> 320                               </td>
+
+  <td> 1109.4                            </td>
+
+  <td> 2218.8                            </td>
+
+  <td> 22.825                            </td>
+
+  <td> 45.650                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> ФС-2                              </td>
+
+  <td>                                   </td>
+
+  <td> Ферма                             </td>
+
+  <td> 1                                 </td>
+
+  <td> 7582                              </td>
+
+  <td> 2382                              </td>
+
+  <td> 320                               </td>
+
+  <td> 696.5                             </td>
+
+  <td> 696.5                             </td>
+
+  <td> 14.278                            </td>
+
+  <td> 14.278                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> ФС-3                              </td>
+
+  <td>                                   </td>
+
+  <td> Ферма                             </td>
+
+  <td> 13                                </td>
+
+  <td> 12596                             </td>
+
+  <td> 2345                              </td>
+
+  <td> 320                               </td>
+
+  <td> 1457.8                            </td>
+
+  <td> 18951.4                           </td>
+
+  <td> 27.122                            </td>
+
+  <td> 352.586                           </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> ФС-4                              </td>
+
+  <td>                                   </td>
+
+  <td> Ферма                             </td>
+
+  <td> 13                                </td>
+
+  <td> 6242                              </td>
+
+  <td> 2459                              </td>
+
+  <td> 320                               </td>
+
+  <td> 810.5                             </td>
+
+  <td> 10536.5                           </td>
+
+  <td> 14.798                            </td>
+
+  <td> 192.380                           </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> ФС-5                              </td>
+
+  <td>                                   </td>
+
+  <td> Ферма                             </td>
+
+  <td> 13                                </td>
+
+  <td> 12596                             </td>
+
+  <td> 2343                              </td>
+
+  <td> 320                               </td>
+
+  <td> 1455.2                            </td>
+
+  <td> 18917.6                           </td>
+
+  <td> 27.022                            </td>
+
+  <td> 351.282                           </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> ФС-6                              </td>
+
+  <td>                                   </td>
+
+  <td> Ферма                             </td>
+
+  <td> 2                                 </td>
+
+  <td> 7582                              </td>
+
+  <td> 2382                              </td>
+
+  <td> 320                               </td>
+
+  <td> 696.6                             </td>
+
+  <td> 1393.2                            </td>
+
+  <td> 14.278                            </td>
+
+  <td> 28.557                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> ФС-7                              </td>
+
+  <td>                                   </td>
+
+  <td> Ферма                             </td>
+
+  <td> 2                                 </td>
+
+  <td> 12596                             </td>
+
+  <td> 2345                              </td>
+
+  <td> 320                               </td>
+
+  <td> 1109.4                            </td>
+
+  <td> 2218.8                            </td>
+
+  <td> 22.825                            </td>
+
+  <td> 45.650                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> ФС-8                              </td>
+
+  <td>                                   </td>
+
+  <td> Ферма                             </td>
+
+  <td> 1                                 </td>
+
+  <td> 7582                              </td>
+
+  <td> 2382                              </td>
+
+  <td> 320                               </td>
+
+  <td> 696.5                             </td>
+
+  <td> 696.5                             </td>
+
+  <td> 14.278                            </td>
+
+  <td> 14.278                            </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Ш-1                               </td>
+
+  <td>                                   </td>
+
+  <td> Шайба                             </td>
+
+  <td> 34                                </td>
+
+  <td> 50                                </td>
+
+  <td> 50                                </td>
+
+  <td> 10                                </td>
+
+  <td> 0.2                               </td>
+
+  <td> 6.8                               </td>
+
+  <td> 0.007                             </td>
+
+  <td> 0.238                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
+
+
+  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
+
+  <td> Ш-2                               </td>
+
+  <td>                                   </td>
+
+  <td> Шайба                             </td>
+
+  <td> 154                               </td>
+
+  <td> 80                                </td>
+
+  <td> 80                                </td>
+
+  <td> 20                                </td>
+
+  <td> 1.0                               </td>
+
+  <td> 154.0                             </td>
+
+  <td> 0.019                             </td>
+
+  <td> 2.957                             </td>
+
+  <td>                                                          </td>
+
+  </TR>
+
+
+
  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
 
  <td colspan="8" align="right">Итого:   </td>
 
- <td> 3286.0                            </td>
+ <td> 155855.7                          </td>
 
  <td>                                   </td>
 
- <td> 82.303                            </td>
+ <td> 3175.418                          </td>
 
  <td>                                   </td>
 
