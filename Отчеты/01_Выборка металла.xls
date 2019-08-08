@@ -59,9 +59,9 @@
 
  <td> C255                              </td>
 
- <td> 130.1                             </td>
+ <td> 139.8                             </td>
 
- <td> 130.1                             </td>
+ <td> 139.8                             </td>
 
  </TR>
 
@@ -79,9 +79,9 @@
 
  <td> C255                              </td>
 
- <td> 1273.3                            </td>
+ <td> 1010.4                            </td>
 
- <td> 1421.6                            </td>
+ <td> 1084.2                            </td>
 
  </TR>
 
@@ -99,9 +99,9 @@
 
  <td> C255                              </td>
 
- <td> 489.6                             </td>
+ <td> 242.4                             </td>
 
- <td> 532.0                             </td>
+ <td> 287.4                             </td>
 
  </TR>
 
@@ -119,9 +119,9 @@
 
  <td> C255                              </td>
 
- <td> 2550.4                            </td>
+ <td> 807.3                             </td>
 
- <td> 2567.3                            </td>
+ <td> 813.5                             </td>
 
  </TR>
 
@@ -139,29 +139,9 @@
 
  <td> C255                              </td>
 
- <td> 1734.1                            </td>
+ <td> 86.0                              </td>
 
- <td> 1734.2                            </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ó30.0                             </td>
-
- <td> √Œ—“ 19903-2015                   </td>
-
- <td> C245                              </td>
-
- <td> 652.6                             </td>
-
- <td> 652.6                             </td>
+ <td> 86.0                              </td>
 
  </TR>
 
@@ -179,29 +159,9 @@
 
  <td> C255                              </td>
 
- <td> 2749.0                            </td>
+ <td> 718.6                             </td>
 
- <td> 2749.0                            </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ƒ‚ÛÚ‡‚ 20 2                      </td>
-
- <td> —“Œ ¿—◊Ã 20-93                    </td>
-
- <td> C255                              </td>
-
- <td> 1515.7                            </td>
-
- <td> 1515.7                            </td>
+ <td> 718.6                             </td>
 
  </TR>
 
@@ -222,46 +182,6 @@
  <td> 203.9                             </td>
 
  <td> 203.9                             </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ƒ‚ÛÚ‡‚ 20ÿ1                      </td>
-
- <td> —“Œ ¿—◊Ã 20-93                    </td>
-
- <td> C255                              </td>
-
- <td> 571.6                             </td>
-
- <td> 571.6                             </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ƒ‚ÛÚ‡‚ 30ÿ1                      </td>
-
- <td> —“Œ ¿—◊Ã 20-93                    </td>
-
- <td> C255                              </td>
-
- <td> 958.3                             </td>
-
- <td> 958.3                             </td>
 
  </TR>
 
@@ -297,91 +217,11 @@
 
  <td> —“Œ ¿—◊Ã 20-93                    </td>
 
- <td> C245                              </td>
-
- <td> 11880.4                           </td>
-
- <td> 11880.4                           </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ƒ‚ÛÚ‡‚ 35 1                      </td>
-
- <td> —“Œ ¿—◊Ã 20-93                    </td>
-
  <td> C345                              </td>
 
- <td> 1149.3                            </td>
+ <td> 13645.7                           </td>
 
- <td> 1149.3                            </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ƒ‚ÛÚ‡‚ 35ÿ2                      </td>
-
- <td> —“Œ ¿—◊Ã 20-93                    </td>
-
- <td> C345                              </td>
-
- <td> 16207.6                           </td>
-
- <td> 16207.6                           </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> “Û·‡ œK 100x7.0                  </td>
-
- <td> √Œ—“ – 54157-2010                 </td>
-
- <td> C255                              </td>
-
- <td> 6775.0                            </td>
-
- <td> 6775.0                            </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> “Û·‡ œK 100x7.0                  </td>
-
- <td> √Œ—“ – 54157-2010                 </td>
-
- <td> C345                              </td>
-
- <td> 1619.1                            </td>
-
- <td> 1619.1                            </td>
+ <td> 13645.7                           </td>
 
  </TR>
 
@@ -413,86 +253,6 @@
 
  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
 
- <td> “Û·‡ œK 120x7.0                  </td>
-
- <td> √Œ—“ – 54157-2010                 </td>
-
- <td> C345                              </td>
-
- <td> 976.3                             </td>
-
- <td> 976.3                             </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> “Û·‡ œ  140x7.0                  </td>
-
- <td> √Œ—“ – 54157-2010                 </td>
-
- <td> C345                              </td>
-
- <td> 18982.8                           </td>
-
- <td> 18982.8                           </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> “Û·‡ œ  160x7.0                  </td>
-
- <td> √Œ—“ – 54157-2010                 </td>
-
- <td> C255                              </td>
-
- <td> 2567.1                            </td>
-
- <td> 2567.1                            </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> “Û·‡ œ  160x8.0                  </td>
-
- <td> √Œ—“ – 54157-2010                 </td>
-
- <td> C345                              </td>
-
- <td> 13432.4                           </td>
-
- <td> 13432.4                           </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
  <td> “Û·‡ œ  180x6.0                  </td>
 
  <td> √Œ—“ – 54157-2010                 </td>
@@ -513,55 +273,15 @@
 
  <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
 
- <td> “Û·‡ œœ 180x140x6.0              </td>
-
- <td> √Œ—“ – 54157-2010                 </td>
-
- <td> C345                              </td>
-
- <td> 2269.6                            </td>
-
- <td> 2269.6                            </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> “Û·‡ œœ 200x160x7.0              </td>
-
- <td> √Œ—“ – 54157-2010                 </td>
-
- <td> C345                              </td>
-
- <td> 14924.9                           </td>
-
- <td> 14924.9                           </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
  <td> “Û·‡ œœ 240x120x6.0              </td>
 
  <td> √Œ—“ – 54157-2010                 </td>
 
  <td> C255                              </td>
 
- <td> 20059.3                           </td>
+ <td> 20863.8                           </td>
 
- <td> 20060.7                           </td>
+ <td> 20865.3                           </td>
 
  </TR>
 
@@ -617,26 +337,6 @@
 
  <td> √Œ—“ 8509-93                      </td>
 
- <td> C245                              </td>
-
- <td> 174.1                             </td>
-
- <td> 174.1                             </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ”„ÓÎÓÍ 80x7                       </td>
-
- <td> √Œ—“ 8509-93                      </td>
-
  <td> C255                              </td>
 
  <td> 347.8                             </td>
@@ -659,49 +359,9 @@
 
  <td> C255                              </td>
 
- <td> 2890.9                            </td>
+ <td> 2905.8                            </td>
 
- <td> 2891.3                            </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ”„ÓÎÓÍ 100x10                     </td>
-
- <td> √Œ—“ 8509-93                      </td>
-
- <td> C255                              </td>
-
- <td> 14.8                              </td>
-
- <td> 14.8                              </td>
-
- </TR>
-
-
-
-
-
-
-
- <TR ALIGN="MIDDLE" VALIGN="MIDDLE">
-
- <td> ”„ÓÎÓÍ 100x65x10                  </td>
-
- <td> √Œ—“ 8510-86                      </td>
-
- <td> C255                              </td>
-
- <td> 20.7                              </td>
-
- <td> 20.7                              </td>
+ <td> 2906.3                            </td>
 
  </TR>
 
@@ -739,9 +399,9 @@
 
  <td> C255                              </td>
 
- <td> 11.1                              </td>
+ <td> 33.3                              </td>
 
- <td> 11.1                              </td>
+ <td> 33.3                              </td>
 
  </TR>
 
@@ -777,9 +437,9 @@
 
  <td> »ÚÓ„Ó:                            </td>
 
- <td> 133621.5                          </td>
+ <td> 47494.9                           </td>
 
- <td> 133832.3                          </td>
+ <td> 47623.1                           </td>
 
  </TR>
 
