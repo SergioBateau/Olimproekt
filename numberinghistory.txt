@@ -11776,3 +11776,173 @@ Assembly numbering done in 0s
 Numbering 57 assemblies or assembly families
 Family numbering done in 0s
 *** Operation finished Thu Aug 08 18:32:38 2019
+
+*** Assign number (Batman): Thu Aug 08 18:39:34 2019
+
+Assembly   series:Ê/1  Ê/15 -> Ê/14
+Assembly   series:Ê/1  Ê/15 -> Ê/14
+Assembly   series:Ê/1  Ê/15 -> Ê/14
+Assembly   series:Ê/1  Ê/15 -> Ê/14
+Assembly   series:Ê/1  Ê/15 -> Ê/14
+Assembly   series:Ê/1  Ê/15 -> Ê/14
+*** Operation finished Thu Aug 08 18:39:34 2019
+
+*** Numbering (Batman): Thu Aug 08 18:39:44 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 432 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 22 assemblies or assembly families
+Assembly guid: ID454C2AB8-BFD2-4007-A69E-C97B2AA67D74  series:Ê/1  Ê/14 -> Ê/14
+Assembly guid: IDF95FB38E-FC67-419E-A04F-83CC91265EAA  series:Ê/1  Ê/14 -> Ê/14
+Assembly guid: IDCC748A2B-11A8-416D-9590-4333E816E87D  series:Ê/1  Ê/14 -> Ê/14
+Assembly guid: IDC5AE192A-FD84-4276-A3E6-DD78814E9163  series:Ê/1  Ê/14 -> Ê/14
+Assembly guid: IDC4F10958-D8E0-43E1-A888-4490138DE571  series:Ê/1  Ê/14 -> Ê/14
+Assembly guid: IDCD8BC0ED-EFB4-4364-9E6A-B080D7C54317  series:Ê/1  Ê/14 -> Ê/14
+Assembly numbering done in 0s
+Numbering 22 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Thu Aug 08 18:39:45 2019
+
+*** Assign number (Batman): Thu Aug 08 18:53:19 2019
+
+Assembly   series:Ì/1  Ì/73 -> Ì/24
+Assembly   series:Ì/1  Ì/73 -> Ì/24
+Assembly   series:Ì/1  Ì/73 -> Ì/24
+*** Operation finished Thu Aug 08 18:53:19 2019
+
+*** Assign number (Batman): Thu Aug 08 18:53:20 2019
+
+*** Operation finished Thu Aug 08 18:53:20 2019
+
+*** Numbering (Batman): Thu Aug 08 18:53:25 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 405 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 74 assemblies or assembly families
+Assembly guid: IDF83CBE12-D4BE-4B55-B7CE-2EA96A313078  series:Ì/1  Ì/24 -> Ì/24
+Assembly guid: ID783A24DE-8787-430B-B059-06AC55FD0F8E  series:Ì/1  Ì/24 -> Ì/24
+Assembly guid: IDDE1EADCC-B7BE-4934-B51A-2F66E4CD8A0A  series:Ì/1  Ì/24 -> Ì/24
+Assembly numbering done in 0s
+Numbering 74 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Thu Aug 08 18:53:26 2019
+
+*** Assign number (Batman): Thu Aug 08 18:53:26 2019
+
+*** Operation finished Thu Aug 08 18:53:26 2019
+
+*** Assign number (Batman): Thu Aug 08 18:56:25 2019
+
+*** Operation finished Thu Aug 08 18:56:25 2019
+
+*** Assign number (Batman): Thu Aug 08 18:56:33 2019
+
+Assembly   series:Ğ/1  Ğ/39 -> Ğ/36
+*** Operation finished Thu Aug 08 18:56:33 2019
+
+*** Numbering (Batman): Thu Aug 08 18:56:54 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 377 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 37 assemblies or assembly families
+Assembly guid: ID63920529-F799-4F53-8E58-D78D1A220740  series:Ğ/1  Ğ/36 -> Ğ/36
+Assembly numbering done in 0s
+Numbering 37 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Thu Aug 08 18:56:55 2019
+
+*** Assign number (Batman): Thu Aug 08 18:57:13 2019
+
+Assembly   series:Ğ/1  Ğ/38 -> Ğ/37
+*** Operation finished Thu Aug 08 18:57:13 2019
+
+*** Numbering (Batman): Thu Aug 08 18:57:18 2019
+  Modified numbering for selected series
+  Compare modified to old parts
+  Compare new to old parts
+  Re-use old numbers
+  Holes considered
+  Part names ignored
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars ignored
+  Embeds ignored
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 377 parts.
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 37 assemblies or assembly families
+Assembly guid: ID9550827E-EB96-4EF8-A148-4254FDE99671  series:Ğ/1  Ğ/37 -> Ğ/37
+Assembly numbering done in 0s
+Numbering 37 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Thu Aug 08 18:57:19 2019
