@@ -1,0 +1,11 @@
+page("TeklaStructures","")
+{
+   joint(1, "mc_ферма-связь на уголок")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+           parameter("100/160", "P1", YesNo, number, 1)
+           parameter("D29.ПЛАСТИНА.Крайняя верхняя плоскость", "D29", distance, number, 2)
+       }
+   }
+}
