@@ -1,7 +1,6 @@
-Id           | Object type | Inconsistency                            | Type
--------------------------------------------------------------------------------------------------
-Id: 72455984 | Assembly    | Missing or invalid assembly main object  | Recoverable -> corrected
-23 not used attributes deleted
-2555 unnecessary points deleted
--------------------------------------------------------------------------------------------------
-Total 1 inconsistencies
+Id     | Object type | Inconsistency | Type
+--------------------------------------------
+84 not used attributes deleted
+328 unnecessary points deleted
+--------------------------------------------
+Total 0 inconsistencies
