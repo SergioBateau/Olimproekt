@@ -1,0 +1,9 @@
+page("TeklaStructures","")
+{
+   joint(1, "mc_ֳׁ3-ֳׁ2")
+   {
+       tab_page("", " ֿאנאלוענû 1 ", 1)
+       {
+       }
+   }
+}

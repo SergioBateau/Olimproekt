@@ -1,0 +1,5 @@
+ASSERT: 10.08.2019 12:47:53 REASON: (!LicenseInfo.empty()), File: tpl_project.cpp, Line: 24
+ERROR:  10.08.2019 16:41:33 Timeid 134721696 mapping failed (UpdateViewIdsAfterCompactingCB)
+ASSERT: 10.08.2019 16:41:33 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  10.08.2019 16:41:33 Timeid 134721696 mapping failed (UpdateDbfastCache/pGlWorldRow->pTblWindow)
+ASSERT: 10.08.2019 16:41:33 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159

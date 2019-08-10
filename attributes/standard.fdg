@@ -1,0 +1,17 @@
+encoding 1251
+in_file "standard"
+out_file "standard"
+linetype 1
+color 152
+linetype_en 1
+color_en 1
+identifier ".\dwg\Uzlu.dwg"
+extra_info ""
+scale_x 0.500000
+scale_y 0.500000
+scaling_type 3
+identifier_en 1
+extra_info_en 1
+scale_x_en 1
+scale_y_en 1
+scaling_type_en 1
