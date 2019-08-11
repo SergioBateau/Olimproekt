@@ -3,3 +3,33 @@ ERROR:  10.08.2019 16:41:33 Timeid 134721696 mapping failed (UpdateViewIdsAfterC
 ASSERT: 10.08.2019 16:41:33 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
 ERROR:  10.08.2019 16:41:33 Timeid 134721696 mapping failed (UpdateDbfastCache/pGlWorldRow->pTblWindow)
 ASSERT: 10.08.2019 16:41:33 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  10.08.2019 16:49:50 gr_delete_view: assertion failed: view_row.world == view_num, (-133165073 and 5)
+ASSERT: 10.08.2019 16:49:50 REASON: (!"view_row.world != view_num"), File: application_view.cpp, Line: 1533
+ERROR:  10.08.2019 18:17:45 Timeid 135049668 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 10.08.2019 18:17:45 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  10.08.2019 23:01:03 Could not find UI name for plugin named Балка
+ERROR:  10.08.2019 23:01:04 Could not find UI name for plugin named Балка
+ERROR:  10.08.2019 23:01:05 Could not find UI name for plugin named Балка
+ASSERT: 10.08.2019 23:50:13 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ASSERT: 11.08.2019 00:10:45 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ASSERT: 11.08.2019 00:12:27 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ERROR:  11.08.2019 10:34:10 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 10:34:10 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 10:34:10 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 10:34:10 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 10:37:10 Timeid 142047184 mapping failed (UpdateViewIdsAfterCompactingCB)
+ASSERT: 11.08.2019 10:37:10 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  11.08.2019 10:37:10 Timeid 142009549 mapping failed (UpdateViewIdsAfterCompactingCB)
+ASSERT: 11.08.2019 10:37:10 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  11.08.2019 10:37:10 Timeid 142009549 mapping failed (UpdateDbfastCache/pGlWorldRow->pTblWindow)
+ASSERT: 11.08.2019 10:37:10 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  11.08.2019 10:37:10 Timeid 142047184 mapping failed (UpdateDbfastCache/pGlWorldRow->pTblWindow)
+ASSERT: 11.08.2019 10:37:10 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  11.08.2019 10:37:10 Timeid 141610342 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 11.08.2019 10:37:10 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  11.08.2019 10:37:10 Timeid 141610656 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 11.08.2019 10:37:10 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  11.08.2019 10:37:10 Timeid 142009549 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 11.08.2019 10:37:10 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  11.08.2019 10:37:10 Timeid 142047184 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 11.08.2019 10:37:10 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159

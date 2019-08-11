@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PdfPrintOptions Version="1.2">
   <Options>
-    <PrintTarget>Printer</PrintTarget>
-    <PrinterName>\\a-print\RUS_CL1</PrinterName>
-    <PDFAndPlotFileLocation>.\Plotfiles</PDFAndPlotFileLocation>
+    <PrintTarget>PDF</PrintTarget>
+    <PrinterName>Adobe PDF</PrinterName>
+    <PDFAndPlotFileLocation>C:\PDF</PDFAndPlotFileLocation>
     <EmbedFonts>true</EmbedFonts>
     <OpenFolderWhenFinished>false</OpenFolderWhenFinished>
     <OpenFileWhenFinished>false</OpenFileWhenFinished>
@@ -14,12 +14,12 @@
     <PlotFileSuffix />
     <ScalingMethod>Scale</ScalingMethod>
     <ScaleFactor>1</ScaleFactor>
-    <CenterDrawingOnPaper>false</CenterDrawingOnPaper>
+    <CenterDrawingOnPaper>true</CenterDrawingOnPaper>
     <PrintOnMultipleSheets>false</PrintOnMultipleSheets>
     <MultipleSheetOrder>LeftToRightTopToBottom</MultipleSheetOrder>
     <PaperSize>Auto</PaperSize>
-    <Orientation>Portrait</Orientation>
-    <ColorMode>Color</ColorMode>
+    <Orientation>Auto</Orientation>
+    <ColorMode>BlackAndWhite</ColorMode>
     <NumberOfCopies>1</NumberOfCopies>
     <Collate>false</Collate>
     <LineThicknesses>

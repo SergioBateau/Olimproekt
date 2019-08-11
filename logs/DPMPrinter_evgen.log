@@ -43,3 +43,12 @@
 09.08.2019 22:44:22:ParsePropertyFile:Parsing: C:\Program Files\Tekla Structures\2017\\nt\bin\..\TplEd\settings\contentattributes_global.lst
 09.08.2019 22:44:22:ParsePropertyFile:Parsing: C:\ProgramData\Tekla Structures\2017\\environments\russia\template\settings\contentattributes_userdefined.lst
 09.08.2019 22:44:24:Main:DPMPrinter ended -------------------------------------------------
+11.08.2019 10:20:40:Main:DPMPrinter started ------------------------------------------------- C:\Program Files\Tekla Structures\2017\nt\bin\applications\tekla\model\DPMPrinter\DPMPrinterCommand.exe
+11.08.2019 10:20:40:Main:DllDirectory = 'C:\Program Files\Tekla Structures\2017\\nt\bin\'
+11.08.2019 10:20:40:Main:Path = 'C:\Program Files\Tekla Structures\2017\\nt\bin\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Autodesk Shared\Advance Steel\;C:\Users\evgen\AppData\Local\Microsoft\WindowsApps;'
+11.08.2019 10:20:40:Main:Is64BitOS = True
+11.08.2019 10:20:40:Main:Is64BitProcess = True
+11.08.2019 10:20:47:.ctor:Content attributes searchPaths: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК), \\25.98.58.137\TeklaStructuresModels\TEKLA_PROJECT, \\25.98.58.137\TeklaStructuresModels\TEKLA, C:\ProgramData\Tekla Structures\2017\\environments\russia\template\settings\, settings, C:\Program Files\Tekla Structures\2017\\nt\bin\..\TplEd\settings
+11.08.2019 10:20:47:ParsePropertyFile:Parsing: C:\Program Files\Tekla Structures\2017\\nt\bin\..\TplEd\settings\contentattributes_global.lst
+11.08.2019 10:20:47:ParsePropertyFile:Parsing: C:\ProgramData\Tekla Structures\2017\\environments\russia\template\settings\contentattributes_userdefined.lst
+11.08.2019 10:21:25:Main:DPMPrinter ended -------------------------------------------------

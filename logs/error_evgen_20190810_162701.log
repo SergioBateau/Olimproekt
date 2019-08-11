@@ -1,2 +1,592 @@
 ASSERT: 10.08.2019 16:36:37 REASON: (0), File: int_drawing_view.cpp, Line: 148
 ASSERT: 10.08.2019 16:36:37 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 16:49:18 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 10.08.2019 16:49:18 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidERROR:  10.08.2019 17:01:05 Can not create solidASSERT: 10.08.2019 17:03:48 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 10.08.2019 17:03:48 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 10.08.2019 17:03:48 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 10.08.2019 17:03:48 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 10.08.2019 17:03:48 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 10.08.2019 17:03:48 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 10.08.2019 17:03:48 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 10.08.2019 17:03:48 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 10.08.2019 17:03:48 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 10.08.2019 17:03:48 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 18:59:58 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:03 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:08 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:08 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:08 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:08 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:08 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:08 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:00:08 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:04:51 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 19:40:23 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ERROR:  10.08.2019 20:13:39 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\dwg\Uzlu.dwg
+ASSERT: 10.08.2019 20:13:39 REASON: (!Size.IsEmpty()), File: gr_foreign_object.cpp, Line: 187
+ASSERT: 10.08.2019 20:13:39 REASON: (false), File: dr_object_factory.cpp, Line: 145
+ERROR:  10.08.2019 20:13:49 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\dwg\Uzlu.dwg
+ASSERT: 10.08.2019 20:13:49 REASON: (!Size.IsEmpty()), File: gr_foreign_object.cpp, Line: 187
+ASSERT: 10.08.2019 20:13:50 REASON: (false), File: dr_object_factory.cpp, Line: 145
+ERROR:  10.08.2019 20:14:23 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:14:23 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:14:23 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:14:41 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:14:41 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:14:50 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:14:50 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:14:51 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:14:51 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:18:43 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:18:43 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:18:43 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:38:14 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:38:14 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:38:14 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:38:14 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:11 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:11 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:11 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:11 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:52 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:52 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:52 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:52 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:53 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:53 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:53 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:53 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:53 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:53 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:53 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:53 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:56 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:56 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:56 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:56 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:56 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 20:41:57 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:57 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 20:41:57 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:17:45 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:17:45 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:17:45 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:17:45 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:20:19 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:20:19 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:20:19 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:20:19 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:20:20 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:20:21 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:20:21 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:20:21 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:30:59 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:30:59 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:30:59 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:30:59 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:30:59 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:31:34 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:34 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:39 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:39 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:40 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:40 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:40 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:40 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:43 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:31:43 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:32:16 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ASSERT: 10.08.2019 21:32:16 REASON: (!Size.IsEmpty()), File: gr_foreign_object.cpp, Line: 187
+ERROR:  10.08.2019 21:32:16 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:32:16 DWGImport couldn't open file: \\25.98.58.137\TeklaStructuresModels\Олимпроект\Олимпроект(ФОК)\attributes\
+ERROR:  10.08.2019 21:33:16 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:33:16 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:33:16 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:33:16 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:33:16 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:33:20 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:33:20 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:33:20 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:33:21 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:33:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:33:22 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:33:22 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:33:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:44:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:44:03 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:44:03 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:44:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:46:05 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:46:05 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:46:05 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:46:05 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:46:25 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:46:25 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:46:25 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:46:25 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:48:28 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:48:28 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:48:28 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:48:28 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:48:28 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:48:33 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:48:33 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:48:33 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:48:33 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:48:36 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:48:36 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:48:36 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:48:36 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:49:47 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:49:47 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:49:47 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:49:47 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:50:24 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:50:24 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:50:24 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:50:24 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:50:26 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:50:26 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:50:26 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:50:26 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ASSERT: 10.08.2019 21:52:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 21:52:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 21:52:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 21:52:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 21:52:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 21:52:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 21:52:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 10.08.2019 21:52:01 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ERROR:  10.08.2019 21:52:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:52:22 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:52:22 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:52:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:53:35 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 21:53:35 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:53:35 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 21:53:35 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:10:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:10:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:10:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:10:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:11:26 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:11:26 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:11:26 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:11:26 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:12:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:12:03 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:12:03 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:12:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:16:10 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:16:10 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:16:10 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:16:10 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:23:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:23:03 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:23:03 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:23:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:23:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:23:04 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:23:04 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:23:04 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:26:21 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:26:21 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:26:21 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:26:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:27:54 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:27:54 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:27:54 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:27:54 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:33:08 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:33:09 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:33:09 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:33:09 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:36:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:36:18 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:36:18 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:36:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:41:28 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:41:28 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:41:28 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:41:28 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:41:51 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:41:51 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:41:51 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:41:51 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:42:32 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:42:32 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:42:33 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:42:33 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:43:07 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:43:07 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:43:07 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:43:07 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:43:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:43:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:43:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:43:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:45:13 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:45:13 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:45:13 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:45:13 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:47:50 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:47:50 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:47:50 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:47:50 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ASSERT: 10.08.2019 22:48:44 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 10.08.2019 22:48:44 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 10.08.2019 22:48:44 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 10.08.2019 22:48:45 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ERROR:  10.08.2019 22:50:40 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:50:40 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:50:40 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:50:40 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:50:43 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 22:50:43 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:50:43 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 22:50:43 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:30:35 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:30:35 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:30:35 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:30:35 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:31:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:31:18 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:31:18 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:31:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:32:16 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:32:16 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:32:16 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:32:16 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:32:54 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:32:54 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:32:54 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:32:54 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:34:14 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:34:14 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:34:14 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:34:14 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:35:01 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:35:01 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:35:01 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:35:01 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:35:33 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:35:33 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:35:33 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:35:33 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:39:00 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:39:00 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:39:00 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:39:00 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:39:28 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:39:28 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:39:28 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:39:28 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:39:29 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:39:29 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:39:29 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:39:29 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:39:58 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:39:59 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:39:59 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:39:59 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:40:01 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:40:01 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:40:01 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:40:01 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:42:12 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:42:12 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:42:12 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:42:12 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:53:42 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:53:42 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:53:42 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:53:42 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:53:42 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:53:42 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:53:42 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:53:42 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:53:43 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:53:44 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:53:44 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:53:44 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:53:44 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  10.08.2019 23:53:44 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:53:44 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  10.08.2019 23:53:44 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:07:08 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:07:08 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:07:08 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:07:08 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:07:53 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:07:53 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:07:53 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:07:53 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:08:09 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:08:10 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:08:10 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:08:10 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:08:27 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:08:27 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:08:27 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:08:27 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:08:33 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:08:34 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:08:34 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:08:34 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:08:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:08:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:08:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:08:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:09:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:09:03 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:09:03 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:09:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:11:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:11:22 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:11:22 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:11:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ASSERT: 11.08.2019 00:12:47 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 11.08.2019 00:12:47 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ERROR:  11.08.2019 00:17:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:17:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:17:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:17:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:19:29 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:19:29 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:19:29 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:19:29 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ASSERT: 11.08.2019 00:29:48 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 11.08.2019 00:29:48 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ERROR:  11.08.2019 00:36:06 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:36:06 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:36:06 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:36:06 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:37:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:37:22 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:37:22 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:37:22 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ASSERT: 11.08.2019 00:37:28 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 11.08.2019 00:37:28 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 11.08.2019 00:37:28 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 11.08.2019 00:37:28 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ERROR:  11.08.2019 00:39:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 00:39:18 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:39:18 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 00:39:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ASSERT: 11.08.2019 00:40:14 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 11.08.2019 00:40:14 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ERROR:  11.08.2019 01:17:59 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:17:59 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:17:59 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:17:59 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:19:36 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:19:36 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:19:36 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:19:36 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:20:31 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:20:31 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:20:31 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:20:31 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:21:35 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:21:35 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:21:35 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:21:35 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:22:13 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:22:13 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:22:13 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:22:13 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:23:00 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:23:00 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:23:00 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:23:00 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:23:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:23:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:23:49 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:23:49 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:24:37 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:24:37 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:24:37 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:24:37 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:25:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:25:18 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:25:18 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:25:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:26:03 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:26:04 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:26:04 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:26:04 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:26:55 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:26:55 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:26:55 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:26:55 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:27:46 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:27:46 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:27:46 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  11.08.2019 01:27:46 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  11.08.2019 01:28:35 Unable to match the defined hatch name with any of the available hatches.
+ERROR:  11.08.2019 01:28:35 Hatch schema file parsing failed with definition MISCELLANEOUS,Стекло,Стекло,0.1,3,1.
+ERROR:  11.08.2019 01:28:35 Unable to match the defined hatch name with any of the available hatches.
+ERROR:  11.08.2019 01:28:35 Hatch schema file parsing failed with definition MISCELLANEOUS,Песок,Песок,0.5,3,1.
+ERROR:  11.08.2019 01:28:35 Unable to match the defined hatch name with any of the available hatches.
+ERROR:  11.08.2019 01:28:35 Hatch schema file parsing failed with definition MISCELLANEOUS,Щебень,Щебень,0.5,3,1.
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:35 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:36 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
+ERROR:  11.08.2019 01:28:37 current planes out of sync
