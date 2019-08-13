@@ -4,6 +4,8 @@ page("TeklaStructures","")
    {
        tab_page("", " ѕараметры 1 ", 1)
        {
+           parameter("срез", "P1", YesNo, number, 1)
+           parameter("D32.Ћист. райн€€ нижн€€ плоскость", "D32", distance, number, 2)
        }
    }
 }
