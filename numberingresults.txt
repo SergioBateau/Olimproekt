@@ -1,6 +1,6 @@
 
-*** Numbering (Batman): Wed Aug 14 03:21:48 2019
-  Diagnose & Repair Numbering: All
+*** Numbering (Batman): Wed Aug 14 20:47:15 2019
+  Modified numbering for selected series
   Compare modified to old parts
   Compare new to old parts
   Re-use old numbers
@@ -19,11 +19,11 @@
   ConcreteTolerance: 2.000000
   RebarTolerance: 2.000000
   WeldSeamPropertyTolerance: 0.000000
-Numbering 8537 parts.
-Part numbering done in 2s
+Numbering 1309 parts.
+Part numbering done in 0s
 Numbering 0 reinforcing bars
 Reinforcing bar numbering done in 0s
-Numbering 2066 assemblies or assembly families
+Numbering 89 assemblies or assembly families
 Assembly numbering done in 0s
-Numbering 2066 assemblies or assembly families
+Numbering 89 assemblies or assembly families
 Family numbering done in 0s

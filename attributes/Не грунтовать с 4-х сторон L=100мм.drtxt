@@ -1,7 +1,7 @@
 encoding 1251
-in_file "Т1 ГОСТ14771-76-8"
-out_file "Т1 ГОСТ14771-76-8"
-text_io "Т1 ГОСТ14771-76-8"
+in_file "Не грунтовать с 4-х сторон"
+out_file "Не грунтовать с 4-х сторон L=100мм"
+text_io "Не грунтовать с 4-х сторон L=100мм"
 font_name "GOST type A"
 type 0
 text_type 1

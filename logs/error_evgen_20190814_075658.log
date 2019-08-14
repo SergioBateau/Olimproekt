@@ -1,0 +1,191 @@
+ASSERT: 14.08.2019 09:02:55 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 14.08.2019 09:02:55 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ERROR:  14.08.2019 09:11:58 Timeid 275336902 mapping failed (SolidCache_ci::UpdateCacheIdsAfterCompacting - dbf)
+ASSERT: 14.08.2019 09:11:58 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  14.08.2019 09:12:55 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:12:55 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:12:55 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:12:55 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:14:01 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:14:01 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:14:01 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:14:01 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:14:09 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:14:09 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:14:09 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:14:09 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:14:24 DWGImport encountered errors while importing file: .\dwg\Uzlu2.dwg
+ERROR:  14.08.2019 09:14:24 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:14:24 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:14:24 DWGImport encountered errors while importing file: .\dwg\Uzlu2.dwg
+ERROR:  14.08.2019 09:14:30 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:14:30 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:14:30 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:14:30 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:15:43 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:15:44 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:15:44 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:15:44 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:19:54 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:19:54 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:19:54 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:19:54 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:20:18 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:20:19 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:20:19 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:20:19 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:24:39 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:24:39 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:24:39 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:24:39 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:25:42 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:25:42 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:25:42 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:25:42 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:29:13 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ERROR:  14.08.2019 09:29:13 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:29:13 Font missing: Using 'Segoe UI semibold' for '2'
+ERROR:  14.08.2019 09:29:13 DWGImport encountered errors while importing file: .\dwg\Uzlu.dwg
+ASSERT: 14.08.2019 09:34:22 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 14.08.2019 09:34:22 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 14.08.2019 09:36:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 09:36:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 09:36:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 09:36:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 09:36:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 09:36:09 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 10:25:37 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 14.08.2019 10:25:37 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 14.08.2019 10:31:32 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 14.08.2019 10:31:32 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 14.08.2019 11:31:06 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:06 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:06 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:06 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:31:07 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:32:22 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 11:48:31 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 14.08.2019 11:48:31 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 14.08.2019 15:01:49 REASON: ("Incorrect world" && 0), File: gr_dotnet.cpp, Line: 239
+ASSERT: 14.08.2019 15:01:49 REASON: (!"UNKNOWN TYPE ENCOUNTERED IN ConvertViewTypeFromCore"), File: gr_dotnet_view.cpp, Line: 105
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 15:25:12 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ERROR:  14.08.2019 17:16:40 Timeid 289144403 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 14.08.2019 17:16:40 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  14.08.2019 17:16:40 Timeid 289246273 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 14.08.2019 17:16:40 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  14.08.2019 17:16:40 Timeid 289246301 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 14.08.2019 17:16:40 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  14.08.2019 17:16:41 Timeid 289246318 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 14.08.2019 17:16:41 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148
+ASSERT: 14.08.2019 17:18:24 REASON: (0), File: int_drawing_view.cpp, Line: 148

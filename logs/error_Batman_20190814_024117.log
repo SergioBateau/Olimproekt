@@ -1,0 +1,57 @@
+ASSERT: 14.08.2019 02:42:09 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ERROR:  14.08.2019 02:44:07 Could not find UI name for plugin named Косыночное соединение труб
+ERROR:  14.08.2019 02:44:07 Could not find UI name for plugin named Косыночное соединение труб
+ERROR:  14.08.2019 02:44:07 Could not find UI name for plugin named Косыночное соединение труб
+ERROR:  14.08.2019 02:44:07 Could not find UI name for plugin named Косыночное соединение труб
+ERROR:  14.08.2019 02:44:07 Could not find UI name for plugin named Косыночное соединение труб
+ERROR:  14.08.2019 02:44:07 Could not find UI name for plugin named Косыночное соединение труб
+ASSERT: 14.08.2019 02:44:48 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ASSERT: 14.08.2019 02:44:58 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ASSERT: 14.08.2019 02:47:13 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ASSERT: 14.08.2019 02:48:08 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 107
+ERROR:  14.08.2019 18:16:54 Timeid 275879622 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 14.08.2019 18:16:54 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  14.08.2019 18:16:54 Timeid 275880840 mapping failed (selUpdateViewFilterMapIdsAfterCompactingCB)
+ASSERT: 14.08.2019 18:16:54 REASON: (!"Timeid mapping from old to new failed, please check the log and report the details"), File: db_domain_and_events.cpp, Line: 159
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ERROR:  14.08.2019 19:24:12 current planes out of sync
+ASSERT: 14.08.2019 19:31:31 REASON: (!"Model selection called when in drawing mode"), File: sel_select_objects.cpp, Line: 413
+ASSERT: 14.08.2019 19:31:33 REASON: (!LicenseInfo.empty()), File: tpl_project.cpp, Line: 24
