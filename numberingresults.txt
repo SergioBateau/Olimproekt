@@ -1,5 +1,5 @@
 
-*** Numbering (Batman): Wed Aug 14 20:47:15 2019
+*** Numbering (Batman): Thu Aug 15 00:52:28 2019
   Modified numbering for selected series
   Compare modified to old parts
   Compare new to old parts
@@ -19,11 +19,13 @@
   ConcreteTolerance: 2.000000
   RebarTolerance: 2.000000
   WeldSeamPropertyTolerance: 0.000000
-Numbering 1309 parts.
+Numbering 1320 parts.
+Part    guid: ID547A10B6-A0C7-4166-A680-2A6F93654185  series:/1  /435 -> /271
 Part numbering done in 0s
 Numbering 0 reinforcing bars
 Reinforcing bar numbering done in 0s
-Numbering 89 assemblies or assembly families
+Numbering 90 assemblies or assembly families
+Assembly guid: IDB5E418F6-CDEC-4C61-94A7-427EA937B402  series:ÑÃ/1  ÑÃ/85 -> ÑÃ/57
 Assembly numbering done in 0s
-Numbering 89 assemblies or assembly families
+Numbering 90 assemblies or assembly families
 Family numbering done in 0s

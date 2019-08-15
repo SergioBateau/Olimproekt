@@ -2,7 +2,7 @@
 <PdfPrintOptions Version="1.2">
   <Options>
     <PrintTarget>Printer</PrintTarget>
-    <PrinterName>\\a-print\RUS_CL1</PrinterName>
+    <PrinterName>Adobe PDF</PrinterName>
     <PDFAndPlotFileLocation>.\Plotfiles</PDFAndPlotFileLocation>
     <EmbedFonts>true</EmbedFonts>
     <OpenFolderWhenFinished>false</OpenFolderWhenFinished>
@@ -18,8 +18,8 @@
     <PrintOnMultipleSheets>false</PrintOnMultipleSheets>
     <MultipleSheetOrder>LeftToRightTopToBottom</MultipleSheetOrder>
     <PaperSize>Auto</PaperSize>
-    <Orientation>Portrait</Orientation>
-    <ColorMode>Color</ColorMode>
+    <Orientation>Auto</Orientation>
+    <ColorMode>BlackAndWhite</ColorMode>
     <NumberOfCopies>1</NumberOfCopies>
     <Collate>false</Collate>
     <LineThicknesses>
