@@ -1,5 +1,5 @@
 
-*** Numbering (Batman): Thu Aug 15 19:03:09 2019
+*** Numbering (Batman): Sat Aug 17 13:46:09 2019
   Modified numbering for selected series
   Compare modified to old parts
   Compare new to old parts
@@ -19,12 +19,20 @@
   ConcreteTolerance: 2.000000
   RebarTolerance: 2.000000
   WeldSeamPropertyTolerance: 0.000000
-Numbering 583 parts.
+Numbering 1309 parts.
 Part numbering done in 0s
 Numbering 0 reinforcing bars
 Reinforcing bar numbering done in 0s
-Numbering 117 assemblies or assembly families
-Assembly guid: IDEA91A394-32D6-4EAF-A429-3FE8F0F0727B  series:Ì/1  Ì/0 -> Ì/113
+Numbering 89 assemblies or assembly families
+Assembly guid: IDA8688DAD-F4BB-4297-B898-4D9BB0C832D1  series:ÑÃ/1  ÑÃ/85 -> ÑÃ/85
+Assembly guid: ID88C0A444-4E5B-4724-BE49-2EDBE8DC83A6  series:ÑÃ/1  ÑÃ/80 -> ÑÃ/80
+Assembly guid: IDE4DB85DE-4D74-4713-A019-8BB48AFF67EF  series:ÑÃ/1  ÑÃ/79 -> ÑÃ/79
+Assembly guid: ID8DEC1E3B-BFC0-4A35-B697-005F3C1011E0  series:ÑÃ/1  ÑÃ/73 -> ÑÃ/73
+Assembly guid: IDA0B207A5-0D39-4B9D-9F3F-6A586DA09F03  series:ÑÃ/1  ÑÃ/73 -> ÑÃ/73
+Assembly guid: ID0D5AAFE6-9750-4E5A-97C6-F0263563E5F2  series:ÑÃ/1  ÑÃ/60 -> ÑÃ/60
+Assembly guid: ID3564B3FD-553C-47A3-A86F-B5A83582FE0B  series:ÑÃ/1  ÑÃ/55 -> ÑÃ/55
+Assembly guid: ID2B627AC1-832D-4D35-BBB1-04A4B1E8766F  series:ÑÃ/1  ÑÃ/54 -> ÑÃ/54
+Assembly guid: ID445C6525-EFB0-4D7A-838C-03E486C59F28  series:ÑÃ/1  ÑÃ/44 -> ÑÃ/44
 Assembly numbering done in 0s
-Numbering 117 assemblies or assembly families
+Numbering 89 assemblies or assembly families
 Family numbering done in 0s

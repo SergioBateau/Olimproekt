@@ -1,0 +1,9 @@
+page("TeklaStructures","")
+{
+   joint(1, "mc_ферма-с2")
+   {
+       tab_page("", " Параметры 1 ", 1)
+       {
+       }
+   }
+}
